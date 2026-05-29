@@ -6633,6 +6633,736 @@
       "module": "week-2",
       "chapter": "Ch6",
       "source": "Astronomy 2e (OpenStax), Ch. 6 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q001",
+      "type": "sa",
+      "text": "Venus rotates backward and Uranus and Pluto spin on axes tipped nearly on their sides. What might cause these strange rotations?",
+      "answer": "The leading explanation is giant impacts late in the planets' formation: collisions with large planetesimals could knock a world's spin axis sideways or even reverse it. Venus's slow backward spin may also have been influenced over time by its massive atmosphere and tidal effects. In short, chance late collisions left these worlds with anomalous rotations compared with the orderly prograde spins of most planets.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q002",
+      "type": "sa",
+      "text": "What is the difference between a differentiated and an undifferentiated body, and how might that influence its ability to retain heat?",
+      "answer": "A differentiated body has melted at some point so that dense material (metal) sank to form a core while lighter rock rose, producing a layered interior; an undifferentiated body never fully melted and has a more uniform mix. Differentiation indicates the body was once hot, and larger differentiated bodies retain interior heat far longer because they have more volume relative to surface area, slowing heat loss over the age of the solar system.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q003",
+      "type": "sa",
+      "text": "What does a planet need in order to retain an atmosphere? How does an atmosphere affect the surface and the possibility of life?",
+      "answer": "Holding an atmosphere requires sufficient gravity (enough mass) and a low enough temperature that gas molecules move slower than the escape velocity; a magnetic field also helps shield the air from being stripped by the solar wind. An atmosphere moderates surface temperature (greenhouse warming), enables weather and erosion, shields the surface from radiation and small impactors, and can allow liquids to exist, all of which bear on a world's habitability.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q004",
+      "type": "sa",
+      "text": "What is comparative planetology and why is it useful to astronomers?",
+      "answer": "Comparative planetology studies the planets by comparing their similarities and differences rather than examining each in isolation. It is useful because it reveals the general processes that shape all worlds (impacts, volcanism, atmospheres, tectonics) and lets insights from one planet, including Earth, illuminate the others.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q005",
+      "type": "sa",
+      "text": "What changed in our understanding of the Moon and the Moon-Earth system as a result of humans landing on the Moon?",
+      "answer": "Returned Apollo samples let scientists radiometrically date lunar surfaces, establish the Moon's composition (similar to Earth's mantle, depleted in iron and volatiles), and confirm the maria are ancient lava flows. This evidence supported the giant impact hypothesis for the Moon's origin and refined the timeline of early solar-system bombardment.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q006",
+      "type": "sa",
+      "text": "If Earth were hit by an extraterrestrial object, where in the solar system could it come from and how would we know its source region?",
+      "answer": "It would most likely be an asteroid (from the asteroid belt) or a comet (from the Kuiper Belt or Oort cloud), or a fragment knocked off the Moon or Mars. We identify the source by tracking the object's orbit before impact and by analyzing the chemistry, mineralogy, and isotopes of recovered meteorites, which can be matched to asteroids, the Moon, or Mars.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q007",
+      "type": "sa",
+      "text": "What characteristics do the worlds in our solar system share that lead astronomers to believe they all formed from the same solar nebula?",
+      "answer": "The planets orbit the Sun in the same direction, in nearly the same plane, and (mostly) rotate in that same direction; their orbits are roughly circular and evenly spaced; and the whole system shares a common age of about 4.6 billion years. This orderly, shared geometry and age point to formation from a single rotating cloud of gas and dust.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q008",
+      "type": "sa",
+      "text": "How do terrestrial and giant planets differ? List as many ways as you can.",
+      "answer": "Terrestrial planets are small, dense, and rocky with solid surfaces, thin or no atmospheres, few or no moons, no rings, and are located in the inner solar system. Giant planets are large, low-density, and gas/ice-rich with no solid surface, thick deep atmospheres, many moons, ring systems, strong magnetic fields, fast rotation, and are located in the outer solar system.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q009",
+      "type": "sa",
+      "text": "Why are there so many craters on the Moon and so few on Earth?",
+      "answer": "Both worlds were heavily cratered early on, but Earth's craters have been erased by active geology, plate tectonics, volcanism, and especially erosion by wind and water, plus burial by sediment. The airless, geologically quiet Moon has none of these processes, so its craters survive for billions of years.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q010",
+      "type": "sa",
+      "text": "How and why is Earth's Moon different from the larger moons of the giant planets?",
+      "answer": "Earth's Moon is rocky, dry, and depleted in iron and volatiles, consistent with a giant-impact origin from Earth's mantle. The large moons of the giant planets formed in the cold outer solar system and contain large amounts of ice along with rock, and several show ice-driven activity (cryovolcanism, subsurface oceans) rather than the Moon's purely rocky character.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q011",
+      "type": "sa",
+      "text": "Where would you find the 'original' planetesimals left over from the formation of our solar system?",
+      "answer": "The best-preserved leftover planetesimals are the asteroids in the asteroid belt and the icy bodies of the Kuiper Belt and Oort cloud. Because these regions never assembled into a planet (or stayed cold and undisturbed), they retain primitive material from the solar system's birth.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q012",
+      "type": "sa",
+      "text": "How do we use radioactive elements and their decay products to find the age of a rock sample? Is this necessarily the age of the whole world it came from?",
+      "answer": "Radioactive isotopes decay at known, constant rates, so the measured ratio of a parent isotope to its decay product gives the time since the rock last solidified (radiometric dating). This dates that particular rock's solidification, not necessarily the entire world: a young lava flow gives a young age even on an ancient planet, so the oldest rocks set a minimum age for the body.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q013",
+      "type": "sa",
+      "text": "What was the solar nebula like, and why did the Sun form at its center?",
+      "answer": "The solar nebula was a large, rotating, flattened disk of gas and dust that contracted under gravity about 4.6 billion years ago. Material concentrated and grew densest and hottest at the center, where gravity pulled the most mass together, so that is where the Sun formed; the leftover disk gave rise to the planets.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q014",
+      "type": "sa",
+      "text": "List several ways that Venus, Earth, and Mars are similar, and several ways they are different.",
+      "answer": "Similar: all three are terrestrial (rocky) planets of comparable region and origin, all have atmospheres, and all show evidence of volcanism. Different: Venus has a crushing CO2 atmosphere (~90x Earth) and a runaway greenhouse making it the hottest planet; Earth has a moderate nitrogen-oxygen atmosphere, liquid water, and life; Mars has a thin CO2 atmosphere (<1% of Earth's), is cold and dry today, but shows evidence of abundant past water.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q015",
+      "type": "sa",
+      "text": "Describe the current atmosphere on Mars. What evidence suggests it must have been different in the past?",
+      "answer": "Mars today has a very thin atmosphere, less than 1 percent of Earth's surface pressure, composed mostly of carbon dioxide, far too thin for stable liquid water. Dried river valleys, outflow channels, lakebed sediments, and water-formed minerals indicate the early atmosphere was thicker and warmer, allowing liquid water to flow on the surface before much of the air was lost to space.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q016",
+      "type": "sa",
+      "text": "What evidence do we have for running water on Mars in the past? What evidence is there for water emerging today?",
+      "answer": "Past running water is shown by branching valley networks, large outflow channels, deltas and lakebed deposits, and minerals such as clays and hematite that form in water. Present-day water is indicated by subsurface ice detected by spacecraft, seasonal dark streaks (recurring slope lineae) on slopes, and gullies that suggest occasional brief flows or briny seeps.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q017",
+      "type": "sa",
+      "text": "Why is Mars red?",
+      "answer": "Its surface is covered with dust rich in iron oxides, essentially rust, formed when iron-bearing minerals reacted with oxygen and water long ago. This reddish dust coats the surface and is spread globally by wind, giving the planet its color.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q018",
+      "type": "sa",
+      "text": "What are the main challenges involved in sending probes to the giant planets?",
+      "answer": "The giant planets are extremely far away, so missions take many years and require precise navigation, often using gravity-assist flybys. Sunlight is faint there, so probes usually rely on nuclear power rather than solar panels, and they must endure long cold cruises, intense radiation (especially at Jupiter), and long communication delays.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q019",
+      "type": "sa",
+      "text": "Why is visual observation of the gas giants insufficient to determine their rotation periods, and what evidence was used instead?",
+      "answer": "Their visible features are cloud tops in fluid atmospheres that show differential rotation, spinning at different rates at different latitudes, so surface markings do not give a single true rotation period. Astronomers instead use the rotation of each planet's magnetic field, tracked through its periodic radio emissions, to find the rotation of the deep interior.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q020",
+      "type": "sa",
+      "text": "At the pressures in Jupiter's interior, what is the physical state of the hydrogen found there?",
+      "answer": "Under the enormous pressure deep inside Jupiter, hydrogen is squeezed into liquid metallic hydrogen, a form in which it conducts electricity like a metal. This conducting fluid, stirred by the planet's rapid rotation, generates Jupiter's powerful magnetic field.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q021",
+      "type": "sa",
+      "text": "What are the visible clouds on the four giant planets composed of, and why are they different from each other?",
+      "answer": "The clouds are made of substances that condense at each planet's temperature: ammonia ice high in the warmer Jupiter and Saturn, with deeper ammonium-hydrosulfide and water clouds below. The colder Uranus and Neptune form clouds of methane, which also absorbs red light and gives them their blue color. The differences arise mainly because the more distant planets are colder, so different gases condense at their cloud tops.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q022",
+      "type": "sa",
+      "text": "What are the main atmospheric heat sources of each of the giant planets?",
+      "answer": "All receive some heating from the Sun, but Jupiter, Saturn, and Neptune also radiate significant internal heat: Jupiter and Neptune mainly leftover heat from formation and slow contraction, and Saturn additional heat from helium settling toward its core. Uranus is the outlier, emitting little internal heat and relying mostly on weak sunlight, which may relate to its sideways tilt and history.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q023",
+      "type": "sa",
+      "text": "Why do the upper levels of Neptune's atmosphere appear blue?",
+      "answer": "Methane gas in Neptune's upper atmosphere absorbs red light from sunlight and scatters the remaining blue light back to us, so the planet looks blue. Neptune's especially deep blue likely comes from additional, not fully understood, atmospheric components beyond methane alone.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q024",
+      "type": "sa",
+      "text": "How do storms on Jupiter differ from storm systems on Earth?",
+      "answer": "Jupiter's storms, like the Great Red Spot, are enormous (larger than Earth) and extraordinarily long-lived, persisting for decades to centuries, because there is no solid surface to create friction and break them up. Earth's storms are far smaller and short-lived, weakening quickly once they move over land or cooler water.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q025",
+      "type": "sa",
+      "text": "What is the asteroid belt, and where is it located within the solar system?",
+      "answer": "The asteroid belt is a region containing most of the solar system's rocky and metallic asteroids. It lies between the orbits of Mars and Jupiter; Jupiter's strong gravity prevented the material there from ever assembling into a planet.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q026",
+      "type": "sa",
+      "text": "How do asteroids differ from comets in terms of composition, location, and behavior?",
+      "answer": "Asteroids are rocky and metallic, formed in the warmer inner solar system, and mostly orbit in the asteroid belt without tails. Comets are icy (ice, dust, and frozen gases), formed and stored in the cold outer reaches (Kuiper Belt and Oort cloud), and develop a glowing coma and tails when they approach the Sun and their ices vaporize.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q027",
+      "type": "sa",
+      "text": "How do dwarf planets like Pluto differ from the eight major planets?",
+      "answer": "Like the major planets, dwarf planets orbit the Sun and are round under their own gravity, but they have not cleared their orbital neighborhood of other bodies. Pluto, for example, shares the Kuiper Belt with many similar objects, so it fails the third part of the planet definition and is classified as a dwarf planet.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch7-sg-q028",
+      "type": "sa",
+      "text": "What is the Oort Cloud, and why is it significant in understanding the solar system's boundary?",
+      "answer": "The Oort cloud is a vast, roughly spherical reservoir of icy bodies surrounding the solar system far beyond the planets, and it is the source of long-period comets. It is significant because it marks the outer gravitational edge of the Sun's domain, extending perhaps a large fraction of the way to the nearest stars.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Astronomy 2e (OpenStax), Ch. 7 (study-guide objective)"
+    },
+    {
+      "id": "ch9-sg-q001",
+      "type": "sa",
+      "text": "What is the composition of the Moon, and how does it compare to that of Earth?",
+      "answer": "The Moon is made of rocky, silicate material similar to Earth's mantle, but it is dry and depleted in volatile substances and has only a very small iron core. Earth, by contrast, has a large iron-nickel core and abundant water and volatiles, a difference that supports the Moon forming from Earth's outer layers after a giant impact.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Astronomy 2e (OpenStax), Ch. 9 (study-guide objective)"
+    },
+    {
+      "id": "ch9-sg-q002",
+      "type": "sa",
+      "text": "Why does the Moon not have an atmosphere?",
+      "answer": "The Moon's gravity is too weak, and its daytime surface too warm, to hold onto gas molecules, which move fast enough to escape into space. With no replenishing source and no magnetic shield, any gases are quickly lost, leaving the Moon essentially airless.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Astronomy 2e (OpenStax), Ch. 9 (study-guide objective)"
+    },
+    {
+      "id": "ch9-sg-q003",
+      "type": "sa",
+      "text": "What are the principal features of the Moon observable with the unaided eye?",
+      "answer": "Even without a telescope you can see the dark, smooth plains called maria and the lighter, more rugged highlands. The contrast between these two terrains forms the familiar patterns (such as the 'man in the Moon') visible to the naked eye.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Astronomy 2e (OpenStax), Ch. 9 (study-guide objective)"
+    },
+    {
+      "id": "ch9-sg-q004",
+      "type": "sa",
+      "text": "Frozen water exists on the lunar surface primarily in which location, and why?",
+      "answer": "Ice is found mainly in permanently shadowed craters near the lunar poles. Because the Sun never reaches the floors of these craters, temperatures stay extremely low, allowing water ice delivered by comets and impacts to remain frozen for billions of years.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Astronomy 2e (OpenStax), Ch. 9 (study-guide objective)"
+    },
+    {
+      "id": "ch9-sg-q005",
+      "type": "sa",
+      "text": "Outline the main events in the Moon's geological history.",
+      "answer": "After forming from giant-impact debris, the Moon's outer layers melted into a magma ocean that solidified to form the highland crust. It then suffered heavy bombardment that created the large basins, which were later flooded by lava to form the dark maria. Since then the Moon has been geologically quiet, its surface slowly modified only by continued, smaller impacts.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Astronomy 2e (OpenStax), Ch. 9 (study-guide objective)"
+    },
+    {
+      "id": "ch9-sg-q006",
+      "type": "sa",
+      "text": "What are the maria composed of, and is this material found elsewhere in the solar system?",
+      "answer": "The maria are vast plains of solidified basalt, the same dark volcanic rock produced by lava flows. Basalt is common throughout the solar system, forming volcanic surfaces on Earth, Mars, Venus, and other bodies.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Astronomy 2e (OpenStax), Ch. 9 (study-guide objective)"
+    },
+    {
+      "id": "ch9-sg-q007",
+      "type": "sa",
+      "text": "The mountains on the Moon were formed by what process?",
+      "answer": "Unlike Earth's mountains, lunar mountains were not built by plate tectonics. They are largely the raised rims and ejecta of giant impact basins, thrown up and piled by the enormous collisions that cratered the Moon.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Astronomy 2e (OpenStax), Ch. 9 (study-guide objective)"
+    },
+    {
+      "id": "ch9-sg-q008",
+      "type": "sa",
+      "text": "With no wind or water erosion, what is the mechanism for the creation of lunar 'soil'?",
+      "answer": "Lunar soil (regolith) is produced by the continuous bombardment of the surface by meteoroids of all sizes, which pulverize the rock into fine, broken fragments and dust over billions of years.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Astronomy 2e (OpenStax), Ch. 9 (study-guide objective)"
+    },
+    {
+      "id": "ch9-sg-q009",
+      "type": "sa",
+      "text": "Explain how high-speed impacts form circular craters, and how this explains characteristic crater features.",
+      "answer": "An impactor hits so fast that its energy is released in an explosion that blasts material outward in all directions, producing a round crater regardless of the impact angle. This explains the typical features: a raised rim and surrounding ejecta blanket from thrown-out material, a bowl shape, and, for larger craters, central peaks formed as the floor rebounds.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Astronomy 2e (OpenStax), Ch. 9 (study-guide objective)"
+    },
+    {
+      "id": "ch9-sg-q010",
+      "type": "sa",
+      "text": "Explain the evidence for a period of heavy bombardment on the Moon about 4 billion years ago.",
+      "answer": "Radiometric dating of Apollo samples shows that many of the large impact basins formed within a relatively narrow span around 4 billion years ago. This clustering of ages is the evidence for an episode of especially intense impacts, often called the late heavy bombardment.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Astronomy 2e (OpenStax), Ch. 9 (study-guide objective)"
+    },
+    {
+      "id": "ch9-sg-q011",
+      "type": "sa",
+      "text": "Summarize the four main hypotheses for the origin of the Moon.",
+      "answer": "(1) Fission: the Moon spun off from a rapidly rotating early Earth. (2) Capture: the Moon formed elsewhere and was gravitationally captured. (3) Co-formation (sister): the Moon formed alongside Earth from the same material. (4) Giant impact: a Mars-sized body struck the young Earth and debris coalesced into the Moon, which is the hypothesis best supported by the evidence.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Astronomy 2e (OpenStax), Ch. 9 (study-guide objective)"
+    },
+    {
+      "id": "ch9-sg-q012",
+      "type": "sa",
+      "text": "What are the difficulties with the capture hypothesis of the Moon's origin?",
+      "answer": "Gravitationally capturing a body as large as the Moon into a stable orbit is dynamically very unlikely, because it requires shedding a great deal of energy at just the right moment. Capture also fails to explain why the Moon's composition so closely matches Earth's mantle, which it should not if it formed in a different part of the solar system.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Astronomy 2e (OpenStax), Ch. 9 (study-guide objective)"
+    },
+    {
+      "id": "ch14-sg-q001",
+      "type": "sa",
+      "text": "A friend who sees a meteor shower worries the stars in the Big Dipper might be the next to 'go.' How would you reassure her?",
+      "answer": "I would explain that 'shooting stars' are not stars at all but tiny bits of rock and dust, often debris shed by comets, burning up high in Earth's atmosphere just tens of kilometers overhead. The actual stars of the Big Dipper are light-years away and completely unaffected; what she saw is local atmospheric debris, not dying stars.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Astronomy 2e (OpenStax), Ch. 14 (study-guide objective)"
+    },
+    {
+      "id": "ch14-sg-q002",
+      "type": "sa",
+      "text": "In what ways are meteorites different from meteors? What is the probable origin of each?",
+      "answer": "A meteor is the brief streak of light produced when a particle burns up in the atmosphere, while a meteorite is the solid object that survives the fall and is found on the ground. Most meteors come from small cometary debris, whereas most meteorites are fragments of asteroids (a few come from the Moon or Mars).",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Astronomy 2e (OpenStax), Ch. 14 (study-guide objective)"
+    },
+    {
+      "id": "ch14-sg-q003",
+      "type": "sa",
+      "text": "How are comets related to meteor showers?",
+      "answer": "As a comet orbits the Sun, it sheds dust and small particles that spread along its orbital path. When Earth passes through one of these debris streams, the particles enter the atmosphere together and burn up, producing a meteor shower that recurs at the same time each year.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Astronomy 2e (OpenStax), Ch. 14 (study-guide objective)"
+    },
+    {
+      "id": "ch14-sg-q004",
+      "type": "sa",
+      "text": "What do we mean by primitive material, and how can we tell if a meteorite is primitive?",
+      "answer": "Primitive material is matter that has changed little since the solar system formed, preserving its original composition. A meteorite is judged primitive if it has not been melted or chemically differentiated, retaining ancient features such as chondrules and a composition close to that of the early solar nebula.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Astronomy 2e (OpenStax), Ch. 14 (study-guide objective)"
+    },
+    {
+      "id": "ch14-sg-q005",
+      "type": "sa",
+      "text": "Describe the solar nebula and outline the sequence of events that gave rise to the planetesimals.",
+      "answer": "The solar nebula was a rotating, flattening disk of gas and dust around the forming Sun. As it cooled, materials condensed into tiny solid grains; these grains collided and stuck together, growing into larger clumps and then into kilometer-sized planetesimals, which in turn collided and merged to build protoplanets and eventually the planets.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Astronomy 2e (OpenStax), Ch. 14 (study-guide objective)"
+    },
+    {
+      "id": "ch14-sg-q006",
+      "type": "sa",
+      "text": "Why do the giant planets and their moons have compositions different from those of the terrestrial planets?",
+      "answer": "They formed in the cold outer part of the nebula, beyond the 'frost line,' where ices (water, ammonia, methane) could condense in addition to rock and metal. This extra solid material let them grow large enough to capture abundant hydrogen and helium gas, so they and their icy moons are rich in volatiles, unlike the rocky inner planets formed where it was too warm for ices.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Astronomy 2e (OpenStax), Ch. 14 (study-guide objective)"
+    },
+    {
+      "id": "ch14-sg-q007",
+      "type": "sa",
+      "text": "How do planets discovered around other stars differ from those in our own solar system? List at least two ways.",
+      "answer": "Many exoplanet systems contain 'hot Jupiters,' giant planets orbiting extremely close to their stars, which has no analog in our system. Other systems feature 'super-Earths' (planets between Earth and Neptune in size) and often have highly elliptical or tightly packed orbits, unlike the roughly circular, well-spaced orbits of our planets.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Astronomy 2e (OpenStax), Ch. 14 (study-guide objective)"
+    },
+    {
+      "id": "ch14-sg-q008",
+      "type": "sa",
+      "text": "Explain the role of impacts in planetary evolution, including both giant and more modest impacts.",
+      "answer": "Giant impacts can dramatically reshape a world, for example forming Earth's Moon, tipping Uranus on its side, or stripping away part of a planet. More modest, ongoing impacts crater surfaces, deliver material such as water and organic compounds, and (as in the dinosaur extinction) can cause major environmental changes. Impacts are thus a fundamental process shaping planets throughout their history.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Astronomy 2e (OpenStax), Ch. 14 (study-guide objective)"
+    },
+    {
+      "id": "ch14-sg-q009",
+      "type": "sa",
+      "text": "Why are some planets and moons more geologically active than others?",
+      "answer": "Geological activity depends on internal heat. Larger bodies retain heat from formation and radioactive decay longer because of their smaller surface-area-to-volume ratio, and some moons stay hot through tidal heating from their planet's gravity. Small bodies cool off quickly and become geologically dead, while larger or tidally heated ones remain active.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Astronomy 2e (OpenStax), Ch. 14 (study-guide objective)"
+    },
+    {
+      "id": "ch14-sg-q010",
+      "type": "sa",
+      "text": "Summarize the origin and evolution of the atmospheres of Venus, Earth, and Mars.",
+      "answer": "All three likely started with similar volcanic outgassing of carbon dioxide and water vapor. On Venus, intense sunlight drove a runaway greenhouse that left a thick, hot CO2 atmosphere. On Earth, oceans absorbed CO2 into rocks and life added oxygen, yielding a moderate atmosphere. On Mars, low gravity and the loss of its magnetic field let much of the atmosphere escape to space, leaving the thin, cold air seen today.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Astronomy 2e (OpenStax), Ch. 14 (study-guide objective)"
+    },
+    {
+      "id": "ch14-sg-q011",
+      "type": "sa",
+      "text": "Why do meteors in a meteor shower appear to come from just one point in the sky?",
+      "answer": "The shower's particles all travel along the comet's orbit in nearly parallel paths as Earth plows into them. Just as parallel railroad tracks seem to converge in the distance, these parallel streaks appear to radiate from a single point (the radiant) due to perspective.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Astronomy 2e (OpenStax), Ch. 14 (study-guide objective)"
+    },
+    {
+      "id": "ch15-sg-q001",
+      "type": "sa",
+      "text": "Describe the main differences between the composition of Earth and that of the Sun.",
+      "answer": "The Sun is composed almost entirely of the light gases hydrogen and helium, with only trace amounts of heavier elements. Earth is made mostly of heavier materials, such as iron, oxygen, silicon, and magnesium, in solid and molten form, with very little hydrogen and helium retained.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Astronomy 2e (OpenStax), Ch. 15 (study-guide objective)"
+    },
+    {
+      "id": "ch15-sg-q002",
+      "type": "sa",
+      "text": "Describe how energy makes its way from the nuclear core of the Sun to the atmosphere, naming each layer and how energy moves through it.",
+      "answer": "Energy is generated by fusion in the core and first moves outward through the radiative zone as photons that are repeatedly absorbed and re-emitted over a very long time. It then passes through the convective zone, where hot gas physically rises and cooler gas sinks, carrying energy to the surface. Finally it escapes as light from the photosphere, the visible surface.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Astronomy 2e (OpenStax), Ch. 15 (study-guide objective)"
+    },
+    {
+      "id": "ch15-sg-q003",
+      "type": "sa",
+      "text": "Sketch the Sun's atmosphere showing the photosphere, chromosphere, and corona, and give the approximate temperature of each.",
+      "answer": "From inside out, the photosphere is the visible surface at about 5,800 K; above it lies the thin reddish chromosphere at roughly 10,000 K; and outermost is the tenuous corona, which is surprisingly hot at one to a few million K. (A sketch would show three nested layers, coolest at the photosphere and hottest in the corona.)",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Astronomy 2e (OpenStax), Ch. 15 (study-guide objective)"
+    },
+    {
+      "id": "ch15-sg-q004",
+      "type": "sa",
+      "text": "Why do sunspots look dark?",
+      "answer": "Sunspots are regions where strong magnetic fields suppress the normal convection that brings heat up, so they are cooler than their surroundings, around 4,000 K versus 5,800 K. They emit less light at that lower temperature and therefore look dark only by contrast with the brighter, hotter photosphere around them.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Astronomy 2e (OpenStax), Ch. 15 (study-guide objective)"
+    },
+    {
+      "id": "ch15-sg-q005",
+      "type": "sa",
+      "text": "Which aspects of the Sun's activity cycle have a period of about 11 years, and which vary over about 22 years?",
+      "answer": "The number of sunspots and the overall level of surface activity rise and fall on an approximately 11-year cycle. The full magnetic cycle is about 22 years, because the Sun's magnetic polarity reverses each 11-year sunspot cycle and only returns to its original orientation after two such cycles.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Astronomy 2e (OpenStax), Ch. 15 (study-guide objective)"
+    },
+    {
+      "id": "ch15-sg-q006",
+      "type": "sa",
+      "text": "Summarize the evidence that solar activity has varied over centuries or more.",
+      "answer": "Historical sunspot records reveal long-term changes, most famously the Maunder Minimum in the late 1600s when sunspots nearly vanished and coincided with cold European winters. Records of carbon-14 and beryllium-10 produced in the atmosphere (and stored in tree rings and ice cores) also track past changes in solar activity over centuries.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Astronomy 2e (OpenStax), Ch. 15 (study-guide objective)"
+    },
+    {
+      "id": "ch15-sg-q007",
+      "type": "sa",
+      "text": "What is the Zeeman effect and what does it tell us about the Sun?",
+      "answer": "The Zeeman effect is the splitting of a spectral line into multiple components in the presence of a magnetic field. By measuring this splitting in sunlight, astronomers can detect and map the strength of magnetic fields on the Sun, which is how the intense fields in sunspots were discovered.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Astronomy 2e (OpenStax), Ch. 15 (study-guide objective)"
+    },
+    {
+      "id": "ch15-sg-q008",
+      "type": "sa",
+      "text": "Explain how the theory of the Sun's dynamo produces an average 22-year activity cycle, including its location and mechanism.",
+      "answer": "The dynamo operates near the base of the convective zone, where the Sun's differential rotation (faster at the equator than the poles) stretches and winds up the magnetic field lines. This winding intensifies and tangles the field, producing sunspots, until the field eventually breaks down and reverses polarity; the field returns to its original orientation only after two roughly 11-year cycles, giving a 22-year magnetic cycle.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Astronomy 2e (OpenStax), Ch. 15 (study-guide objective)"
+    },
+    {
+      "id": "ch15-sg-q009",
+      "type": "sa",
+      "text": "Compare and contrast the four main types of solar activity above the photosphere.",
+      "answer": "Sunspots are cool, dark, magnetically strong regions on the surface. Plages and prominences are bright or arching features of glowing gas shaped by magnetic fields in the chromosphere and corona. Flares are sudden, intense releases of magnetic energy that brighten and emit radiation across the spectrum. Coronal mass ejections are large eruptions that hurl billions of tons of plasma into space. All are driven by the Sun's magnetic field but differ in location, energy, and how explosively they release it.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Astronomy 2e (OpenStax), Ch. 15 (study-guide objective)"
+    },
+    {
+      "id": "ch15-sg-q010",
+      "type": "sa",
+      "text": "What are the two sources of particles coming from the Sun that cause space weather, and how do they differ?",
+      "answer": "One source is the steady solar wind, a continuous outflow of charged particles from the corona. The other is coronal mass ejections (often linked to flares), sudden violent bursts that fling huge clouds of plasma outward. The solar wind is constant and relatively gentle, while CMEs are sporadic, far more intense, and can trigger strong geomagnetic storms when they reach Earth.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Astronomy 2e (OpenStax), Ch. 15 (study-guide objective)"
+    },
+    {
+      "id": "ch15-sg-q011",
+      "type": "sa",
+      "text": "How does activity on the Sun affect human technology on Earth and in the rest of the solar system?",
+      "answer": "Solar storms and CMEs can induce currents that damage power grids and transformers, disrupt radio and GPS signals, interfere with or damage satellites, and expose astronauts and high-altitude flights to dangerous radiation. Severe events can knock out communications and electrical infrastructure over wide areas.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Astronomy 2e (OpenStax), Ch. 15 (study-guide objective)"
+    },
+    {
+      "id": "ch15-sg-q012",
+      "type": "sa",
+      "text": "How does activity on the Sun affect natural phenomena on Earth?",
+      "answer": "Charged particles from the Sun, guided by Earth's magnetic field toward the poles, create the auroras (northern and southern lights). Solar activity also disturbs Earth's magnetosphere, producing geomagnetic storms, and long-term variations in solar output can subtly influence climate.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Astronomy 2e (OpenStax), Ch. 15 (study-guide objective)"
+    },
+    {
+      "id": "ch16-sg-q001",
+      "type": "sa",
+      "text": "How do we know the age of the Sun?",
+      "answer": "The Sun's age is found mainly by radiometric dating of the oldest solar-system material, primitive meteorites, which formed at the same time as the Sun about 4.6 billion years ago. This age is consistent with models of how a star like the Sun evolves and how much of its hydrogen fuel it has consumed.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Astronomy 2e (OpenStax), Ch. 16 (study-guide objective)"
+    },
+    {
+      "id": "ch16-sg-q002",
+      "type": "sa",
+      "text": "How do we know the Sun's energy is not supplied by chemical burning or by gravitational contraction?",
+      "answer": "Chemical burning could power the Sun for only a few thousand years, and gravitational contraction for only tens of millions of years, but geological and meteorite evidence shows the Sun has shone steadily for about 4.6 billion years. Neither process could last anywhere near that long, so a far more powerful source, nuclear fusion, is required.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Astronomy 2e (OpenStax), Ch. 16 (study-guide objective)"
+    },
+    {
+      "id": "ch16-sg-q003",
+      "type": "sa",
+      "text": "What is the ultimate source of energy that makes the Sun shine?",
+      "answer": "The Sun shines from nuclear fusion in its core, where hydrogen nuclei fuse into helium. A small fraction of the mass is converted into energy according to E = mc^2, releasing the enormous power that the Sun radiates as light and heat.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Astronomy 2e (OpenStax), Ch. 16 (study-guide objective)"
+    },
+    {
+      "id": "ch16-sg-q004",
+      "type": "sa",
+      "text": "What are the three steps of the proton-proton chain?",
+      "answer": "Step 1: two protons (hydrogen nuclei) fuse to form a deuterium nucleus, releasing a positron and a neutrino. Step 2: the deuterium fuses with another proton to form helium-3, releasing a gamma ray. Step 3: two helium-3 nuclei combine to form helium-4, releasing two protons. The net result is four protons turned into one helium-4 nucleus plus energy.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Astronomy 2e (OpenStax), Ch. 16 (study-guide objective)"
+    },
+    {
+      "id": "ch16-sg-q005",
+      "type": "sa",
+      "text": "How is a neutrino different from a neutron? List all the ways you can.",
+      "answer": "A neutrino has almost no mass, carries no electric charge, and interacts only very weakly with matter, so it passes through nearly everything; it travels at essentially the speed of light. A neutron has nearly the mass of a proton, also has no charge but interacts strongly via the nuclear force, is a building block of atomic nuclei, and is unstable when free, decaying in minutes. They are fundamentally different particles.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Astronomy 2e (OpenStax), Ch. 16 (study-guide objective)"
+    },
+    {
+      "id": "ch16-sg-q006",
+      "type": "sa",
+      "text": "Describe in your own words what is meant by the statement that the Sun is in hydrostatic equilibrium.",
+      "answer": "Hydrostatic equilibrium means the Sun is in balance: the inward pull of gravity trying to collapse it is exactly matched at every depth by the outward push of gas and radiation pressure from the hot interior. Because these opposing forces are balanced, the Sun neither collapses nor expands and maintains a stable size.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Astronomy 2e (OpenStax), Ch. 16 (study-guide objective)"
+    },
+    {
+      "id": "ch16-sg-q007",
+      "type": "sa",
+      "text": "Two students travel to South Dakota: one feels sunshine at the surface, the other detects solar neutrinos deep in a mine, arriving at the same time. Describe the different histories of the photon and the neutrinos.",
+      "answer": "The neutrinos were created in the core and, because they barely interact with matter, streamed straight out of the Sun in about two seconds and crossed to Earth in about eight minutes. The sunlight (photon) was also produced in the core, but it took tens of thousands to a hundred thousand years to random-walk out through the dense radiative and convective zones before leaving the surface and taking eight minutes to reach Earth. So although they arrive together, the neutrino's journey was direct and the photon's was enormously delayed.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Astronomy 2e (OpenStax), Ch. 16 (study-guide objective)"
+    },
+    {
+      "id": "ch16-sg-q008",
+      "type": "sa",
+      "text": "What do measurements of the number of neutrinos emitted by the Sun tell us about conditions deep in the solar interior?",
+      "answer": "Because neutrinos escape the core directly, detecting them gives a real-time probe of the fusion reactions happening right now in the Sun's center. The measured neutrino flux confirms that fusion is indeed powering the Sun and lets astronomers test models of the core's temperature and reaction rates.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Astronomy 2e (OpenStax), Ch. 16 (study-guide objective)"
+    },
+    {
+      "id": "ch16-sg-q009",
+      "type": "sa",
+      "text": "Do neutrinos have mass? Describe how the answer has changed over time and why.",
+      "answer": "Neutrinos were long assumed to be massless, but the 'solar neutrino problem,' in which detectors found only about a third of the expected neutrinos, pointed to something missing. The resolution was that neutrinos come in three types and can oscillate, changing from one type to another in transit, which is only possible if they have a tiny but nonzero mass. So the answer changed from 'massless' to 'they have a very small mass.'",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Astronomy 2e (OpenStax), Ch. 16 (study-guide objective)"
+    },
+    {
+      "id": "ch16-sg-q010",
+      "type": "sa",
+      "text": "What conditions are required before proton-proton chain fusion can start in the Sun?",
+      "answer": "Fusion requires extremely high temperature (around 10 million K) and very high density and pressure, conditions found only in the Sun's core. The intense heat gives protons enough speed, and quantum tunneling helps them overcome their mutual electrical repulsion so they can fuse.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Astronomy 2e (OpenStax), Ch. 16 (study-guide objective)"
     }
   ],
   "notes": [
