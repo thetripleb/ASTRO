@@ -5763,6 +5763,876 @@
       "module": "week-3",
       "chapter": "Ch12",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-sg-q001",
+      "type": "sa",
+      "text": "What are the key steps of the scientific method, and how does each step contribute to the process of scientific inquiry?",
+      "answer": "The core steps are: observation (notice a phenomenon and raise a question), hypothesis (propose a testable explanation), prediction (state what should be true if the hypothesis holds), testing (gather evidence by observation or experiment), and analysis/revision (compare results to predictions and confirm, refine, or reject the hypothesis). Each step keeps the process tied to evidence; repeated successful testing can elevate a hypothesis into a theory.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Astronomy 2e (OpenStax), Ch. 1 (study-guide objective)"
+    },
+    {
+      "id": "ch1-sg-q002",
+      "type": "sa",
+      "text": "How do hypotheses differ from theories, and what role does each play in the scientific method?",
+      "answer": "A hypothesis is a tentative, testable explanation for a specific observation; it is the starting point that gets tested. A theory is a broad, well-tested framework supported by a large body of evidence that explains many observations and makes reliable predictions. Hypotheses feed the testing cycle; theories are the durable conclusions that survive it.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Astronomy 2e (OpenStax), Ch. 1 (study-guide objective)"
+    },
+    {
+      "id": "ch1-sg-q003",
+      "type": "sa",
+      "text": "How do astronomers use light-years to measure astronomical distances, and why is this unit important?",
+      "answer": "A light-year is the distance light travels in one year (~9.5 trillion km). Astronomers use it because interstellar distances are so vast that kilometers or AU become unwieldy. It keeps the numbers manageable and also conveys look-back time, since light from a star N light-years away left it N years ago.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Astronomy 2e (OpenStax), Ch. 1 (study-guide objective)"
+    },
+    {
+      "id": "ch1-sg-q004",
+      "type": "sa",
+      "text": "What is the significance of the astronomical unit (AU), and how is it used to describe distances within our solar system?",
+      "answer": "One AU is the average Earth-Sun distance (~150 million km). It is a convenient yardstick for solar-system scales (e.g., Jupiter is about 5.2 AU from the Sun) and is the natural distance unit in Kepler's third law (P^2 = a^3 when P is in years and a in AU).",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Astronomy 2e (OpenStax), Ch. 1 (study-guide objective)"
+    },
+    {
+      "id": "ch1-sg-q005",
+      "type": "sa",
+      "text": "Why is the concept of scale important when visualizing the vast distances between objects in space?",
+      "answer": "Cosmic distances and sizes span such enormous ranges that everyday intuition fails. Using scale models and analogies helps convey relative sizes and separations and corrects common misconceptions, such as how empty space is and how far apart stars actually are compared to their sizes.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Astronomy 2e (OpenStax), Ch. 1 (study-guide objective)"
+    },
+    {
+      "id": "ch2-sg-q001",
+      "type": "sa",
+      "text": "Give four ways to demonstrate that Earth is spherical.",
+      "answer": "(1) Ships disappear hull-first over the horizon as they sail away. (2) Earth casts a round shadow on the Moon during every lunar eclipse. (3) Different constellations are visible from different latitudes, and a star's altitude changes as you travel north or south. (4) Circumnavigation and modern photographs from space directly show a sphere.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (study-guide objective)"
+    },
+    {
+      "id": "ch2-sg-q002",
+      "type": "sa",
+      "text": "Explain, according to both geocentric and heliocentric cosmologies, why we see retrograde motion of the planets.",
+      "answer": "In Ptolemy's geocentric model, retrograde loops were produced by epicycles: each planet moved on a small circle whose center moved along a larger circle around Earth. In the Copernican heliocentric model, retrograde motion is an illusion caused by Earth (on a faster inner orbit) overtaking a slower outer planet, which makes that planet appear to drift backward against the stars for a time.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (study-guide objective)"
+    },
+    {
+      "id": "ch2-sg-q003",
+      "type": "sa",
+      "text": "In what ways did the work of Copernicus and Galileo differ from the views of the ancient Greeks and of their contemporaries?",
+      "answer": "Copernicus placed the Sun, not Earth, at the center, breaking from the Earth-centered cosmos of Aristotle and Ptolemy. Galileo used the new telescope to gather fresh empirical evidence (Jupiter's moons, the phases of Venus, lunar craters) and argued from observation rather than from philosophical authority or tradition.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (study-guide objective)"
+    },
+    {
+      "id": "ch2-sg-q004",
+      "type": "sa",
+      "text": "What were four of Galileo's discoveries that were important to astronomy?",
+      "answer": "(1) Four moons orbiting Jupiter, showing not everything circles Earth. (2) The full set of phases of Venus, which supports a Sun-centered system. (3) Craters and mountains on the Moon, showing the heavens are not perfect. (4) That the Milky Way is made of countless stars (and his observation of sunspots).",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (study-guide objective)"
+    },
+    {
+      "id": "ch2-sg-q005",
+      "type": "sa",
+      "text": "Explain the origin of the magnitude designation for stellar brightness. Why does it seem to go backward, with smaller numbers indicating brighter stars?",
+      "answer": "Hipparchus ranked naked-eye stars from 1st magnitude (brightest) to 6th magnitude (faintest), so brighter meant a smaller number. The scale was later made precise and logarithmic but kept that inherited convention, so smaller and even negative magnitudes still denote brighter objects.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (study-guide objective)"
+    },
+    {
+      "id": "ch2-sg-q006",
+      "type": "sa",
+      "text": "Ursa Minor's stars are circumpolar from most of the Northern Hemisphere. Does that mean these stars are also above the horizon during the day?",
+      "answer": "Yes. Circumpolar stars never set, so they are above the horizon both day and night. We simply cannot see them in the daytime because the Sun's scattered light makes the sky too bright.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (study-guide objective)"
+    },
+    {
+      "id": "ch2-sg-q007",
+      "type": "sa",
+      "text": "Explain how the zodiacal constellations are different from the other constellations.",
+      "answer": "The zodiacal constellations lie along the ecliptic, the apparent yearly path of the Sun. Because the Sun, Moon, and planets all move close to the ecliptic, they appear to pass through these constellations. Other constellations lie away from the ecliptic and are never crossed by the Sun, Moon, or planets.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (study-guide objective)"
+    },
+    {
+      "id": "ch2-sg-q008",
+      "type": "sa",
+      "text": "The Sun was once thought to be a planet. Explain why.",
+      "answer": "To ancient observers, the Sun moved against the background of the fixed stars along the ecliptic, just as the planets (the 'wanderers') did. Since 'planet' meant wandering body, the Sun was naturally grouped with them.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (study-guide objective)"
+    },
+    {
+      "id": "ch2-sg-q009",
+      "type": "sa",
+      "text": "Is the ecliptic the same thing as the celestial equator? Explain.",
+      "answer": "No. The celestial equator is the projection of Earth's equator onto the sky, while the ecliptic is the Sun's apparent yearly path. They are tilted about 23.5 degrees to each other because of Earth's axial tilt, and they cross at the two equinox points.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (study-guide objective)"
+    },
+    {
+      "id": "ch2-sg-q010",
+      "type": "sa",
+      "text": "What is an asterism? Can you name an example?",
+      "answer": "An asterism is a recognizable pattern of stars that is not one of the 88 official constellations. The Big Dipper (part of the constellation Ursa Major) is a classic example; the Summer Triangle is another.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (study-guide objective)"
+    },
+    {
+      "id": "ch2-sg-q011",
+      "type": "sa",
+      "text": "Why did Pythagoras believe that Earth should be spherical?",
+      "answer": "His reasoning was largely philosophical and aesthetic: the sphere was regarded as the most perfect and harmonious shape, so a well-ordered Earth and cosmos ought to be spherical. Some observational hints reinforced the idea.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (study-guide objective)"
+    },
+    {
+      "id": "ch2-sg-q012",
+      "type": "sa",
+      "text": "How did Aristotle deduce that the Sun is farther away from Earth than the Moon?",
+      "answer": "He noted that the Moon passes in front of (occults) the Sun during solar eclipses and also moves in front of stars and planets, showing the Moon is the nearer body. Reasoning from eclipse geometry and the Moon's motion placed the Moon closer than the Sun.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (study-guide objective)"
+    },
+    {
+      "id": "ch2-sg-q013",
+      "type": "sa",
+      "text": "How did Hipparchus discover the wobble of Earth's axis, known as precession?",
+      "answer": "By comparing his own careful star-position measurements with much older records, he found that the stars' coordinates had shifted systematically over the centuries. This gradual drift revealed the slow conical wobble of Earth's rotation axis.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (study-guide objective)"
+    },
+    {
+      "id": "ch2-sg-q014",
+      "type": "sa",
+      "text": "Why did Ptolemy have to introduce multiple circles of motion for the planets instead of a single simple circle?",
+      "answer": "A single circle centered on Earth could not reproduce the planets' varying speeds, changing brightness, and retrograde loops. Ptolemy added epicycles, deferents, and equants so the geocentric model could match the complex observed motions.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (study-guide objective)"
+    },
+    {
+      "id": "ch2-sg-q015",
+      "type": "sa",
+      "text": "Why did Copernicus want to develop a completely new system for predicting planetary positions? Provide two reasons.",
+      "answer": "(1) The Ptolemaic system had become complicated and inelegant, relying on many epicycles and an equant he found unsatisfying. (2) A Sun-centered arrangement more naturally explained retrograde motion and gave a sensible ordering and spacing of the planets.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (study-guide objective)"
+    },
+    {
+      "id": "ch2-sg-q016",
+      "type": "sa",
+      "text": "What two factors made it difficult, at first, to choose between the Copernican heliocentric model and the Ptolemaic geocentric model?",
+      "answer": "(1) Both models predicted planetary positions about equally well early on, so observations did not clearly favor one. (2) No stellar parallax was detected (expected if Earth moved), everyday experience suggested a stationary Earth, and there was no physical mechanism for a moving Earth until Newton.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (study-guide objective)"
+    },
+    {
+      "id": "ch2-sg-q017",
+      "type": "sa",
+      "text": "What phases would Venus show if the geocentric model were correct?",
+      "answer": "In Ptolemy's geocentric model, Venus would always lie between Earth and the Sun, so it could only ever show new and crescent phases. Galileo's telescope revealed a full cycle of phases (including gibbous and full), which the geocentric model cannot explain and which supports heliocentrism.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (study-guide objective)"
+    },
+    {
+      "id": "ch3-sg-q001",
+      "type": "sa",
+      "text": "State Kepler's three laws.",
+      "answer": "(1) Each planet orbits the Sun in an ellipse with the Sun at one focus. (2) A line from the Sun to a planet sweeps out equal areas in equal times, so a planet moves faster when nearer the Sun. (3) The square of a planet's orbital period equals the cube of its semimajor axis (P^2 = a^3, with P in years and a in AU).",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (study-guide objective)"
+    },
+    {
+      "id": "ch3-sg-q002",
+      "type": "sa",
+      "text": "Why did Kepler need Tycho Brahe's data to formulate his laws?",
+      "answer": "Brahe's decades of unusually precise naked-eye observations were accurate enough to reveal the small departures from circular motion. Without that precision, especially for Mars, Kepler could never have determined that the orbits are ellipses.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (study-guide objective)"
+    },
+    {
+      "id": "ch3-sg-q003",
+      "type": "sa",
+      "text": "Which has more mass: an armful of feathers or an armful of lead? Which has more volume: a kilogram of feathers or a kilogram of lead? Which has higher density?",
+      "answer": "An armful of lead has more mass. A kilogram of feathers has the larger volume. A kilogram of lead has the higher density, because density is mass divided by volume and lead is far denser than feathers.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (study-guide objective)"
+    },
+    {
+      "id": "ch3-sg-q004",
+      "type": "sa",
+      "text": "Explain how Kepler found a relationship (his third law) between orbital periods and distances that did not depend on the masses of the planets or the Sun.",
+      "answer": "His third law relates only period and distance (P^2 = a^3). Because the Sun's mass overwhelmingly dominates the solar system, each planet's own mass is negligible by comparison and effectively drops out, so the same period-distance relation holds for every planet regardless of its mass.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (study-guide objective)"
+    },
+    {
+      "id": "ch3-sg-q005",
+      "type": "sa",
+      "text": "Write out Newton's three laws of motion in terms of the momentum of objects.",
+      "answer": "(1) An object's momentum stays constant unless a net external force acts on it (inertia). (2) A net force changes an object's momentum at a rate equal to the force (F = change in momentum over time, equivalent to F = ma). (3) Forces occur in equal and opposite pairs, so the momentum gained by one body equals the momentum lost by the other (momentum is conserved).",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (study-guide objective)"
+    },
+    {
+      "id": "ch3-sg-q006",
+      "type": "sa",
+      "text": "Which major planet has the largest: (A) semimajor axis, (B) average orbital speed, (C) orbital period, (D) eccentricity?",
+      "answer": "(A) Neptune has the largest semimajor axis (biggest orbit). (B) Mercury has the highest average orbital speed (closest to the Sun). (C) Neptune has the longest orbital period. (D) Mercury has the largest orbital eccentricity of the eight major planets.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (study-guide objective)"
+    },
+    {
+      "id": "ch3-sg-q007",
+      "type": "sa",
+      "text": "Why do we say that Neptune was the first planet to be discovered through the use of mathematics?",
+      "answer": "Unexplained irregularities in Uranus's orbit led Le Verrier and Adams to use Newtonian gravity to predict the position of an unseen perturbing planet. Astronomers then pointed a telescope at the predicted location and found Neptune very close to it, a triumph of theory predicting a discovery.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (study-guide objective)"
+    },
+    {
+      "id": "ch3-sg-q008",
+      "type": "sa",
+      "text": "Why was Brahe reluctant to provide Kepler with all his data at one time?",
+      "answer": "Brahe's observations were his life's work and extremely valuable, and he wanted to use them to support his own (Tychonic) model of the cosmos. He guarded the data and released it to Kepler only piecemeal.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (study-guide objective)"
+    },
+    {
+      "id": "ch3-sg-q009",
+      "type": "sa",
+      "text": "According to Kepler's second law, where in its orbit is a planet moving fastest? Where slowest?",
+      "answer": "A planet moves fastest at perihelion, the point closest to the Sun, and slowest at aphelion, the point farthest from the Sun.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (study-guide objective)"
+    },
+    {
+      "id": "ch3-sg-q010",
+      "type": "sa",
+      "text": "The gas pedal, the brakes, and the steering wheel all have the ability to accelerate a car. How?",
+      "answer": "Acceleration means any change in velocity, which includes changes in speed or direction. The gas pedal increases speed, the brakes decrease speed, and the steering wheel changes direction, so all three produce accelerations.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (study-guide objective)"
+    },
+    {
+      "id": "ch3-sg-q011",
+      "type": "sa",
+      "text": "Explain how a rocket can propel itself using Newton's third law.",
+      "answer": "The engine expels hot exhaust gas backward (the action), and the equal and opposite reaction pushes the rocket forward. Because it works by exchanging momentum with the ejected gas, a rocket needs no air to push against and functions in the vacuum of space.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (study-guide objective)"
+    },
+    {
+      "id": "ch3-sg-q012",
+      "type": "sa",
+      "text": "To calculate the momentum of an object, which properties of the object do you need to know?",
+      "answer": "You need its mass and its velocity, since momentum equals mass times velocity. Because velocity has direction, momentum is a directional (vector) quantity.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (study-guide objective)"
+    },
+    {
+      "id": "ch3-sg-q013",
+      "type": "sa",
+      "text": "What was the great insight Newton had regarding Earth's gravity that allowed him to develop the universal law of gravitation?",
+      "answer": "Newton realized that the same force pulling an apple to the ground also holds the Moon in its orbit. Gravity is therefore universal, acting between all masses everywhere, and weakens with the square of the distance between them.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (study-guide objective)"
+    },
+    {
+      "id": "ch3-sg-q014",
+      "type": "sa",
+      "text": "Why is Tycho Brahe often called 'the greatest naked-eye astronomer' of all time?",
+      "answer": "Working before the telescope, he built large precise instruments and made the most accurate and systematic positional measurements of his era. The quality of that data is what later made Kepler's laws possible.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q001",
+      "type": "sa",
+      "text": "Discuss how latitude and longitude on Earth are similar to declination and right ascension in the sky.",
+      "answer": "Declination is the sky's version of latitude: the angle of an object north or south of the celestial equator. Right ascension is the sky's version of longitude: the angle measured eastward along the celestial equator from the vernal equinox. Together they fix a position on the celestial sphere just as latitude and longitude fix a position on Earth.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q002",
+      "type": "sa",
+      "text": "What is the latitude of the North Pole? The South Pole? Why does longitude have no meaning at the poles?",
+      "answer": "The North Pole is at +90 degrees latitude and the South Pole at -90 degrees. All meridians (lines of longitude) converge at the poles, so a single point there carries every longitude at once, leaving longitude undefined.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q003",
+      "type": "sa",
+      "text": "List each main phase of the Moon and roughly when it rises and sets. During which phase can you see the Moon in mid-morning? In mid-afternoon?",
+      "answer": "New moon rises near sunrise and sets near sunset; first quarter rises around noon and sets around midnight; full moon rises at sunset and sets at sunrise; last (third) quarter rises around midnight and sets around noon. You can see the Moon in mid-morning around last quarter (it rose at midnight and is still up) and in mid-afternoon around first quarter (it rises at noon).",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q004",
+      "type": "sa",
+      "text": "What are the advantages and disadvantages of apparent solar time? How is the situation improved by mean solar time and standard time?",
+      "answer": "Apparent solar time (from a sundial) is intuitive and tied directly to the Sun, but it runs unevenly through the year because Earth's orbit is elliptical and its axis is tilted, and it differs at every longitude. Mean solar time averages this to a uniform 24-hour day, and standard time then assigns one mean time to an entire time zone for everyday practicality.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q005",
+      "type": "sa",
+      "text": "What are the two ways that the tilt of Earth's axis makes U.S. summers warmer than winters?",
+      "answer": "When a hemisphere is tilted toward the Sun, (1) sunlight strikes the surface more directly (concentrated energy, with the Sun higher in the sky), and (2) the days are longer, giving more hours of heating. Both effects raise summer temperatures.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q006",
+      "type": "sa",
+      "text": "Why is it difficult to construct a practical calendar based on the Moon's cycle of phases?",
+      "answer": "The lunar phase cycle is about 29.5 days, which does not divide evenly into the roughly 365.24-day solar year. As a result, lunar months and the seasons steadily drift out of step, forcing awkward corrections to keep a purely lunar calendar useful.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q007",
+      "type": "sa",
+      "text": "Explain why there are two high tides and two low tides each day. Should the interval between high tides be exactly 24 hours?",
+      "answer": "The Moon raises a tidal bulge on the near side of Earth and, through differential gravity and inertia, another on the far side, so Earth's rotation carries any location through two highs and two lows daily. The interval between successive high tides is about 24 hours 50 minutes, not 24 hours, because the Moon also advances along its orbit during the day.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q008",
+      "type": "sa",
+      "text": "What is the phase of the Moon during a total solar eclipse? During a total lunar eclipse?",
+      "answer": "A total solar eclipse occurs at new moon, when the Moon is between the Sun and Earth. A total lunar eclipse occurs at full moon, when Earth is between the Sun and the Moon.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q009",
+      "type": "sa",
+      "text": "Find the nearest marked latitude line to your location. Is this an example of a great circle? Explain.",
+      "answer": "Only the equator (0 degrees latitude) is a great circle, because its plane passes through Earth's center. Every other latitude (parallel) line is a small circle, since its plane does not pass through the center, so a typical marked latitude line is not a great circle.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q010",
+      "type": "sa",
+      "text": "Explain three lines of evidence that the seasons are not caused by the changing Earth-Sun distance.",
+      "answer": "(1) The two hemispheres have opposite seasons at the same time, which is impossible if distance were the cause. (2) Earth is actually closest to the Sun (perihelion) in early January, during Northern Hemisphere winter. (3) The Earth-Sun distance changes by only a few percent over the year, far too little to produce the large observed temperature swings. Axial tilt explains all three.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q011",
+      "type": "sa",
+      "text": "What is the origin of the terms 'a.m.' and 'p.m.' in our timekeeping?",
+      "answer": "They come from Latin: a.m. is ante meridiem ('before midday') and p.m. is post meridiem ('after midday'), referring to the time before and after the Sun crosses the local meridian at noon.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q012",
+      "type": "sa",
+      "text": "Explain the origin of the leap year. Why is it necessary?",
+      "answer": "The tropical year is about 365.24 days, not a whole number of days. Adding an extra day (February 29) every four years compensates for the leftover quarter-day; without it the calendar would gradually drift relative to the seasons.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q013",
+      "type": "sa",
+      "text": "Explain why the year 1800 was not a leap year, even though years divisible by four normally are.",
+      "answer": "Under the Gregorian rule, century years are leap years only if they are also divisible by 400. The year 1800 is divisible by 4 but not by 400, so it was not a leap year; this exception fine-tunes the average calendar year to match the true solar year.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q014",
+      "type": "sa",
+      "text": "What fraction of the Moon's visible face is illuminated during first quarter phase? Why is it called first quarter?",
+      "answer": "Half (50 percent) of the Moon's visible face is illuminated at first quarter. It is called first quarter because the Moon has completed one-quarter of its phase cycle, having traveled a quarter of the way around its orbit from new moon.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q015",
+      "type": "sa",
+      "text": "Why don't lunar eclipses happen during every full moon?",
+      "answer": "The Moon's orbit is tilted about 5 degrees relative to the ecliptic, so at most full moons the Moon passes above or below Earth's shadow. A lunar eclipse occurs only when a full moon happens near one of the nodes where the orbits intersect.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q016",
+      "type": "sa",
+      "text": "Why do the heights of the tides change over the course of a month?",
+      "answer": "When the Sun and Moon line up (at new and full moon) their tidal pulls reinforce each other, producing large 'spring' tides. When they are at right angles (at the quarter moons) the pulls partly cancel, producing smaller 'neap' tides. The cycle repeats through the month.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q017",
+      "type": "sa",
+      "text": "Explain how tidal forces are causing Earth to slow down.",
+      "answer": "Earth's rapid rotation drags its tidal bulge slightly ahead of the Earth-Moon line. Friction associated with this offset bulge acts as a brake on Earth's spin, gradually slowing the rotation and lengthening the day over geologic time.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q018",
+      "type": "sa",
+      "text": "Explain how tidal forces are causing the Moon to slowly recede from Earth.",
+      "answer": "The same tidal bulge, dragged ahead of the Moon, exerts a forward gravitational tug on the Moon, adding orbital energy and angular momentum to it. The angular momentum Earth loses in slowing its spin is transferred to the Moon, so the Moon's orbit slowly enlarges (about 3.8 cm per year).",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q019",
+      "type": "sa",
+      "text": "Explain why the Gregorian calendar modified the leap-year rule from the Julian calendar.",
+      "answer": "The Julian year of 365.25 days was slightly too long, so the calendar drifted by about three days every 400 years. The Gregorian reform removed three leap days per 400 years (by making century years leap only if divisible by 400), bringing the average year much closer to the true tropical year.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q020",
+      "type": "sa",
+      "text": "The term equinox means 'equal night.' Explain why this makes sense astronomically.",
+      "answer": "At an equinox the Sun lies on the celestial equator, so it is above and below the horizon for about equal times. Day and night are therefore each roughly 12 hours long almost everywhere on Earth, matching the name.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch4-sg-q021",
+      "type": "sa",
+      "text": "The term solstice means 'Sun stop.' Explain why this makes sense astronomically.",
+      "answer": "At a solstice the Sun reaches its farthest point north or south of the celestial equator, so its daily noon height stops climbing or falling and then reverses. The Sun appears to pause ('stand still') in its north-south motion before heading back the other way.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Astronomy 2e (OpenStax), Ch. 4 (study-guide objective)"
+    },
+    {
+      "id": "ch5-sg-q001",
+      "type": "sa",
+      "text": "What distinguishes one type of electromagnetic radiation from another? What are the main bands of the spectrum?",
+      "answer": "Wavelength (and equivalently frequency and photon energy) distinguishes the types. From longest to shortest wavelength the main bands are radio, microwave, infrared, visible light, ultraviolet, X-rays, and gamma rays.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Astronomy 2e (OpenStax), Ch. 5 (study-guide objective)"
+    },
+    {
+      "id": "ch5-sg-q002",
+      "type": "sa",
+      "text": "What is a wave? Use the terms wavelength and frequency in your definition.",
+      "answer": "A wave is a periodic disturbance that carries energy from place to place. Its wavelength is the distance between successive crests, and its frequency is the number of crests passing a point each second; wave speed equals wavelength times frequency.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Astronomy 2e (OpenStax), Ch. 5 (study-guide objective)"
+    },
+    {
+      "id": "ch5-sg-q003",
+      "type": "sa",
+      "text": "Where in an atom would you expect to find electrons? Protons? Neutrons?",
+      "answer": "Protons and neutrons are packed together in the tiny, dense nucleus at the atom's center, while electrons occupy the surrounding cloud of orbitals.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Astronomy 2e (OpenStax), Ch. 5 (study-guide objective)"
+    },
+    {
+      "id": "ch5-sg-q004",
+      "type": "sa",
+      "text": "Explain how emission lines and absorption lines are formed. In what objects would you expect to see each?",
+      "answer": "Emission lines form when electrons drop to lower energy levels and emit photons of specific wavelengths; they appear in hot, thin gas such as glowing nebulae. Absorption lines form when a cooler gas removes specific wavelengths from a continuous source behind it; they appear in stellar spectra, where a star's cooler outer layers absorb light from the hotter interior.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Astronomy 2e (OpenStax), Ch. 5 (study-guide objective)"
+    },
+    {
+      "id": "ch5-sg-q005",
+      "type": "sa",
+      "text": "Explain how the Doppler effect works for sound waves and give some familiar examples.",
+      "answer": "Relative motion changes the observed frequency: as a source approaches, waves are compressed and the pitch rises; as it recedes, waves are stretched and the pitch drops. A passing ambulance siren or a race car engine that lowers in pitch as it goes by are everyday examples.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Astronomy 2e (OpenStax), Ch. 5 (study-guide objective)"
+    },
+    {
+      "id": "ch5-sg-q006",
+      "type": "sa",
+      "text": "Describe how Bohr's model used the work of Maxwell.",
+      "answer": "Maxwell showed that accelerating electric charges radiate electromagnetic waves. Bohr built on this by linking an electron jumping between fixed energy levels in an atom to the emission or absorption of a photon of a specific wavelength, connecting atomic structure to the production of light.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Astronomy 2e (OpenStax), Ch. 5 (study-guide objective)"
+    },
+    {
+      "id": "ch5-sg-q007",
+      "type": "sa",
+      "text": "Explain why light is referred to as electromagnetic radiation.",
+      "answer": "Light consists of oscillating electric and magnetic fields that continually regenerate each other and travel together through space at the speed of light. Because it is made of these coupled electric and magnetic fields carrying energy, it is called electromagnetic radiation.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Astronomy 2e (OpenStax), Ch. 5 (study-guide objective)"
+    },
+    {
+      "id": "ch5-sg-q008",
+      "type": "sa",
+      "text": "Which has a longer wavelength: AM radio waves (kilohertz) or FM radio waves (megahertz)? Explain.",
+      "answer": "AM waves have the longer wavelength. Wavelength is inversely proportional to frequency, and AM's kilohertz frequencies are far lower than FM's megahertz frequencies, so AM waves are longer.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Astronomy 2e (OpenStax), Ch. 5 (study-guide objective)"
+    },
+    {
+      "id": "ch5-sg-q009",
+      "type": "sa",
+      "text": "Explain what the ionosphere is and how it interacts with some radio waves.",
+      "answer": "The ionosphere is a high layer of Earth's atmosphere containing electrically charged particles (ions and free electrons). It reflects certain lower-frequency radio waves back toward the ground, enabling long-distance radio communication, while higher-frequency waves pass straight through it.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Astronomy 2e (OpenStax), Ch. 5 (study-guide objective)"
+    },
+    {
+      "id": "ch5-sg-q010",
+      "type": "sa",
+      "text": "Which is more dangerous to living things, gamma rays or X-rays? Explain.",
+      "answer": "Gamma rays are more dangerous. They have higher frequency and photon energy than X-rays, so they penetrate deeper into tissue and cause more ionization and biological damage.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Astronomy 2e (OpenStax), Ch. 5 (study-guide objective)"
+    },
+    {
+      "id": "ch5-sg-q011",
+      "type": "sa",
+      "text": "Explain why we must observe stars from above Earth's atmosphere to fully learn about their properties.",
+      "answer": "The atmosphere absorbs many wavelengths, including most ultraviolet, X-ray, gamma-ray, and much infrared radiation, and it blurs images through turbulence (seeing). Observing from space gives access to those blocked bands and yields sharper, steadier images.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Astronomy 2e (OpenStax), Ch. 5 (study-guide objective)"
+    },
+    {
+      "id": "ch5-sg-q012",
+      "type": "sa",
+      "text": "Explain why hotter objects tend to radiate more energetic photons than cooler objects.",
+      "answer": "In a hotter object the particles move faster, and its thermal (blackbody) spectrum peaks at shorter wavelengths (Wien's law). Shorter wavelength means higher photon energy, so the typical photon emitted by a hotter object carries more energy.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Astronomy 2e (OpenStax), Ch. 5 (study-guide objective)"
+    },
+    {
+      "id": "ch5-sg-q013",
+      "type": "sa",
+      "text": "Explain how we can deduce the temperature of a star by determining its color.",
+      "answer": "A star radiates approximately as a blackbody, so the wavelength at which it shines most strongly, and thus its color, depends on its temperature. Blue or white stars are hot and red stars are cool (Wien's law), so measuring a star's color reveals its surface temperature.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Astronomy 2e (OpenStax), Ch. 5 (study-guide objective)"
+    },
+    {
+      "id": "ch5-sg-q014",
+      "type": "sa",
+      "text": "Explain what dispersion is and how astronomers use it to study a star's light.",
+      "answer": "Dispersion is the spreading of light into its component wavelengths, because the amount a ray bends depends on its wavelength. Using prisms or diffraction gratings, astronomers disperse starlight into a spectrum, which they analyze to determine composition, temperature, and motion.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Astronomy 2e (OpenStax), Ch. 5 (study-guide objective)"
+    },
+    {
+      "id": "ch5-sg-q015",
+      "type": "sa",
+      "text": "Explain why glass prisms disperse light.",
+      "answer": "The refractive index of glass varies slightly with wavelength, so different colors bend by different amounts as they enter and leave the prism. This wavelength-dependent bending separates white light into its spectrum of colors.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Astronomy 2e (OpenStax), Ch. 5 (study-guide objective)"
+    },
+    {
+      "id": "ch5-sg-q016",
+      "type": "sa",
+      "text": "Explain how we use spectral absorption and emission lines to determine the composition of a gas.",
+      "answer": "Each chemical element produces a unique set of spectral lines, like a fingerprint. By identifying which lines are present in a spectrum and how strong they are, astronomers can determine which elements are in the gas and estimate their abundances.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Astronomy 2e (OpenStax), Ch. 5 (study-guide objective)"
+    },
+    {
+      "id": "ch5-sg-q017",
+      "type": "sa",
+      "text": "What are the three isotopes of hydrogen, and how do they differ?",
+      "answer": "They are protium (one proton, no neutrons), deuterium (one proton, one neutron), and tritium (one proton, two neutrons). They behave the same chemically but differ in mass and nuclear stability; tritium is radioactive.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Astronomy 2e (OpenStax), Ch. 5 (study-guide objective)"
+    },
+    {
+      "id": "ch5-sg-q018",
+      "type": "sa",
+      "text": "Explain why astronomers use 'blueshifted' for objects moving toward us and 'redshifted' for objects moving away.",
+      "answer": "Motion toward us compresses light waves to shorter wavelengths, shifting features toward the blue end of the spectrum, while motion away stretches them to longer wavelengths, shifting features toward the red. This is the Doppler effect applied to light.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Astronomy 2e (OpenStax), Ch. 5 (study-guide objective)"
+    },
+    {
+      "id": "ch5-sg-q019",
+      "type": "sa",
+      "text": "What is the Balmer Series?",
+      "answer": "The Balmer series is the set of hydrogen spectral lines produced by electron transitions between the second energy level (n = 2) and higher levels. Several of these lines fall in visible light (such as the red H-alpha line), making them very important in the spectra of stars.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Astronomy 2e (OpenStax), Ch. 5 (study-guide objective)"
+    },
+    {
+      "id": "ch6-sg-q001",
+      "type": "sa",
+      "text": "What are the three basic components of a modern astronomical instrument? Describe each.",
+      "answer": "(1) A telescope/aperture that collects and focuses incoming radiation. (2) A detector, such as a CCD, that records the radiation efficiently as data. (3) An analyzing instrument, such as a spectrograph or a camera with filters, that processes the light into a usable form (an image or a spectrum).",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Astronomy 2e (OpenStax), Ch. 6 (study-guide objective)"
+    },
+    {
+      "id": "ch6-sg-q002",
+      "type": "sa",
+      "text": "Name the two spectral windows through which radiation easily reaches Earth's surface and the largest-aperture telescope used for each.",
+      "answer": "The two main atmospheric windows are the visible-light window and the radio window. For visible light, the segmented 10 m Keck telescopes are among the largest single apertures in use; for radio, the 500 m FAST dish in China is the largest single dish (with the steerable ~100 m Green Bank Telescope among the largest steerable dishes). Record-holders change over time, so these should be verified for the current year.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Astronomy 2e (OpenStax), Ch. 6 (study-guide objective)"
+    },
+    {
+      "id": "ch6-sg-q003",
+      "type": "sa",
+      "text": "List the largest-aperture single telescope currently in use in radio, X-ray, and gamma ray.",
+      "answer": "Radio: the 500 m FAST dish in China. X-ray and gamma-ray telescopes must operate in space because the atmosphere blocks those bands; major examples are the Chandra X-ray Observatory and the Fermi Gamma-ray Space Telescope. Because new facilities come online, the current largest in each band is worth confirming.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Astronomy 2e (OpenStax), Ch. 6 (study-guide objective)"
+    },
+    {
+      "id": "ch6-sg-q004",
+      "type": "sa",
+      "text": "When astronomers discuss telescope apertures, they say bigger is better. Explain why.",
+      "answer": "A larger aperture collects more light, with light-gathering power proportional to the diameter squared, so it can detect fainter objects. It also gives finer resolution (a smaller diffraction limit), revealing more detail and separating objects that are close together in the sky.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Astronomy 2e (OpenStax), Ch. 6 (study-guide objective)"
+    },
+    {
+      "id": "ch6-sg-q005",
+      "type": "sa",
+      "text": "The Hale telescope is 5 m and Keck I is 10 m. How much more light can Keck collect than Hale in the same time?",
+      "answer": "Light-gathering power scales with collecting area, which goes as the diameter squared. The ratio is (10/5)^2 = 4, so Keck I gathers about four times as much light as the Hale telescope in the same exposure time.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Astronomy 2e (OpenStax), Ch. 6 (study-guide objective)"
+    },
+    {
+      "id": "ch6-sg-q006",
+      "type": "sa",
+      "text": "What is meant by 'reflecting' and 'refracting' telescopes?",
+      "answer": "A refracting telescope uses a lens to bend (refract) and focus incoming light, while a reflecting telescope uses a curved mirror to collect and focus it. Nearly all large research telescopes are reflectors.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Astronomy 2e (OpenStax), Ch. 6 (study-guide objective)"
+    },
+    {
+      "id": "ch6-sg-q007",
+      "type": "sa",
+      "text": "Why are the largest visible-light telescopes made with mirrors rather than lenses?",
+      "answer": "Mirrors avoid chromatic aberration (lenses focus different colors at different points), and only one surface must be shaped precisely. A mirror can also be supported across its entire back so it does not sag, and it can be made very large or segmented. Large lenses, by contrast, are heavy, sag under their own weight, and can only be supported at the edges.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Astronomy 2e (OpenStax), Ch. 6 (study-guide objective)"
+    },
+    {
+      "id": "ch6-sg-q008",
+      "type": "sa",
+      "text": "Compare the eye, photographic film, and CCDs as detectors. What are the advantages and disadvantages of each?",
+      "answer": "The eye works in real time over a wide field but cannot store images or build up light over time. Film records and stores images but is inefficient (capturing only a few percent of the light) and responds nonlinearly. CCDs are highly efficient (often over 70 percent), respond linearly, are digital and reusable, and are ideal for faint objects; their drawbacks are cost and the limited field of view of a single chip.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Astronomy 2e (OpenStax), Ch. 6 (study-guide objective)"
+    },
+    {
+      "id": "ch6-sg-q009",
+      "type": "sa",
+      "text": "Compare and contrast radio and radar astronomy.",
+      "answer": "Radio astronomy passively receives natural radio emission from cosmic sources using dishes and antennas. Radar astronomy actively transmits a signal and detects its echo, so it needs a powerful transmitter and works only on relatively nearby solar-system bodies. Radar yields precise distances, rotation rates, and surface details for those bodies, while radio astronomy maps the natural emission of objects across the universe.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Astronomy 2e (OpenStax), Ch. 6 (study-guide objective)"
+    },
+    {
+      "id": "ch6-sg-q010",
+      "type": "sa",
+      "text": "Why do astronomers place telescopes in Earth's orbit? What are the advantages for different parts of the spectrum?",
+      "answer": "Orbiting telescopes escape the atmosphere's absorption and blurring. Ultraviolet, X-ray, and gamma-ray astronomy are essentially only possible from space because the atmosphere blocks those wavelengths; infrared observations gain from being above atmospheric water vapor; and even visible-light telescopes achieve much sharper, steadier images without atmospheric seeing.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Astronomy 2e (OpenStax), Ch. 6 (study-guide objective)"
+    },
+    {
+      "id": "ch6-sg-q011",
+      "type": "sa",
+      "text": "What was the problem with the Hubble Space Telescope and how was it solved?",
+      "answer": "Hubble's primary mirror had been ground to slightly the wrong shape, causing spherical aberration that blurred its images. A 1993 servicing mission installed corrective optics (COSTAR) and a new camera with built-in correction, after which Hubble produced the sharp images it was designed for.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Astronomy 2e (OpenStax), Ch. 6 (study-guide objective)"
     }
   ],
   "notes": [
