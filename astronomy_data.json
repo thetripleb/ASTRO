@@ -4,10 +4,2295 @@
     "course": "Astronomy",
     "created": "2026-04-25T07:01:22.613Z"
   },
-  "modules": [],
-  "glossary": [],
-  "flashcards": [],
-  "questions": [],
-  "notes": [],
+  "modules": [
+    {
+      "id": "week-1",
+      "name": "Week 1 — Intro, Observing the Sky, Orbits & Gravity",
+      "desc": "",
+      "chapters": [
+        "Ch1",
+        "Ch2",
+        "Ch3"
+      ],
+      "created": ""
+    },
+    {
+      "id": "week-2",
+      "name": "Week 2 — Earth/Moon/Sky, Radiation & Spectra, Telescopes",
+      "desc": "",
+      "chapters": [
+        "Ch4",
+        "Ch5",
+        "Ch6"
+      ],
+      "created": ""
+    },
+    {
+      "id": "week-3",
+      "name": "Week 3 — Solar System, The Moon, Origin (Ch 8-13 = references)",
+      "desc": "",
+      "chapters": [
+        "Ch7",
+        "Ch8",
+        "Ch9",
+        "Ch10",
+        "Ch11",
+        "Ch12",
+        "Ch13",
+        "Ch14"
+      ],
+      "created": ""
+    },
+    {
+      "id": "week-4",
+      "name": "Week 4 — The Sun (Garden-Variety Star + Nuclear Powerhouse)",
+      "desc": "",
+      "chapters": [
+        "Ch15",
+        "Ch16"
+      ],
+      "created": ""
+    },
+    {
+      "id": "week-5",
+      "name": "Week 5 — Analyzing Starlight, The Stars, Celestial Distances",
+      "desc": "",
+      "chapters": [
+        "Ch17",
+        "Ch18",
+        "Ch19"
+      ],
+      "created": ""
+    },
+    {
+      "id": "week-6",
+      "name": "Week 6 — Birth, Life & Death of Stars, Black Holes",
+      "desc": "",
+      "chapters": [
+        "Ch21",
+        "Ch22",
+        "Ch23",
+        "Ch24"
+      ],
+      "created": ""
+    },
+    {
+      "id": "week-7",
+      "name": "Week 7 — The Milky Way, Galaxies",
+      "desc": "",
+      "chapters": [
+        "Ch25",
+        "Ch26"
+      ],
+      "created": ""
+    },
+    {
+      "id": "week-8",
+      "name": "Week 8 — Cosmology: The Big Bang",
+      "desc": "",
+      "chapters": [
+        "Ch29"
+      ],
+      "created": ""
+    }
+  ],
+  "glossary": [
+    {
+      "id": "ch5-g009",
+      "term": "absorption line spectrum",
+      "def": "A continuous spectrum crossed by dark lines, produced when light passes through a cooler thin gas that removes specific wavelengths.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-g011",
+      "term": "adaptive optics",
+      "def": "A technology that rapidly deforms a telescope mirror to compensate for atmospheric turbulence and sharpen images from the ground.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-g004",
+      "term": "aperture",
+      "def": "The diameter of a telescope's main light-collecting lens or mirror; the single most important factor in its performance.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-g009",
+      "term": "aphelion",
+      "def": "The point in an orbit farthest from the Sun.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-g014",
+      "term": "apparent magnitude",
+      "def": "A number describing how bright a star appears from Earth; smaller (and negative) numbers mean brighter objects.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-g004",
+      "term": "astronomical unit (AU)",
+      "def": "The average distance between Earth and the Sun, about 150 million km; used to measure distances within the solar system.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-g001",
+      "term": "astronomy",
+      "def": "The scientific study of objects beyond Earth and the processes by which they interact, plus the effort to organize that knowledge into a coherent history of the universe.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-g010",
+      "term": "atmospheric seeing",
+      "def": "The blurring and twinkling of images caused by turbulence in Earth's atmosphere, which limits the resolution of ground-based telescopes.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-g006",
+      "term": "axial tilt",
+      "def": "The 23.5 deg angle between Earth's rotation axis and the perpendicular to its orbital plane; the cause of the seasons.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-g012",
+      "term": "Big Bang",
+      "def": "The event roughly 13.8 billion years ago from which the observable universe expanded; the beginning of space, time, matter, and energy as we know them.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-g010",
+      "term": "blackbody radiation",
+      "def": "The continuous spectrum emitted by an idealized object that absorbs and re-emits all radiation; its shape depends only on temperature.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-g009",
+      "term": "CCD (charge-coupled device)",
+      "def": "An electronic detector that records light efficiently as digital images, having largely replaced photographic plates in astronomy.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-g003",
+      "term": "celestial equator",
+      "def": "The great circle on the celestial sphere directly above Earth's equator.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-g002",
+      "term": "celestial pole",
+      "def": "Either of the two points where Earth's rotation axis, extended into space, meets the celestial sphere; the sky appears to turn about these points.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-g001",
+      "term": "celestial sphere",
+      "def": "An imaginary sphere surrounding Earth onto which the stars appear to be projected; a convenient model for describing positions in the sky.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-g008",
+      "term": "chromatic aberration",
+      "def": "A defect of lenses in which different colors focus at slightly different points, blurring the image; mirrors avoid this problem.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-g006",
+      "term": "constellation",
+      "def": "A region of the sky (and the recognizable star pattern within it); modern astronomy uses 88 official constellations covering the whole sky.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-g007",
+      "term": "continuous spectrum",
+      "def": "A spectrum showing light at all wavelengths with no gaps, produced by a hot, dense object such as a glowing solid or dense gas.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-g002",
+      "term": "cosmology",
+      "def": "The branch of astronomy concerned with the origin, large-scale structure, and evolution of the universe as a whole.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-g013",
+      "term": "Doppler effect",
+      "def": "The change in observed wavelength of a wave due to relative motion between source and observer; light is redshifted when the source recedes and blueshifted when it approaches.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-g006",
+      "term": "eccentricity",
+      "def": "A number from 0 to 1 describing how elongated an ellipse is; 0 is a perfect circle, values nearer 1 are more stretched.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-g004",
+      "term": "ecliptic",
+      "def": "The apparent annual path of the Sun against the background stars; also the plane of Earth's orbit.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-g001",
+      "term": "electromagnetic radiation",
+      "def": "Energy that travels through space as oscillating electric and magnetic fields, including radio, infrared, visible light, ultraviolet, X-rays, and gamma rays.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-g004",
+      "term": "electromagnetic spectrum",
+      "def": "The full range of electromagnetic radiation arranged by wavelength or frequency, from radio waves to gamma rays.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-g004",
+      "term": "ellipse",
+      "def": "A closed oval curve for which the sum of the distances from any point on it to two fixed points (foci) is constant.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-g008",
+      "term": "emission line spectrum",
+      "def": "A spectrum of bright lines at specific wavelengths, produced by a hot, thin (low-density) gas.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-g012",
+      "term": "epicycle",
+      "def": "A small circle, used in the Ptolemaic geocentric model, on which a planet moved while the circle's center moved along a larger circle, to reproduce retrograde motion.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-g008",
+      "term": "equinox",
+      "def": "The two times each year when the Sun crosses the celestial equator and day and night are nearly equal everywhere.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-g015",
+      "term": "escape velocity",
+      "def": "The minimum speed an object needs to permanently leave the gravitational pull of a body without further propulsion.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-g007",
+      "term": "focal length",
+      "def": "The distance from a lens or mirror to the point where it brings parallel light to a focus.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-g005",
+      "term": "focus",
+      "def": "One of two fixed points that define an ellipse; the Sun sits at one focus of a planet's orbit.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-g003",
+      "term": "frequency",
+      "def": "The number of wave crests passing a point each second; higher frequency means higher energy and shorter wavelength.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-g010",
+      "term": "galaxy",
+      "def": "A vast, gravitationally bound system of stars, gas, dust, and dark matter, typically containing millions to trillions of stars.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-g009",
+      "term": "geocentric model",
+      "def": "An Earth-centered model of the cosmos in which the Sun, Moon, and planets orbit a stationary Earth.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-g010",
+      "term": "heliocentric model",
+      "def": "A Sun-centered model in which Earth and the other planets orbit the Sun, proposed by Copernicus.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-g008",
+      "term": "horizon",
+      "def": "The circle where the sky appears to meet the ground; it divides the visible sky from the part below.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-g006",
+      "term": "hypothesis",
+      "def": "A tentative, testable explanation proposed to account for an observation.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-g013",
+      "term": "interferometer",
+      "def": "An array of telescopes linked so their signals combine, achieving the resolution of a single instrument as large as their separation.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-g001",
+      "term": "Kepler's first law",
+      "def": "Each planet orbits the Sun in an ellipse, with the Sun at one focus of that ellipse.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-g002",
+      "term": "Kepler's second law",
+      "def": "A line joining a planet to the Sun sweeps out equal areas in equal times, so a planet moves faster when nearer the Sun.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-g003",
+      "term": "Kepler's third law",
+      "def": "The square of a planet's orbital period is proportional to the cube of its average distance from the Sun (P^2 = a^3 in years and AU).",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-g001",
+      "term": "latitude",
+      "def": "Angular distance north or south of Earth's equator, measured in degrees from 0 deg at the equator to 90 deg at the poles.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-g008",
+      "term": "law of nature",
+      "def": "A concise statement (often mathematical) describing a regularity in nature that holds under specified conditions.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-g015",
+      "term": "light travel time",
+      "def": "The delay between when light leaves an object and when we observe it; because of it, looking far away means looking into the past.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-g005",
+      "term": "light-gathering power",
+      "def": "A telescope's ability to collect light, which increases with the area of the aperture (proportional to the diameter squared).",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-g003",
+      "term": "light-year",
+      "def": "The distance light travels in one year (about 9.5 trillion km); a unit of distance, not time.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-g002",
+      "term": "longitude",
+      "def": "Angular distance east or west of the prime meridian, measured in degrees.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-g012",
+      "term": "lunar eclipse",
+      "def": "An event in which Earth passes between the Sun and Moon, casting Earth's shadow on the Moon.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-g011",
+      "term": "Milky Way Galaxy",
+      "def": "The spiral galaxy that contains our Sun and solar system, made up of a few hundred billion stars.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-g010",
+      "term": "Newton's first law",
+      "def": "An object stays at rest or moves in a straight line at constant speed unless acted on by a net external force (inertia).",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-g011",
+      "term": "Newton's second law",
+      "def": "The acceleration of an object equals the net force on it divided by its mass (F = ma).",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-g012",
+      "term": "Newton's third law",
+      "def": "For every action there is an equal and opposite reaction; forces always come in pairs.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-g014",
+      "term": "orbital velocity",
+      "def": "The speed an object must have to stay in a stable orbit, balancing its inertia against gravity.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-g008",
+      "term": "perihelion",
+      "def": "The point in an orbit closest to the Sun.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-g009",
+      "term": "phases of the Moon",
+      "def": "The changing apparent shape of the sunlit Moon as seen from Earth, caused by the Moon's changing position relative to Earth and Sun.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-g005",
+      "term": "photon",
+      "def": "A particle (quantum) of electromagnetic energy; light behaves as both a wave and a stream of photons.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-g013",
+      "term": "precession",
+      "def": "The slow (~26,000-year) conical wobble of Earth's rotation axis, which gradually changes which star marks the celestial pole.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-g012",
+      "term": "radio telescope",
+      "def": "A telescope, usually a large dish, designed to collect and focus radio waves from space.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-g003",
+      "term": "reflecting telescope",
+      "def": "A telescope that uses a curved mirror to collect and focus light; nearly all large research telescopes are reflectors.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-g002",
+      "term": "refracting telescope",
+      "def": "A telescope that uses a lens to bend (refract) and focus incoming light.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-g006",
+      "term": "resolution",
+      "def": "The ability of a telescope to show fine detail and separate objects that are close together in the sky.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-g011",
+      "term": "retrograde motion",
+      "def": "The temporary apparent backward (east-to-west) drift of a planet against the stars, naturally explained by the heliocentric model.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-g004",
+      "term": "revolution",
+      "def": "The orbital motion of one body around another; Earth's revolution around the Sun takes one year.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-g003",
+      "term": "rotation",
+      "def": "The spin of a body about its own axis; Earth's rotation produces day and night.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-g005",
+      "term": "scientific method",
+      "def": "The process of forming a hypothesis, testing it against observation or experiment, and revising ideas based on the evidence.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-g014",
+      "term": "scientific notation",
+      "def": "A way of writing very large or very small numbers as a coefficient times a power of ten (e.g., 3 x 10^8).",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-g005",
+      "term": "season",
+      "def": "A division of the year caused primarily by the tilt of Earth's axis, which changes the directness of sunlight and length of daylight.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-g007",
+      "term": "semimajor axis",
+      "def": "Half the longest diameter of an ellipse; for a planet's orbit it equals the average distance from the Sun.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-g013",
+      "term": "sidereal day",
+      "def": "The rotation period of Earth measured relative to the stars, about 23 hours 56 minutes.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-g014",
+      "term": "solar day",
+      "def": "The time from one local noon to the next, averaging 24 hours; slightly longer than the sidereal day because Earth also moves along its orbit.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-g011",
+      "term": "solar eclipse",
+      "def": "An event in which the Moon passes between the Sun and Earth, blocking the Sun's light for observers in the shadow.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-g009",
+      "term": "solar system",
+      "def": "The Sun together with everything gravitationally bound to it: planets, moons, asteroids, comets, and dust.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-g007",
+      "term": "solstice",
+      "def": "The two times each year when the Sun reaches its greatest distance north or south of the celestial equator, giving the longest and shortest days.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-g014",
+      "term": "space telescope",
+      "def": "A telescope placed above Earth's atmosphere to avoid blurring and to observe wavelengths the atmosphere blocks (such as UV, X-ray, and much infrared).",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-g014",
+      "term": "spectroscopy",
+      "def": "The technique of spreading light into its spectrum to analyze the composition, temperature, motion, and other properties of a source.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-g006",
+      "term": "speed of light",
+      "def": "The constant speed at which all electromagnetic radiation travels in a vacuum, about 300,000 km/s.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-g012",
+      "term": "Stefan-Boltzmann law",
+      "def": "The rule that the total energy radiated per unit area by a hot object rises steeply with temperature (as the fourth power).",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-g010",
+      "term": "synchronous rotation",
+      "def": "Rotation in which a body spins once per orbit, so it always shows the same face to its partner; the Moon does this with Earth.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-g001",
+      "term": "telescope",
+      "def": "An instrument that collects and focuses electromagnetic radiation to make faint, distant objects easier to detect and study.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-g007",
+      "term": "theory",
+      "def": "A well-tested, broad explanation supported by a large body of evidence; in science, much stronger than an everyday 'guess.'",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-g013",
+      "term": "universal gravitation",
+      "def": "Newton's law that every mass attracts every other mass with a force proportional to the product of their masses and inversely proportional to the square of the distance between them.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-g013",
+      "term": "universe",
+      "def": "The totality of all matter, energy, space, and time; everything that exists.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-g002",
+      "term": "wavelength",
+      "def": "The distance between successive crests of a wave; for light it determines color and where the radiation falls in the spectrum.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-g011",
+      "term": "Wien's law",
+      "def": "The rule that hotter objects radiate most strongly at shorter wavelengths, so peak color shifts toward the blue as temperature rises.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-g007",
+      "term": "zenith",
+      "def": "The point on the celestial sphere directly overhead an observer.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-g005",
+      "term": "zodiac",
+      "def": "The band of constellations the Sun appears to pass through along the ecliptic over the course of a year.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "ch1-f001",
+      "front": "What is one light-year, and is it a unit of time or distance?",
+      "back": "A unit of distance: the distance light travels in one year, about 9.5 trillion km.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-f002",
+      "front": "How old is the universe?",
+      "back": "About 13.8 billion years (since the Big Bang).",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-f003",
+      "front": "Roughly how many stars are in the Milky Way?",
+      "back": "A few hundred billion stars.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-f004",
+      "front": "Why does looking at distant objects mean looking back in time?",
+      "back": "Light travels at a finite speed, so we see objects as they were when their light left them.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-f005",
+      "front": "What is the difference between a hypothesis and a theory in science?",
+      "back": "A hypothesis is a tentative testable idea; a theory is a broad, well-tested explanation backed by extensive evidence.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-f006",
+      "front": "What is the approximate distance from Earth to the Sun, and what is it called?",
+      "back": "About 150 million km, called one astronomical unit (AU).",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-f007",
+      "front": "Order these from smallest to largest: galaxy, solar system, star, universe.",
+      "back": "Star, solar system, galaxy, universe.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-f008",
+      "front": "Why do astronomers use scientific notation?",
+      "back": "To write extremely large and small numbers compactly and avoid errors with many zeros.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-f009",
+      "front": "What does cosmology study?",
+      "back": "The origin, large-scale structure, and evolution of the universe as a whole.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-f001",
+      "front": "What is the ecliptic?",
+      "back": "The Sun's apparent yearly path against the background stars, which is also the plane of Earth's orbit.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-f002",
+      "front": "What causes the apparent daily rotation of the sky?",
+      "back": "Earth's rotation on its axis from west to east.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-f003",
+      "front": "What is retrograde motion and what causes it?",
+      "back": "The apparent backward drift of a planet against the stars, caused by Earth overtaking (or being overtaken by) another planet as both orbit the Sun.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-f004",
+      "front": "Who proposed a Sun-centered (heliocentric) model in the 1500s?",
+      "back": "Nicolaus Copernicus.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-f005",
+      "front": "How did the geocentric model explain retrograde motion?",
+      "back": "With epicycles: planets moved on small circles whose centers moved along larger circles around Earth.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-f006",
+      "front": "What is precession?",
+      "back": "A slow ~26,000-year wobble of Earth's axis that changes which star is the pole star over time.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-f007",
+      "front": "In the magnitude system, does a larger or smaller number mean a brighter star?",
+      "back": "A smaller (or more negative) number means a brighter star.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-f008",
+      "front": "How many official constellations are there?",
+      "back": "88, covering the entire sky.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-f009",
+      "front": "What is the zenith?",
+      "back": "The point in the sky directly overhead the observer.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-f001",
+      "front": "State Kepler's first law.",
+      "back": "Planets orbit the Sun in ellipses with the Sun at one focus.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-f002",
+      "front": "State Kepler's second law and its consequence.",
+      "back": "A planet-Sun line sweeps equal areas in equal times, so planets move faster near the Sun (perihelion) and slower when far (aphelion).",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-f003",
+      "front": "State Kepler's third law as a formula.",
+      "back": "P^2 = a^3, where P is the orbital period in years and a is the semimajor axis in AU.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-f004",
+      "front": "What does eccentricity measure?",
+      "back": "How stretched-out an ellipse is: 0 = circle, approaching 1 = very elongated.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-f005",
+      "front": "What is Newton's second law?",
+      "back": "Force equals mass times acceleration (F = ma).",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-f006",
+      "front": "What does Newton's law of universal gravitation say about distance?",
+      "back": "Gravitational force decreases with the square of the distance (inverse-square law).",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-f007",
+      "front": "What is the difference between perihelion and aphelion?",
+      "back": "Perihelion is the closest point to the Sun; aphelion is the farthest point.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-f008",
+      "front": "What is escape velocity?",
+      "back": "The minimum speed to permanently leave a body's gravity without more thrust.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-f009",
+      "front": "How did Newton explain Kepler's laws?",
+      "back": "He showed they follow mathematically from his laws of motion plus the inverse-square law of gravity.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-f001",
+      "front": "What causes Earth's seasons?",
+      "back": "The 23.5 deg tilt of Earth's axis, which changes how directly sunlight strikes a hemisphere and how long the Sun is up — not Earth's distance from the Sun.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-f002",
+      "front": "Why do we always see the same side of the Moon?",
+      "back": "The Moon is in synchronous rotation: it spins once per orbit, so the same face always points toward Earth.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-f003",
+      "front": "What is the difference between a solstice and an equinox?",
+      "back": "Solstices are the longest/shortest days (Sun farthest from celestial equator); equinoxes have nearly equal day and night (Sun on the celestial equator).",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-f004",
+      "front": "What is the difference between rotation and revolution?",
+      "back": "Rotation is spinning on an axis (day/night); revolution is orbiting another body (the year).",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-f005",
+      "front": "During a solar eclipse, what lies between the Sun and Earth?",
+      "back": "The Moon (it blocks the Sun's light).",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-f006",
+      "front": "During a lunar eclipse, what lies between the Sun and Moon?",
+      "back": "Earth (its shadow falls on the Moon).",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-f007",
+      "front": "Why isn't there an eclipse every month?",
+      "back": "The Moon's orbit is tilted about 5 deg to Earth's orbit, so the three bodies usually don't line up exactly.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-f008",
+      "front": "Why is a solar day slightly longer than a sidereal day?",
+      "back": "Because while Earth rotates, it also moves along its orbit, so it must turn a bit extra (~4 minutes) to bring the Sun back to the same position.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-f009",
+      "front": "Does the Moon produce its own light?",
+      "back": "No; we see sunlight reflected off the Moon, and the phases depend on the Sun-Earth-Moon geometry.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-f001",
+      "front": "List the electromagnetic spectrum from longest to shortest wavelength.",
+      "back": "Radio, microwave, infrared, visible, ultraviolet, X-ray, gamma ray.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-f002",
+      "front": "How are a photon's energy, frequency, and wavelength related?",
+      "back": "Higher frequency = shorter wavelength = higher energy; longer wavelength = lower frequency = lower energy.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-f003",
+      "front": "What is the speed of light in a vacuum?",
+      "back": "About 300,000 km/s, the same for all electromagnetic radiation.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-f004",
+      "front": "What kind of source produces a continuous spectrum?",
+      "back": "A hot, dense object (a glowing solid, liquid, or dense gas).",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-f005",
+      "front": "What produces an emission-line spectrum?",
+      "back": "A hot, thin (low-density) gas, which emits light only at specific wavelengths.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-f006",
+      "front": "What produces an absorption-line spectrum?",
+      "back": "A continuous source seen through a cooler thin gas, which removes specific wavelengths and leaves dark lines.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-f007",
+      "front": "What does Wien's law tell us about a hot vs. cool star?",
+      "back": "Hotter objects peak at shorter (bluer) wavelengths; cooler objects peak at longer (redder) wavelengths — so color indicates temperature.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-f008",
+      "front": "What does a redshift in a star's spectrum indicate?",
+      "back": "The source is moving away from us (Doppler effect); a blueshift means it is approaching.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-f009",
+      "front": "Why is spectroscopy so powerful in astronomy?",
+      "back": "Spectral lines reveal composition, temperature, density, and motion of objects we can never visit.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-f001",
+      "front": "What is the most important property of a telescope, and why?",
+      "back": "Its aperture (diameter): a larger aperture collects more light and can resolve finer detail.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-f002",
+      "front": "How does light-gathering power depend on aperture?",
+      "back": "It is proportional to the area, i.e., to the diameter squared — doubling the diameter collects four times as much light.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-f003",
+      "front": "Why are nearly all large modern telescopes reflectors rather than refractors?",
+      "back": "Mirrors avoid chromatic aberration, can be made very large and supported from behind, and large quality lenses are heavy and hard to make.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-f004",
+      "front": "What is chromatic aberration and which telescope type suffers from it?",
+      "back": "Different colors focusing at different points, blurring the image; it affects refractors (lenses), not reflectors (mirrors).",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-f005",
+      "front": "What causes stars to twinkle, and how does it affect telescopes?",
+      "back": "Turbulence in Earth's atmosphere (atmospheric seeing), which blurs images and limits ground-based resolution.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-f006",
+      "front": "What does adaptive optics do?",
+      "back": "It rapidly reshapes a telescope mirror to cancel atmospheric distortion, sharpening ground-based images.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-f007",
+      "front": "Why put telescopes in space?",
+      "back": "To escape atmospheric blurring and to observe wavelengths (UV, X-ray, much IR) that the atmosphere absorbs.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-f008",
+      "front": "What is a CCD and what did it replace?",
+      "back": "A charge-coupled device, an efficient electronic light detector that replaced photographic plates.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-f009",
+      "front": "How does an interferometer improve resolution?",
+      "back": "By combining signals from telescopes spread apart, it achieves the resolving power of a single dish as large as their separation.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "ch1-q001",
+      "type": "mc",
+      "text": "A light-year is a measure of which quantity?",
+      "answer": "Distance",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Distance",
+        "Time",
+        "Speed",
+        "Brightness"
+      ]
+    },
+    {
+      "id": "ch1-q002",
+      "type": "mc",
+      "text": "Approximately how old is the universe?",
+      "answer": "About 13.8 billion years",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "About 4.6 billion years",
+        "About 13.8 billion years",
+        "About 100 million years",
+        "About 1 trillion years"
+      ]
+    },
+    {
+      "id": "ch1-q003",
+      "type": "tf",
+      "text": "Because light travels at a finite speed, observing a distant galaxy shows it as it was in the past.",
+      "answer": "True",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-q004",
+      "type": "tf",
+      "text": "In science, the word 'theory' means little more than a casual guess.",
+      "answer": "False",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-q005",
+      "type": "fitb",
+      "text": "The average distance between Earth and the Sun is called one astronomical ______.",
+      "answer": "unit",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-q006",
+      "type": "fitb",
+      "text": "The galaxy that contains our solar system is the ______ Way.",
+      "answer": "Milky",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-q007",
+      "type": "sa",
+      "text": "Explain why astronomers say that telescopes are, in effect, time machines.",
+      "answer": "Light takes time to reach us, so the farther away an object is, the longer ago its light left it; observing distant objects therefore shows them as they were in the past, not as they are now.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-q008",
+      "type": "sa",
+      "text": "Describe the basic steps of the scientific method.",
+      "answer": "Make observations, propose a testable hypothesis, make predictions, test them with further observation or experiment, and revise or discard the hypothesis based on the evidence; well-supported explanations may become theories.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-q009",
+      "type": "match",
+      "text": "Match each scale or object to the correct description.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "pairs": [
+        [
+          "Solar system",
+          "The Sun plus everything bound to it"
+        ],
+        [
+          "Galaxy",
+          "Billions of stars bound by gravity"
+        ],
+        [
+          "Light-year",
+          "A unit of distance"
+        ],
+        [
+          "Big Bang",
+          "The origin event of the universe"
+        ]
+      ]
+    },
+    {
+      "id": "ch1-q010",
+      "type": "mc",
+      "text": "Which list is correctly ordered from smallest to largest in physical scale?",
+      "answer": "Star, solar system, galaxy, universe",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Galaxy, star, solar system, universe",
+        "Star, solar system, galaxy, universe",
+        "Universe, galaxy, star, solar system",
+        "Solar system, star, universe, galaxy"
+      ]
+    },
+    {
+      "id": "ch1-q011",
+      "type": "tf",
+      "text": "The Milky Way contains roughly a few hundred billion stars.",
+      "answer": "True",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-q001",
+      "type": "mc",
+      "text": "The apparent backward motion of a planet against the background stars is called:",
+      "answer": "Retrograde motion",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Precession",
+        "Retrograde motion",
+        "Parallax",
+        "Aberration"
+      ]
+    },
+    {
+      "id": "ch2-q002",
+      "type": "mc",
+      "text": "Who is credited with reviving the heliocentric (Sun-centered) model in the 1500s?",
+      "answer": "Copernicus",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Ptolemy",
+        "Aristotle",
+        "Copernicus",
+        "Tycho Brahe"
+      ]
+    },
+    {
+      "id": "ch2-q003",
+      "type": "tf",
+      "text": "The daily rising and setting of stars is caused by Earth's rotation on its axis.",
+      "answer": "True",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-q004",
+      "type": "tf",
+      "text": "In the magnitude system, brighter stars have larger positive numbers.",
+      "answer": "False",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-q005",
+      "type": "fitb",
+      "text": "The Sun's apparent yearly path among the stars is called the ______.",
+      "answer": "ecliptic",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-q006",
+      "type": "fitb",
+      "text": "Ptolemy's geocentric model used small circles called ______ to reproduce retrograde motion.",
+      "answer": "epicycles",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-q007",
+      "type": "sa",
+      "text": "Explain how the heliocentric model accounts for the retrograde motion of planets like Mars.",
+      "answer": "As Earth, on a faster inner orbit, overtakes a slower outer planet like Mars, the outer planet appears to drift backward against the distant stars for a time before resuming its normal eastward motion; it is an effect of the changing line of sight, not real backward motion.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-q008",
+      "type": "sa",
+      "text": "Why did the geocentric model persist for so long despite being incorrect?",
+      "answer": "It matched everyday experience (Earth feels stationary), agreed with the authority of Aristotle and Ptolemy, fit religious/philosophical views of the time, and—with enough epicycles—could predict planetary positions reasonably well.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-q009",
+      "type": "match",
+      "text": "Match each term to its description.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "pairs": [
+        [
+          "Zenith",
+          "Point directly overhead"
+        ],
+        [
+          "Ecliptic",
+          "Sun's yearly path among the stars"
+        ],
+        [
+          "Celestial pole",
+          "Point the sky appears to rotate around"
+        ],
+        [
+          "Precession",
+          "26,000-year wobble of Earth's axis"
+        ]
+      ]
+    },
+    {
+      "id": "ch2-q010",
+      "type": "mc",
+      "text": "Earth's slow ~26,000-year axial wobble is called:",
+      "answer": "Precession",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Retrograde motion",
+        "Precession",
+        "Nutation",
+        "Libration"
+      ]
+    },
+    {
+      "id": "ch2-q011",
+      "type": "tf",
+      "text": "There are 88 official modern constellations covering the whole sky.",
+      "answer": "True",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-q001",
+      "type": "mc",
+      "text": "According to Kepler's first law, the orbit of a planet is:",
+      "answer": "An ellipse with the Sun at one focus",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "A perfect circle",
+        "An ellipse with the Sun at one focus",
+        "A parabola",
+        "A spiral"
+      ]
+    },
+    {
+      "id": "ch3-q002",
+      "type": "mc",
+      "text": "Kepler's third law is best written as:",
+      "answer": "P^2 = a^3",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "P = a",
+        "P^2 = a^3",
+        "P^3 = a^2",
+        "F = ma"
+      ]
+    },
+    {
+      "id": "ch3-q003",
+      "type": "tf",
+      "text": "A planet moves fastest in its orbit when it is at perihelion (closest to the Sun).",
+      "answer": "True",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-q004",
+      "type": "tf",
+      "text": "Gravitational force is directly proportional to the distance between two objects.",
+      "answer": "False",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-q005",
+      "type": "fitb",
+      "text": "The point in an orbit closest to the Sun is called ______.",
+      "answer": "perihelion",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-q006",
+      "type": "fitb",
+      "text": "Newton's second law of motion is written as the equation F = m______.",
+      "answer": "a",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-q007",
+      "type": "sa",
+      "text": "Using Kepler's third law, explain how you would find the orbital period of a planet whose semimajor axis is 4 AU.",
+      "answer": "Kepler's third law gives P^2 = a^3. With a = 4 AU, a^3 = 64, so P^2 = 64 and P = 8 years.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-q008",
+      "type": "sa",
+      "text": "Describe how gravity keeps a planet in orbit instead of flying off in a straight line.",
+      "answer": "By inertia (Newton's first law) a planet tends to move in a straight line, but the Sun's gravity continuously pulls it toward the Sun. The constant sideways pull bends the straight-line path into a closed, curved orbit; the planet is essentially 'falling' around the Sun.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-q009",
+      "type": "match",
+      "text": "Match each law to its statement.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "pairs": [
+        [
+          "Kepler's 1st law",
+          "Orbits are ellipses with the Sun at a focus"
+        ],
+        [
+          "Kepler's 2nd law",
+          "Equal areas swept in equal times"
+        ],
+        [
+          "Kepler's 3rd law",
+          "P^2 equals a^3"
+        ],
+        [
+          "Newton's 2nd law",
+          "Force equals mass times acceleration"
+        ]
+      ]
+    },
+    {
+      "id": "ch3-q010",
+      "type": "mc",
+      "text": "The inverse-square nature of gravity means that if the distance between two masses doubles, the gravitational force becomes:",
+      "answer": "One-fourth as strong",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Twice as strong",
+        "Half as strong",
+        "One-fourth as strong",
+        "Unchanged"
+      ]
+    },
+    {
+      "id": "ch3-q011",
+      "type": "tf",
+      "text": "Newton showed that Kepler's three laws follow from his laws of motion and the law of universal gravitation.",
+      "answer": "True",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-q001",
+      "type": "mc",
+      "text": "Earth's seasons are caused primarily by:",
+      "answer": "The tilt of Earth's rotation axis",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Earth's changing distance from the Sun",
+        "The tilt of Earth's rotation axis",
+        "Variations in the Sun's output",
+        "The phases of the Moon"
+      ]
+    },
+    {
+      "id": "ch4-q002",
+      "type": "mc",
+      "text": "We always see the same side of the Moon because the Moon:",
+      "answer": "Rotates once per orbit (synchronous rotation)",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Does not rotate at all",
+        "Rotates once per orbit (synchronous rotation)",
+        "Rotates much faster than it orbits",
+        "Is tidally pushed away from Earth"
+      ]
+    },
+    {
+      "id": "ch4-q003",
+      "type": "tf",
+      "text": "During a total solar eclipse, the Moon is positioned between the Sun and Earth.",
+      "answer": "True",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-q004",
+      "type": "tf",
+      "text": "Earth's seasons occur because Earth is much closer to the Sun in summer.",
+      "answer": "False",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-q005",
+      "type": "fitb",
+      "text": "The two days each year when day and night are nearly equal in length are called the ______.",
+      "answer": "equinoxes",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-q006",
+      "type": "fitb",
+      "text": "Earth's rotation axis is tilted about 23.5 ______ from the perpendicular to its orbit.",
+      "answer": "degrees",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-q007",
+      "type": "sa",
+      "text": "Explain why the tilt of Earth's axis, not its distance from the Sun, drives the seasons.",
+      "answer": "The tilt means each hemisphere is angled toward the Sun for part of the year (more direct sunlight and longer days = summer) and away for another part (less direct light, shorter days = winter). When one hemisphere has summer the other has winter, which couldn't happen if distance were the cause; in fact Earth is slightly closer to the Sun during Northern Hemisphere winter.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-q008",
+      "type": "sa",
+      "text": "Why don't solar and lunar eclipses happen every month?",
+      "answer": "The Moon's orbit is tilted about 5 degrees relative to Earth's orbit around the Sun, so most months the Moon passes above or below the exact Sun-Earth line. Eclipses only occur when the alignment is close enough during new moon (solar) or full moon (lunar).",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-q009",
+      "type": "match",
+      "text": "Match each event to its Sun-Earth-Moon geometry.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "pairs": [
+        [
+          "Solar eclipse",
+          "Moon between Sun and Earth"
+        ],
+        [
+          "Lunar eclipse",
+          "Earth between Sun and Moon"
+        ],
+        [
+          "Full moon",
+          "Moon opposite the Sun, fully lit face toward us"
+        ],
+        [
+          "New moon",
+          "Moon between us and the Sun, dark face toward us"
+        ]
+      ]
+    },
+    {
+      "id": "ch4-q010",
+      "type": "mc",
+      "text": "A sidereal day (relative to the stars) is about:",
+      "answer": "23 hours 56 minutes",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Exactly 24 hours",
+        "23 hours 56 minutes",
+        "25 hours",
+        "12 hours"
+      ]
+    },
+    {
+      "id": "ch4-q011",
+      "type": "tf",
+      "text": "Rotation produces day and night, while revolution around the Sun produces the year.",
+      "answer": "True",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-q001",
+      "type": "mc",
+      "text": "Which of the following has the longest wavelength?",
+      "answer": "Radio waves",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Gamma rays",
+        "Visible light",
+        "X-rays",
+        "Radio waves"
+      ]
+    },
+    {
+      "id": "ch5-q002",
+      "type": "mc",
+      "text": "A hot, low-density gas produces which kind of spectrum?",
+      "answer": "Emission-line spectrum",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Continuous spectrum",
+        "Emission-line spectrum",
+        "Absorption-line spectrum",
+        "No spectrum at all"
+      ]
+    },
+    {
+      "id": "ch5-q003",
+      "type": "tf",
+      "text": "All forms of electromagnetic radiation travel at the same speed in a vacuum.",
+      "answer": "True",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-q004",
+      "type": "tf",
+      "text": "A blueshift in a spectrum means the object is moving away from us.",
+      "answer": "False",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-q005",
+      "type": "fitb",
+      "text": "The change in observed wavelength caused by a source's motion toward or away from us is called the ______ effect.",
+      "answer": "Doppler",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-q006",
+      "type": "fitb",
+      "text": "According to Wien's law, the ______ an object is, the shorter the wavelength at which it radiates most strongly.",
+      "answer": "hotter",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-q007",
+      "type": "sa",
+      "text": "Explain how astronomers can determine a star's temperature from its light.",
+      "answer": "A star radiates approximately as a blackbody, so the wavelength at which it is brightest depends on its temperature (Wien's law). Measuring the peak (or overall color) reveals the temperature: bluer peaks mean hotter stars, redder peaks mean cooler ones.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-q008",
+      "type": "sa",
+      "text": "Describe how the three types of spectra (continuous, emission, absorption) are produced.",
+      "answer": "A hot dense object gives a continuous spectrum (all wavelengths). A hot thin gas gives an emission-line spectrum (bright lines at specific wavelengths). A continuous source viewed through a cooler thin gas gives an absorption-line spectrum (dark lines where the gas removes specific wavelengths). These are summarized by Kirchhoff's laws.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-q009",
+      "type": "match",
+      "text": "Match each spectrum or law to its description.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "pairs": [
+        [
+          "Continuous spectrum",
+          "Produced by a hot, dense object"
+        ],
+        [
+          "Emission-line spectrum",
+          "Produced by a hot, thin gas"
+        ],
+        [
+          "Absorption-line spectrum",
+          "Dark lines from a cool gas in front of a hot source"
+        ],
+        [
+          "Wien's law",
+          "Hotter objects peak at shorter wavelengths"
+        ]
+      ]
+    },
+    {
+      "id": "ch5-q010",
+      "type": "mc",
+      "text": "If a star's spectral lines are shifted toward longer (redder) wavelengths, the star is:",
+      "answer": "Moving away from us",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Moving toward us",
+        "Moving away from us",
+        "Not moving",
+        "Getting hotter"
+      ]
+    },
+    {
+      "id": "ch5-q011",
+      "type": "tf",
+      "text": "An emission-line spectrum can reveal which chemical elements are present in a glowing gas.",
+      "answer": "True",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-q001",
+      "type": "mc",
+      "text": "The single most important property of a telescope is its:",
+      "answer": "Aperture (diameter)",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Length",
+        "Magnification",
+        "Aperture (diameter)",
+        "Weight"
+      ]
+    },
+    {
+      "id": "ch6-q002",
+      "type": "mc",
+      "text": "If you double the diameter of a telescope's mirror, its light-gathering power increases by a factor of:",
+      "answer": "4",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ]
+    },
+    {
+      "id": "ch6-q003",
+      "type": "tf",
+      "text": "Reflecting telescopes use a curved mirror to gather and focus light.",
+      "answer": "True",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-q004",
+      "type": "tf",
+      "text": "Refracting telescopes are free of chromatic aberration.",
+      "answer": "False",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-q005",
+      "type": "fitb",
+      "text": "The blurring of images caused by turbulence in Earth's atmosphere is called atmospheric ______.",
+      "answer": "seeing",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-q006",
+      "type": "fitb",
+      "text": "An electronic detector called a ______ has replaced photographic plates for recording astronomical images.",
+      "answer": "CCD",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-q007",
+      "type": "sa",
+      "text": "Explain two distinct advantages of putting a telescope in space rather than on the ground.",
+      "answer": "First, it escapes atmospheric turbulence (seeing), allowing much sharper images. Second, it can observe wavelengths the atmosphere absorbs—such as ultraviolet, X-rays, and much of the infrared—that never reach the ground.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-q008",
+      "type": "sa",
+      "text": "Why do astronomers prefer building larger telescopes, and what two benefits does a larger aperture provide?",
+      "answer": "A larger aperture collects more light (light-gathering power scales with diameter squared), letting astronomers see fainter objects, and it provides finer resolution, letting them distinguish more detail and separate closely spaced objects.",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch6-q009",
+      "type": "match",
+      "text": "Match each instrument or technique to its purpose.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "pairs": [
+        [
+          "Reflecting telescope",
+          "Uses a mirror to focus light"
+        ],
+        [
+          "Adaptive optics",
+          "Corrects for atmospheric turbulence"
+        ],
+        [
+          "Interferometer",
+          "Links telescopes for higher resolution"
+        ],
+        [
+          "Space telescope",
+          "Observes above the atmosphere"
+        ]
+      ]
+    },
+    {
+      "id": "ch6-q010",
+      "type": "mc",
+      "text": "Chromatic aberration is a problem associated specifically with:",
+      "answer": "Lenses",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Mirrors",
+        "Lenses",
+        "CCDs",
+        "Radio dishes"
+      ]
+    },
+    {
+      "id": "ch6-q011",
+      "type": "tf",
+      "text": "Radio telescopes must generally be much larger than visible-light telescopes to achieve comparable resolution.",
+      "answer": "True",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    }
+  ],
+  "notes": [
+    {
+      "id": "ch6-note001",
+      "title": "Ch. 6 — Astronomical Instruments",
+      "body": "# Astronomical Instruments\n\n## What telescopes do\n- Collect and focus electromagnetic radiation so faint, distant objects can be studied.\n- They do NOT just magnify — their main job is **gathering light** and **resolving detail**.\n\n## Two basic optical designs\n- **Refractor:** uses a **lens**. Suffers **chromatic aberration** (colors focus differently); hard to make large.\n- **Reflector:** uses a **mirror**. No chromatic aberration; can be made huge. **All large research telescopes are reflectors.**\n\n## Aperture = the key spec\n- **Aperture** = diameter of the main lens/mirror.\n- **Light-gathering power ∝ diameter²** → double the diameter = **4×** the light.\n- Bigger aperture also = **better resolution** (finer detail).\n\n## Detectors\n- **CCDs** (electronic) replaced photographic plates — far more efficient and digital.\n\n## Earth's atmosphere = the enemy\n- **Atmospheric seeing:** turbulence blurs/twinkles images, limiting ground resolution.\n- **Adaptive optics:** mirror flexes rapidly to cancel turbulence → sharp ground images.\n\n## Beyond the ground / beyond visible light\n- **Space telescopes:** avoid seeing AND reach blocked wavelengths (UV, X-ray, much IR).\n- **Radio telescopes:** big dishes for radio waves (must be large for good resolution).\n- **Interferometers:** link separated telescopes → resolution of a dish as wide as their spacing.\n\n## ★ KEY EXAM POINTS\n- ★ **Aperture** is the most important property (light-gathering + resolution).\n- ★ Light-gathering ∝ **diameter²** (2× diameter → 4× light).\n- ★ Big telescopes = **reflectors** (mirrors); refractors suffer **chromatic aberration**.\n- ★ Space telescopes: escape **seeing** + reach **UV/X-ray/IR** blocked by the atmosphere.\n- ★ Interferometry links dishes for the resolution of a much larger instrument.\n",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch5-note001",
+      "title": "Ch. 5 — Radiation and Spectra",
+      "body": "# Radiation and Spectra\n\n## Light = electromagnetic radiation\n- Oscillating electric + magnetic fields; travels at **~300,000 km/s** in vacuum.\n- Wave AND particle: a particle of light is a **photon**.\n- **Wavelength** ↔ **frequency** ↔ **energy**:\n  - short wavelength = high frequency = high energy\n  - long wavelength = low frequency = low energy\n\n## The electromagnetic spectrum (long → short λ)\n- **Radio → microwave → infrared → visible → ultraviolet → X-ray → gamma ray**\n- Visible light is a tiny slice in the middle.\n\n## Blackbody / thermal radiation\n- A hot dense object radiates a continuous spectrum set only by its **temperature**.\n- **Wien's law:** hotter → peaks at **shorter (bluer)** wavelength → color tells temperature.\n- **Stefan-Boltzmann law:** total energy radiated rises as **T⁴** (very steep).\n\n## Three spectra (Kirchhoff's laws)\n- **Continuous:** hot, **dense** object (solid/dense gas).\n- **Emission lines:** hot, **thin** gas → bright lines at specific λ.\n- **Absorption lines:** continuous source seen **through** a cooler thin gas → dark lines.\n- Lines act like fingerprints → identify **elements**.\n\n## Doppler effect\n- Source receding → **redshift** (longer λ).\n- Source approaching → **blueshift** (shorter λ).\n- Lets us measure motion of stars and galaxies along the line of sight.\n\n## Why it matters\n- **Spectroscopy** reveals composition, temperature, density, and motion of objects we can never visit.\n\n## ★ KEY EXAM POINTS\n- ★ EM spectrum order: radio → micro → IR → visible → UV → X-ray → gamma.\n- ★ Shorter λ = higher frequency = higher energy.\n- ★ Wien's law: hotter = bluer peak (color → temperature).\n- ★ Spectra: dense=continuous, thin hot gas=emission, cool gas in front=absorption.\n- ★ Doppler: redshift = receding, blueshift = approaching.\n",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch4-note001",
+      "title": "Ch. 4 — Earth, Moon, and Sky",
+      "body": "# Earth, Moon, and Sky\n\n## Position on Earth\n- **Latitude:** degrees N/S of the equator (0–90 deg).\n- **Longitude:** degrees E/W of the prime meridian.\n\n## Rotation vs. revolution\n- **Rotation:** spin on axis → day/night.\n- **Revolution:** orbit the Sun → the year.\n- **Sidereal day:** ~23h 56m (vs. stars). **Solar day:** ~24h (vs. Sun) — longer because Earth also moves along its orbit.\n\n## Seasons (cause = AXIAL TILT, not distance)\n- Axis tilted **23.5 deg**.\n- Hemisphere tilted toward Sun → direct light + long days = **summer**.\n- Opposite hemisphere has winter at the same time → distance can't be the cause.\n- **Solstices:** longest/shortest days (Sun farthest from celestial equator).\n- **Equinoxes:** ~equal day/night (Sun on celestial equator).\n\n## The Moon\n- Shines by **reflected sunlight**; phases come from Sun-Earth-Moon geometry.\n- **Synchronous rotation:** spins once per orbit → same face always toward Earth.\n- New moon (between us & Sun) → full moon (opposite Sun) and back, ~29.5 days.\n\n## Eclipses\n- **Solar:** Moon between Sun and Earth (at new moon).\n- **Lunar:** Earth between Sun and Moon (at full moon).\n- Not monthly because the Moon's orbit is tilted ~5 deg → alignment is usually off.\n\n## ★ KEY EXAM POINTS\n- ★ Seasons = **axial tilt (23.5 deg)**, NOT Earth–Sun distance.\n- ★ Same face of Moon → **synchronous rotation** (spins once per orbit).\n- ★ Solar eclipse: **Moon in the middle**; lunar eclipse: **Earth in the middle**.\n- ★ No monthly eclipses because the Moon's orbit is tilted ~5 deg.\n- ★ Solstice = longest/shortest day; equinox = equal day/night.\n",
+      "image": null,
+      "module": "week-2",
+      "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-note001",
+      "title": "Ch. 3 — Orbits and Gravity",
+      "body": "# Orbits and Gravity\n\n## Kepler's three laws (empirical, from Tycho's data)\n- **1st (Law of Ellipses):** Planets orbit the Sun in **ellipses**, Sun at one **focus**.\n- **2nd (Law of Equal Areas):** The planet-Sun line sweeps **equal areas in equal times** → planet is **fastest at perihelion**, slowest at aphelion.\n- **3rd (Harmonic Law):** **P^2 = a^3** (P in years, a in AU). Bigger orbit → much longer period.\n\n## Ellipse vocabulary\n- **Foci:** two defining points; Sun sits at one.\n- **Eccentricity (e):** 0 = circle, near 1 = very stretched.\n- **Semimajor axis (a):** half the long axis = average distance from Sun.\n- **Perihelion:** closest to Sun. **Aphelion:** farthest.\n\n## Newton's laws of motion\n- **1st:** inertia — no net force → no change in motion.\n- **2nd:** **F = ma**.\n- **3rd:** equal and opposite reaction; forces come in pairs.\n\n## Universal gravitation\n- Every mass attracts every other mass.\n- Force ∝ (m1 × m2) and ∝ 1/distance² → **inverse-square law**.\n- Double the distance → force drops to **1/4**.\n\n## Why orbits happen\n- Inertia wants straight-line motion; gravity pulls toward the central body.\n- The combination = continuous 'falling around' → a closed orbit.\n- **Escape velocity:** minimum speed to leave for good.\n\n## Newton unifies it\n- Kepler's laws are *derived* from Newton's motion laws + inverse-square gravity.\n\n## ★ KEY EXAM POINTS\n- ★ Memorize **P^2 = a^3** (years, AU). a=4 → P=8 yr.\n- ★ Fastest at **perihelion** (2nd law / equal areas).\n- ★ Gravity is **inverse-square**: 2× distance → 1/4 force.\n- ★ Orbits = inertia + gravity (falling around the Sun).\n- ★ Newton's 2nd law: **F = ma**.\n",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-note001",
+      "title": "Ch. 2 — Observing the Sky: The Birth of Astronomy",
+      "body": "# Observing the Sky: The Birth of Astronomy\n\n## The celestial sphere (a model)\n- An imaginary sphere with the stars 'attached'; useful for describing positions.\n- **Celestial poles:** Earth's axis extended; sky appears to spin around them.\n- **Celestial equator:** projection of Earth's equator.\n- **Zenith:** point directly overhead. **Horizon:** where sky meets ground.\n\n## Apparent motions\n- **Daily:** sky rises in east, sets in west — caused by Earth's **rotation**.\n- **Yearly:** Sun drifts eastward through the **zodiac** along the **ecliptic** — caused by Earth's **orbit**.\n- The ecliptic is also the plane of Earth's orbit.\n\n## Brightness: the magnitude system\n- Smaller number = brighter; the brightest objects have negative magnitudes.\n- It is a backwards/counterintuitive scale (inherited from the Greeks).\n\n## Ancient models\n- **Geocentric (Earth-centered):** Aristotle/Ptolemy. Used **epicycles** to fake retrograde motion.\n- **Heliocentric (Sun-centered):** Copernicus (1500s). Retrograde motion falls out naturally from Earth overtaking outer planets.\n\n## Retrograde motion\n- A planet appears to drift backward (westward) for weeks, then resumes eastward motion.\n- Heliocentric explanation: changing line of sight as Earth laps an outer planet — no real reversal.\n\n## Precession\n- Slow ~26,000-year conical wobble of Earth's axis.\n- Changes which star is the 'pole star' over millennia (e.g., not always Polaris).\n\n## ★ KEY EXAM POINTS\n- ★ Daily sky motion = Earth's **rotation**; yearly Sun motion = Earth's **orbit**.\n- ★ Ecliptic = Sun's apparent yearly path = plane of Earth's orbit.\n- ★ Geocentric used **epicycles**; heliocentric (Copernicus) explains retrograde naturally.\n- ★ Magnitudes: **smaller/negative = brighter**.\n- ★ Precession ≈ 26,000-year axial wobble; changes the pole star.\n",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch1-note001",
+      "title": "Ch. 1 — Science and the Universe: A Brief Tour",
+      "body": "# Science and the Universe: A Brief Tour\n\n## What astronomy is\n- Astronomy is the study of everything beyond Earth and how those objects interact.\n- It is also the effort to assemble what we learn into a single history of the universe, from the Big Bang to now.\n- Science is a *progress report*: ideas change as new instruments and techniques let us probe deeper.\n\n## A sense of scale (key distances)\n- **Astronomical unit (AU):** Earth–Sun distance, ~150 million km. Used inside the solar system.\n- **Light-year:** distance light travels in one year, ~9.5 trillion km. Used between stars and galaxies. (It is a *distance*, not a time.)\n- Light speed is finite, so distance = looking back in time.\n\n## Structure of the universe (small to large)\n- Stars (like the Sun)\n- Solar system (Sun + planets, moons, asteroids, comets)\n- Galaxy (the Milky Way: a few hundred billion stars)\n- Groups/clusters of galaxies\n- The universe as a whole\n\n## Time\n- The universe is about **13.8 billion years** old (since the Big Bang).\n- Earth and the solar system are about **4.6 billion years** old.\n\n## How science works\n- **Hypothesis:** a testable tentative explanation.\n- **Theory:** a broad, repeatedly tested explanation backed by lots of evidence (a *strong* word in science).\n- **Law of nature:** a concise, often mathematical statement of a regularity.\n\n## ★ KEY EXAM POINTS\n- ★ A light-year is a unit of **distance**, not time.\n- ★ One AU ≈ 150 million km (Earth–Sun distance).\n- ★ Universe age ≈ 13.8 billion years; solar system/Earth ≈ 4.6 billion years.\n- ★ Finite light speed → distant = past (\"telescopes are time machines\").\n- ★ In science, a \"theory\" is well-supported, not a mere guess.\n",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    }
+  ],
   "questionStats": {}
 }
