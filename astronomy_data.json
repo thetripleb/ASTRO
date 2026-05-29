@@ -2236,6 +2236,176 @@
       "module": "week-2",
       "chapter": "Ch6",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "wk1-obj-001",
+      "type": "sa",
+      "text": "Define \"Astronomy\" and \"Astrology.\"",
+      "answer": "Astronomy is the scientific study of celestial objects (stars, planets, galaxies, and so on), the universe as a whole, and the physical processes that govern them, based on observation and evidence. Astrology is the non-scientific belief that the positions of the Sun, Moon, and planets influence human affairs and personalities; it is not a science, makes no testable, reliably confirmed predictions, and should not be confused with astronomy.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Astronomy 2e (OpenStax), Ch. 1 (Week 1 learning objective)"
+    },
+    {
+      "id": "wk1-obj-002",
+      "type": "sa",
+      "text": "Determine the shape and size of Earth.",
+      "answer": "Earth is very nearly a sphere (slightly flattened at the poles). Its shape is shown by ships disappearing hull-first over the horizon, Earth's round shadow on the Moon during lunar eclipses, and the way visible constellations change with latitude. Its size was first estimated by Eratosthenes, who compared the Sun's noon angle at two cities a known distance apart and computed a circumference close to the true value of about 40,000 km (radius about 6,371 km).",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (Week 1 learning objective)"
+    },
+    {
+      "id": "wk1-obj-003",
+      "type": "sa",
+      "text": "Discuss how the Scientific Method is used to solve problems.",
+      "answer": "The scientific method solves problems by insisting on testable, evidence-based explanations. One observes a phenomenon, forms a hypothesis, predicts what should follow if the hypothesis is true, tests it through observation or experiment, and then confirms, refines, or rejects it. Repeating this cycle weeds out wrong ideas, and explanations that survive extensive testing become accepted theories.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Astronomy 2e (OpenStax), Ch. 1 (Week 1 learning objective)"
+    },
+    {
+      "id": "wk1-obj-004",
+      "type": "sa",
+      "text": "Discuss the concept of \"distances\" and the importance of units.",
+      "answer": "Astronomical distances span an enormous range, so choosing the right unit is essential to keep numbers manageable and meaningful. Within the solar system, distances are given in astronomical units (AU, the Earth-Sun distance); between stars and galaxies, in light-years or parsecs. Besides convenience, these units convey scale and, for light-years, the look-back time, since light from a distant object left it long ago.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Astronomy 2e (OpenStax), Ch. 1 (Week 1 learning objective)"
+    },
+    {
+      "id": "wk1-obj-005",
+      "type": "sa",
+      "text": "Define the main features of the celestial sphere.",
+      "answer": "The celestial sphere is an imaginary sphere surrounding Earth onto which the stars appear projected. Its key features are the celestial poles (above Earth's poles, the points the sky seems to rotate around), the celestial equator (above Earth's equator), the ecliptic (the Sun's yearly path, tilted 23.5 degrees to the equator), the zenith (the point overhead), the horizon, and the meridian (the north-south line through the zenith).",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (Week 1 learning objective)"
+    },
+    {
+      "id": "wk1-obj-006",
+      "type": "sa",
+      "text": "Describe how the motions of the Sun, Moon, stars, and planets appear to us on Earth.",
+      "answer": "All sky objects rise in the east and set in the west each day because of Earth's rotation. Over a year the Sun drifts eastward through the zodiac along the ecliptic (from Earth's orbit), while the Moon moves eastward and cycles through its phases about once a month. The planets generally drift eastward against the stars but occasionally appear to reverse into retrograde motion.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (Week 1 learning objective)"
+    },
+    {
+      "id": "wk1-obj-007",
+      "type": "sa",
+      "text": "Describe Ptolemy's geocentric system of planetary motion.",
+      "answer": "In Ptolemy's geocentric system, a stationary Earth sits at the center while the Sun, Moon, planets, and stars revolve around it. To reproduce the observed motions, including retrograde loops and varying speeds, Ptolemy had each planet move on a small circle (epicycle) whose center moved along a larger circle (deferent), with an offset reference point (the equant) added to improve the fit.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (Week 1 learning objective)"
+    },
+    {
+      "id": "wk1-obj-008",
+      "type": "sa",
+      "text": "Explain how Copernicus developed the heliocentric model of the solar system.",
+      "answer": "Dissatisfied with the complexity of the Ptolemaic system, Copernicus proposed placing the Sun, not Earth, at the center, with Earth and the other planets orbiting it and Earth also rotating daily. This Sun-centered arrangement naturally explained retrograde motion (as Earth overtakes outer planets) and gave a sensible ordering and spacing of the planets, offering a simpler overall picture.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (Week 1 learning objective)"
+    },
+    {
+      "id": "wk1-obj-009",
+      "type": "sa",
+      "text": "Describe Galileo's discoveries concerning the study of motion and forces.",
+      "answer": "Galileo established key ideas about motion: that objects of different mass fall at the same rate, and that a moving object continues moving unless a force acts on it (the principle of inertia), overturning the old belief that motion needs a constant push. His telescopic discoveries, the moons of Jupiter, the phases of Venus, lunar craters, and sunspots, provided evidence for the heliocentric model and laid groundwork that Newton later built upon.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Astronomy 2e (OpenStax), Ch. 2 (Week 1 learning objective)"
+    },
+    {
+      "id": "wk1-obj-010",
+      "type": "sa",
+      "text": "Describe how Tycho Brahe and Johannes Kepler contributed to our understanding of how planets move around the Sun.",
+      "answer": "Tycho Brahe made decades of remarkably precise naked-eye measurements of planetary positions, the best of the pre-telescope era. Kepler inherited that data and analyzed it, especially for Mars, discovering that the orbits are ellipses, not circles, and formulating his three laws of planetary motion. Brahe supplied the precision and Kepler supplied the mathematical insight.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (Week 1 learning objective)"
+    },
+    {
+      "id": "wk1-obj-011",
+      "type": "sa",
+      "text": "Explain Kepler's three laws of planetary motion.",
+      "answer": "First law: each planet orbits the Sun in an ellipse with the Sun at one focus. Second law: a line from the Sun to a planet sweeps out equal areas in equal times, so a planet moves faster when nearer the Sun. Third law: the square of a planet's orbital period equals the cube of its semimajor axis (P^2 = a^3, with P in years and a in AU).",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (Week 1 learning objective)"
+    },
+    {
+      "id": "wk1-obj-012",
+      "type": "sa",
+      "text": "Describe Newton's three laws of motion.",
+      "answer": "First law: an object stays at rest or in uniform straight-line motion unless acted on by a net force (inertia). Second law: a net force produces an acceleration equal to the force divided by the mass (F = ma). Third law: for every action there is an equal and opposite reaction, so forces always occur in pairs.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (Week 1 learning objective)"
+    },
+    {
+      "id": "wk1-obj-013",
+      "type": "sa",
+      "text": "Describe how Newton's universal law of gravitation extends our understanding of Kepler's laws.",
+      "answer": "Newton's law of gravitation states that every mass attracts every other with a force proportional to the product of their masses and inversely proportional to the square of the distance between them. By combining this with his laws of motion, Newton showed that Kepler's three laws are not just empirical patterns but necessary consequences of gravity, and he generalized them, explaining why orbits are conic sections and adding the masses of the bodies into a more complete form of the third law.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (Week 1 learning objective)"
+    },
+    {
+      "id": "wk1-obj-014",
+      "type": "sa",
+      "text": "Compare the orbital characteristics of the planets in the solar system.",
+      "answer": "The planets all orbit the Sun in the same direction, in nearly the same plane, and in roughly circular orbits. Inner planets are closer, move faster, and have shorter periods, while outer planets are farther, move slower, and have longer periods (Neptune has the largest orbit and longest period). Mercury has the most eccentric and most inclined orbit of the eight, while most planets follow nearly circular paths.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (Week 1 learning objective)"
+    },
+    {
+      "id": "wk1-obj-015",
+      "type": "sa",
+      "text": "Explain how an object (such as a satellite) can be put into orbit around Earth.",
+      "answer": "A satellite stays in orbit by moving sideways fast enough that, as gravity pulls it down, its falling path curves around Earth at the same rate the surface curves away, so it continually 'falls around' the planet without hitting it. Reaching this requires accelerating it to orbital velocity (about 8 km/s for low Earth orbit) at sufficient altitude, which is what launch rockets provide.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (Week 1 learning objective)"
+    },
+    {
+      "id": "wk1-obj-016",
+      "type": "sa",
+      "text": "Explain how an object (such as a planetary probe) can escape from orbit.",
+      "answer": "To leave Earth permanently, a probe must reach escape velocity (about 11 km/s from Earth's surface), the speed at which its kinetic energy exceeds the energy binding it to Earth's gravity. At or above that speed it can coast away without falling back, allowing it to travel to other planets.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (Week 1 learning objective)"
+    },
+    {
+      "id": "wk1-obj-017",
+      "type": "sa",
+      "text": "Explain how the planet Neptune was discovered.",
+      "answer": "Astronomers noticed that Uranus was not following its predicted orbit, suggesting an unseen body was tugging on it. Using Newton's law of gravitation, Le Verrier and Adams independently calculated where such a planet should be, and in 1846 Neptune was found very close to the predicted position, which is why it is called the planet discovered 'with mathematics.'",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Astronomy 2e (OpenStax), Ch. 3 (Week 1 learning objective)"
     }
   ],
   "notes": [
