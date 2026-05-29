@@ -107,6 +107,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch14-g003",
+      "term": "accretion",
+      "def": "The growth of a body as smaller particles and planetesimals collide and stick together under gravity.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch6-g011",
       "term": "adaptive optics",
       "def": "A technology that rapidly deforms a telescope mirror to compensate for atmospheric turbulence and sharpen images from the ground.",
@@ -140,6 +149,15 @@
       "image": null,
       "module": "week-1",
       "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-g001",
+      "term": "asteroid",
+      "def": "A small, rocky or metallic body that orbits the Sun, most located in the asteroid belt between Mars and Jupiter.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -233,12 +251,75 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch14-g008",
+      "term": "chondrite",
+      "def": "A common stony, primitive meteorite containing chondrules and reflecting the early solar nebula's composition.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-g009",
+      "term": "chondrule",
+      "def": "A small, round mineral grain found in chondrites, formed by rapid heating and cooling in the early solar system.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch6-g008",
       "term": "chromatic aberration",
       "def": "A defect of lenses in which different colors focus at slightly different points, blurring the image; mirrors avoid this problem.",
       "image": null,
       "module": "week-2",
       "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-g002",
+      "term": "chromosphere",
+      "def": "The thin reddish layer of the Sun's atmosphere just above the photosphere, hotter than the surface.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-g004",
+      "term": "coma",
+      "def": "The large, glowing cloud of gas and dust surrounding a comet's nucleus, formed as ices vaporize near the Sun.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-g002",
+      "term": "comet",
+      "def": "A small icy body that develops a glowing head and one or more tails when it nears the Sun and its ices vaporize.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-g003",
+      "term": "comet nucleus",
+      "def": "The small, solid 'dirty snowball' of ice and dust at the heart of a comet, typically only a few kilometers across.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-g004",
+      "term": "condensation",
+      "def": "The formation of solid grains directly from cooling nebular gas, the first step toward building planetesimals.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -260,6 +341,33 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch15-g012",
+      "term": "convection zone",
+      "def": "The outer region of the Sun's interior where energy is carried outward by rising and sinking gas.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-g003",
+      "term": "corona",
+      "def": "The Sun's outermost atmosphere, extremely hot (one to a few million K) but very low in density.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-g009",
+      "term": "coronal mass ejection (CME)",
+      "def": "A massive eruption that hurls billions of tons of plasma from the corona into space.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch1-g002",
       "term": "cosmology",
       "def": "The branch of astronomy concerned with the origin, large-scale structure, and evolution of the universe as a whole.",
@@ -269,12 +377,48 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch16-g007",
+      "term": "deuterium",
+      "def": "A heavy isotope of hydrogen (one proton, one neutron) formed in the first step of the proton-proton chain.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-g011",
+      "term": "differential rotation",
+      "def": "The Sun's rotation at different rates at different latitudes, faster at the equator than near the poles.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-g006",
+      "term": "differentiation",
+      "def": "The settling of dense material to a body's core and lighter material toward its surface after melting, producing layers.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch5-g013",
       "term": "Doppler effect",
       "def": "The change in observed wavelength of a wave due to relative motion between source and observer; light is redshifted when the source recedes and blueshifted when it approaches.",
       "image": null,
       "module": "week-2",
       "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-g006",
+      "term": "dust tail",
+      "def": "A comet tail of dust particles pushed gently by sunlight, which curves along the comet's orbit.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -359,6 +503,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch14-g013",
+      "term": "exoplanet",
+      "def": "A planet orbiting a star other than the Sun.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch6-g007",
       "term": "focal length",
       "def": "The distance from a lens or mirror to the point where it brings parallel light to a focus.",
@@ -386,6 +539,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch14-g005",
+      "term": "frost line (snow line)",
+      "def": "The distance from the Sun beyond which it was cold enough for ices to condense, separating the rocky inner planets from the ice-rich outer ones.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-g013",
+      "term": "fusion vs. fission",
+      "def": "Fusion joins light nuclei into heavier ones (powers the Sun); fission splits heavy nuclei into lighter ones (powers nuclear reactors).",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch1-g010",
       "term": "galaxy",
       "def": "A vast, gravitationally bound system of stars, gas, dust, and dark matter, typically containing millions to trillions of stars.",
@@ -404,6 +575,33 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch15-g006",
+      "term": "granulation",
+      "def": "The mottled, cell-like pattern on the photosphere produced by convection bringing hot gas to the surface.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-g012",
+      "term": "gravitational contraction",
+      "def": "The slow shrinking of a body that releases gravitational energy as heat; an early but inadequate proposed energy source for the Sun.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-g011",
+      "term": "half-life",
+      "def": "The time required for half of a sample of a radioactive isotope to decay, the basis of radiometric dating.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch2-g010",
       "term": "heliocentric model",
       "def": "A Sun-centered model in which Earth and the other planets orbit the Sun, proposed by Copernicus.",
@@ -413,12 +611,39 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch16-g008",
+      "term": "helium-4",
+      "def": "The stable helium nucleus (two protons, two neutrons) that is the end product of the proton-proton chain.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch2-g008",
       "term": "horizon",
       "def": "The circle where the sky appears to meet the ground; it divides the visible sky from the part below.",
       "image": null,
       "module": "week-1",
       "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-g014",
+      "term": "hot Jupiter",
+      "def": "A giant exoplanet orbiting very close to its star, a common type with no counterpart in our solar system.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-g005",
+      "term": "hydrostatic equilibrium",
+      "def": "The balance in a star between inward gravity and outward pressure that keeps it stable in size.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -437,6 +662,15 @@
       "image": null,
       "module": "week-2",
       "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-g005",
+      "term": "ion tail",
+      "def": "A comet tail of ionized gas that is pushed straight away from the Sun by the solar wind.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -464,6 +698,15 @@
       "image": null,
       "module": "week-1",
       "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-g007",
+      "term": "Kuiper Belt",
+      "def": "A disk-shaped region of icy bodies beyond Neptune, the source of most short-period comets.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -521,6 +764,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch16-g009",
+      "term": "luminosity",
+      "def": "The total amount of energy a star radiates into space each second.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch4-g012",
       "term": "lunar eclipse",
       "def": "An event in which Earth passes between the Sun and Moon, casting Earth's shadow on the Moon.",
@@ -530,12 +782,75 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch16-g003",
+      "term": "mass-energy equivalence",
+      "def": "Einstein's principle (E = mc^2) that mass can be converted into energy, the source of the Sun's power.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-g010",
+      "term": "meteor",
+      "def": "The brief streak of light produced when a small particle burns up in Earth's atmosphere; a 'shooting star.'",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-g012",
+      "term": "meteor shower",
+      "def": "An increase in meteors that occurs when Earth passes through the debris stream left along a comet's orbit.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-g011",
+      "term": "meteorite",
+      "def": "A fragment of rock or metal from space that survives its fall and reaches the ground.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch1-g011",
       "term": "Milky Way Galaxy",
       "def": "The spiral galaxy that contains our Sun and solar system, made up of a few hundred billion stars.",
       "image": null,
       "module": "week-1",
       "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-g009",
+      "term": "near-Earth object (NEO)",
+      "def": "An asteroid or comet whose orbit brings it close to Earth's orbit, posing a potential impact hazard.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-g004",
+      "term": "neutrino",
+      "def": "A nearly massless, chargeless particle produced in fusion that interacts very weakly and escapes the Sun almost instantly.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-g011",
+      "term": "neutrino oscillation",
+      "def": "The changing of a neutrino from one type to another in transit, which resolved the solar neutrino problem and showed neutrinos have mass.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -563,6 +878,24 @@
       "image": null,
       "module": "week-1",
       "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-g001",
+      "term": "nuclear fusion",
+      "def": "The joining of light atomic nuclei into heavier ones, releasing energy; the process that powers the Sun.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-g008",
+      "term": "Oort cloud",
+      "def": "A vast spherical reservoir of icy bodies at the outer edge of the solar system, the source of long-period comets.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -602,6 +935,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch15-g001",
+      "term": "photosphere",
+      "def": "The visible surface layer of the Sun, from which most of its light escapes; temperature about 5,800 K.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-g002",
+      "term": "planetesimal",
+      "def": "A small solid body formed in the early solar nebula that combined with others to build planets.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch2-g013",
       "term": "precession",
       "def": "The slow (~26,000-year) conical wobble of Earth's rotation axis, which gradually changes which star marks the celestial pole.",
@@ -611,12 +962,66 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch14-g007",
+      "term": "primitive meteorite",
+      "def": "A meteorite whose material has changed little since the solar system formed, preserving its original composition.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-g008",
+      "term": "prominence",
+      "def": "A large arch or loop of relatively cool gas in the Sun's atmosphere, shaped by magnetic fields.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-g002",
+      "term": "proton-proton chain",
+      "def": "The sequence of fusion reactions that converts hydrogen into helium in the Sun's core.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-g012",
+      "term": "protoplanetary disk",
+      "def": "The flattened disk of gas and dust around a young star in which planets form.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-g014",
+      "term": "radiative diffusion",
+      "def": "The slow outward leakage of energy as photons are repeatedly absorbed and re-emitted in the Sun's interior.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch6-g012",
       "term": "radio telescope",
       "def": "A telescope, usually a large dish, designed to collect and focus radio waves from space.",
       "image": null,
       "module": "week-2",
       "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-g010",
+      "term": "radioactive dating",
+      "def": "Determining a rock's age from the measured ratio of a radioactive parent isotope to its decay product.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -719,6 +1124,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch16-g006",
+      "term": "solar core",
+      "def": "The Sun's central region, where temperature and pressure are high enough for hydrogen fusion to occur.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-g010",
+      "term": "solar cycle",
+      "def": "The roughly 11-year cycle in the number of sunspots and level of solar activity (22 years for a full magnetic cycle).",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch4-g014",
       "term": "solar day",
       "def": "The time from one local noon to the next, averaging 24 hours; slightly longer than the sidereal day because Earth also moves along its orbit.",
@@ -737,12 +1160,48 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch15-g007",
+      "term": "solar flare",
+      "def": "A sudden, intense release of magnetic energy on the Sun that brightens and emits radiation across the spectrum.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-g001",
+      "term": "solar nebula",
+      "def": "The rotating cloud of gas and dust from which the Sun and planets formed about 4.6 billion years ago.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-g010",
+      "term": "solar neutrino problem",
+      "def": "The historical puzzle that detectors found only about a third of the predicted solar neutrinos.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch1-g009",
       "term": "solar system",
       "def": "The Sun together with everything gravitationally bound to it: planets, moons, asteroids, comets, and dust.",
       "image": null,
       "module": "week-1",
       "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-g005",
+      "term": "solar wind",
+      "def": "The continuous stream of charged particles flowing outward from the Sun's corona through the solar system.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -761,6 +1220,15 @@
       "image": null,
       "module": "week-2",
       "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-g014",
+      "term": "space weather",
+      "def": "Conditions in space driven by solar activity (solar wind, flares, CMEs) that can affect Earth and technology.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -791,6 +1259,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch13-g013",
+      "term": "sublimation",
+      "def": "The direct change of a solid (such as comet ice) into gas without becoming liquid, which creates a comet's coma and tails.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-g004",
+      "term": "sunspot",
+      "def": "A cooler, darker region on the photosphere where strong magnetic fields suppress convection.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch4-g010",
       "term": "synchronous rotation",
       "def": "Rotation in which a body spins once per orbit, so it always shows the same face to its partner; the Moon does this with Earth.",
@@ -815,6 +1301,15 @@
       "image": null,
       "module": "week-1",
       "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-g014",
+      "term": "Trojan asteroids",
+      "def": "Asteroids that share a planet's orbit, clustered at the stable points 60 degrees ahead of and behind the planet (notably Jupiter's).",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -851,6 +1346,15 @@
       "image": null,
       "module": "week-2",
       "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-g013",
+      "term": "Zeeman effect",
+      "def": "The splitting of spectral lines by a magnetic field, used to measure magnetic fields on the Sun.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1357,6 +1861,294 @@
       "image": null,
       "module": "week-2",
       "chapter": "Ch6",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-f001",
+      "front": "What are the three main parts of an active comet?",
+      "back": "The nucleus (icy core), the coma (surrounding gas/dust cloud), and the tail(s) of gas and dust.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-f002",
+      "front": "Which way does a comet's tail point, and why?",
+      "back": "Away from the Sun, because the solar wind and sunlight push the gas and dust outward, regardless of the comet's direction of travel.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-f003",
+      "front": "What is the difference between a comet and an asteroid?",
+      "back": "Comets are icy bodies from the cold outer solar system that grow tails near the Sun; asteroids are rocky/metallic bodies, mostly from the inner belt, that do not.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-f004",
+      "front": "What is the source of short-period vs long-period comets?",
+      "back": "Short-period comets come from the Kuiper Belt beyond Neptune; long-period comets come from the distant Oort cloud.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-f005",
+      "front": "What is the difference between a meteoroid, a meteor, and a meteorite?",
+      "back": "A meteoroid is the particle in space, a meteor is the light streak as it burns up in the atmosphere, and a meteorite is the piece that survives and lands.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-f006",
+      "front": "What causes an annual meteor shower?",
+      "back": "Earth passing through a stream of debris left along a comet's orbit, so the particles burn up together at the same time each year.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-f007",
+      "front": "What is a near-Earth object (NEO)?",
+      "back": "An asteroid or comet whose orbit brings it close to Earth's, making it a possible impact hazard worth tracking.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-f008",
+      "front": "Why do meteors in a shower appear to radiate from one point?",
+      "back": "The parallel debris paths appear to converge at a 'radiant' due to perspective, like parallel tracks meeting in the distance.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-f001",
+      "front": "What was the solar nebula?",
+      "back": "A rotating, flattening cloud of gas and dust that collapsed to form the Sun at its center and the planets in the surrounding disk.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-f002",
+      "front": "What is the sequence that builds planets from the nebula?",
+      "back": "Gas cools and condenses into grains, grains stick together by accretion into planetesimals, and planetesimals collide and merge into protoplanets and planets.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-f003",
+      "front": "What is the frost line and why does it matter?",
+      "back": "The distance beyond which ices can condense; it explains why inner planets are rocky and outer planets are ice/gas-rich and large.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-f004",
+      "front": "How does radioactive dating reveal a rock's age?",
+      "back": "By measuring the ratio of a radioactive parent isotope to its decay product and using the known half-life to compute the time since the rock solidified.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-f005",
+      "front": "Why are primitive meteorites so valuable?",
+      "back": "They preserve nearly unchanged material from the birth of the solar system, giving direct samples of its original composition and age (~4.6 billion years).",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-f006",
+      "front": "Name two ways exoplanet systems often differ from ours.",
+      "back": "Many host 'hot Jupiters' orbiting very close to their stars, and many have super-Earths or tightly packed, eccentric orbits unlike our well-spaced, circular ones.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-f007",
+      "front": "What are the two main exoplanet detection methods?",
+      "back": "The radial-velocity (Doppler) method, which detects a star's wobble, and the transit method, which detects dips in starlight as a planet crosses the star.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-f008",
+      "front": "Why do outer planets have more ice and gas than inner planets?",
+      "back": "They formed beyond the frost line where ices could condense, giving them more solid material to grow large and capture hydrogen and helium gas.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-f001",
+      "front": "Name the three layers of the Sun's atmosphere from inside out and their approximate temperatures.",
+      "back": "Photosphere (~5,800 K), chromosphere (~10,000 K), and corona (one to a few million K).",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-f002",
+      "front": "Why do sunspots appear dark?",
+      "back": "They are cooler (about 4,000 K) than the surrounding photosphere because strong magnetic fields suppress convection there, so they look dark only by contrast.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-f003",
+      "front": "How long is the sunspot cycle, and how long is the full magnetic cycle?",
+      "back": "The sunspot cycle is about 11 years; the magnetic cycle is about 22 years because the Sun's polarity reverses each sunspot cycle.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-f004",
+      "front": "What carries energy in the outer interior of the Sun?",
+      "back": "Convection: hot gas rises and cooler gas sinks in the convection zone, visible as granulation on the surface.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-f005",
+      "front": "What are the two sources of particles that cause space weather?",
+      "back": "The steady solar wind and sudden coronal mass ejections (often linked to flares).",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-f006",
+      "front": "What is the Zeeman effect used for on the Sun?",
+      "back": "Measuring magnetic field strength, by observing how magnetic fields split spectral lines, which revealed the strong fields in sunspots.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-f007",
+      "front": "How does solar activity affect Earth?",
+      "back": "It produces auroras and geomagnetic storms and can disrupt power grids, satellites, radio, and GPS, and endanger astronauts.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-f008",
+      "front": "What drives the Sun's magnetic activity cycle?",
+      "back": "A magnetic dynamo near the base of the convection zone, where differential rotation winds up and intensifies the field.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-f001",
+      "front": "What process powers the Sun?",
+      "back": "Nuclear fusion of hydrogen into helium in its core, converting a small amount of mass into energy via E = mc^2.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-f002",
+      "front": "Summarize the three steps of the proton-proton chain.",
+      "back": "Two protons fuse to deuterium (releasing a positron and neutrino); deuterium plus a proton makes helium-3 (releasing a gamma ray); two helium-3 nuclei combine to helium-4 (releasing two protons).",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-f003",
+      "front": "Why can't chemical burning or gravitational contraction power the Sun?",
+      "back": "Chemical burning would last only thousands of years and contraction only tens of millions, but the Sun has shone for about 4.6 billion years, requiring the far greater output of fusion.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-f004",
+      "front": "What is hydrostatic equilibrium?",
+      "back": "The balance between gravity pulling inward and gas/radiation pressure pushing outward, which keeps the Sun stable in size.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-f005",
+      "front": "How is a neutrino different from a neutron?",
+      "back": "A neutrino has almost no mass, no charge, and barely interacts, escaping the Sun instantly; a neutron is heavy, sits in nuclei, interacts strongly, and decays when free.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-f006",
+      "front": "What was the solar neutrino problem and how was it solved?",
+      "back": "Detectors found only about a third of the expected neutrinos; the solution is that neutrinos oscillate between three types in transit, which means they have a tiny mass.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-f007",
+      "front": "Why do solar neutrinos give a real-time view of the core?",
+      "back": "Because neutrinos escape the core directly in seconds, while light takes tens of thousands of years to leak out, so neutrinos report current core conditions.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-f008",
+      "front": "What conditions are needed for fusion to begin in the Sun?",
+      "back": "Extremely high temperature (~10 million K) and very high density/pressure, found only in the core, plus quantum tunneling to overcome proton repulsion.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     }
   ],
@@ -2406,9 +3198,573 @@
       "module": "week-1",
       "chapter": "Ch3",
       "source": "Astronomy 2e (OpenStax), Ch. 3 (Week 1 learning objective)"
+    },
+    {
+      "id": "ch13-q001",
+      "type": "mc",
+      "text": "A comet's tail always points:",
+      "answer": "Away from the Sun",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "In the direction the comet is moving",
+        "Away from the Sun",
+        "Toward Earth",
+        "Toward the nearest planet"
+      ]
+    },
+    {
+      "id": "ch13-q002",
+      "type": "mc",
+      "text": "Most asteroids are found in a belt located between the orbits of:",
+      "answer": "Mars and Jupiter",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Earth and Mars",
+        "Mars and Jupiter",
+        "Jupiter and Saturn",
+        "Neptune and Pluto"
+      ]
+    },
+    {
+      "id": "ch13-q003",
+      "type": "tf",
+      "text": "A meteorite is a fragment from space that survives its fall and reaches the ground.",
+      "answer": "True",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-q004",
+      "type": "tf",
+      "text": "Long-period comets originate in the Kuiper Belt just beyond Neptune.",
+      "answer": "False",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-q005",
+      "type": "fitb",
+      "text": "The glowing cloud of gas and dust around a comet's nucleus is called the ______.",
+      "answer": "coma",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-q006",
+      "type": "fitb",
+      "text": "An asteroid or comet whose orbit brings it close to Earth is called a near-Earth ______.",
+      "answer": "object",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-q007",
+      "type": "sa",
+      "text": "Explain why a comet develops a coma and tails as it approaches the Sun.",
+      "answer": "As a comet nears the Sun, increasing heat causes its ices to sublimate directly into gas, releasing trapped dust and forming the bright coma around the nucleus. Sunlight and the solar wind then push this gas and dust outward, creating an ion tail (driven straight back by the solar wind) and a curved dust tail, both pointing away from the Sun.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-q008",
+      "type": "sa",
+      "text": "Describe the relationship between comets and meteor showers.",
+      "answer": "Comets shed dust and debris along their orbital paths as they travel around the Sun. When Earth's orbit crosses one of these debris streams, the particles enter the atmosphere and burn up together, producing a meteor shower that recurs at the same date each year as Earth passes through the same stream.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-q009",
+      "type": "match",
+      "text": "Match each object or feature to its description.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "pairs": [
+        [
+          "Comet nucleus",
+          "Icy 'dirty snowball' core"
+        ],
+        [
+          "Ion tail",
+          "Gas pushed straight back by the solar wind"
+        ],
+        [
+          "Kuiper Belt",
+          "Source of short-period comets"
+        ],
+        [
+          "Oort cloud",
+          "Source of long-period comets"
+        ]
+      ]
+    },
+    {
+      "id": "ch13-q010",
+      "type": "mc",
+      "text": "The brief streak of light from a particle burning up in the atmosphere is a:",
+      "answer": "Meteor",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Meteorite",
+        "Meteoroid",
+        "Meteor",
+        "Comet"
+      ]
+    },
+    {
+      "id": "ch13-q011",
+      "type": "tf",
+      "text": "Comets are composed largely of ices, while asteroids are largely rock and metal.",
+      "answer": "True",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-q001",
+      "type": "mc",
+      "text": "The Sun and planets formed from a rotating cloud of gas and dust called the:",
+      "answer": "solar nebula",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Oort cloud",
+        "solar nebula",
+        "asteroid belt",
+        "corona"
+      ]
+    },
+    {
+      "id": "ch14-q002",
+      "type": "mc",
+      "text": "Radioactive dating of a rock tells us:",
+      "answer": "The time since that rock last solidified",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "The age of the entire planet",
+        "The time since that rock last solidified",
+        "The rock's chemical formula",
+        "The distance to the rock"
+      ]
+    },
+    {
+      "id": "ch14-q003",
+      "type": "tf",
+      "text": "The frost line marks where it was cold enough in the nebula for ices to condense.",
+      "answer": "True",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-q004",
+      "type": "tf",
+      "text": "Hot Jupiters are common in our own solar system.",
+      "answer": "False",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-q005",
+      "type": "fitb",
+      "text": "Small solid bodies that combined to build the planets are called ______.",
+      "answer": "planetesimals",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-q006",
+      "type": "fitb",
+      "text": "A planet orbiting a star other than the Sun is called an ______.",
+      "answer": "exoplanet",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-q007",
+      "type": "sa",
+      "text": "Outline the sequence of events in the solar nebula that produced planetesimals.",
+      "answer": "As the rotating solar nebula cooled, gases condensed into tiny solid grains. These grains collided and stuck together, gradually building up through accretion into larger clumps and then kilometer-sized planetesimals. The planetesimals in turn collided and merged to form protoplanets, which grew into the planets.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-q008",
+      "type": "sa",
+      "text": "Explain why dating a single rock does not necessarily give the age of the whole world it came from.",
+      "answer": "Radioactive dating measures the time since a particular rock solidified, not when the planet first formed. A surface freshly resurfaced by lava yields a young age even on an ancient world, so individual rocks can be much younger than the body; the oldest rocks found set a minimum age for the world as a whole.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-q010",
+      "type": "mc",
+      "text": "Which detection method finds an exoplanet by the periodic dimming of its star?",
+      "answer": "Transit method",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Radial velocity",
+        "Transit method",
+        "Direct imaging",
+        "Parallax"
+      ]
+    },
+    {
+      "id": "ch14-q011",
+      "type": "tf",
+      "text": "Primitive meteorites preserve material that has changed little since the solar system formed.",
+      "answer": "True",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-q001",
+      "type": "mc",
+      "text": "The visible surface of the Sun is called the:",
+      "answer": "photosphere",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "corona",
+        "chromosphere",
+        "photosphere",
+        "convection zone"
+      ]
+    },
+    {
+      "id": "ch15-q002",
+      "type": "mc",
+      "text": "Sunspots appear dark because they are:",
+      "answer": "cooler than their surroundings",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "holes in the Sun",
+        "cooler than their surroundings",
+        "made of dark gas",
+        "shadows of planets"
+      ]
+    },
+    {
+      "id": "ch15-q003",
+      "type": "tf",
+      "text": "The Sun's corona is far hotter than its visible surface.",
+      "answer": "True",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-q004",
+      "type": "tf",
+      "text": "The sunspot cycle lasts about 100 years.",
+      "answer": "False",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-q005",
+      "type": "fitb",
+      "text": "The continuous stream of charged particles flowing from the Sun is the solar ______.",
+      "answer": "wind",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-q006",
+      "type": "fitb",
+      "text": "A sudden, intense release of magnetic energy on the Sun is a solar ______.",
+      "answer": "flare",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-q007",
+      "type": "sa",
+      "text": "Describe how energy travels from the Sun's core to its surface, naming the layers it passes through.",
+      "answer": "Energy generated by fusion in the core first moves outward through the radiative zone as photons that are absorbed and re-emitted countless times over a very long period. It then enters the convection zone, where hot gas physically rises and cooler gas sinks, carrying the energy upward. Finally it escapes as light from the photosphere, the visible surface.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-q008",
+      "type": "sa",
+      "text": "Explain the difference between the solar wind and a coronal mass ejection as causes of space weather.",
+      "answer": "The solar wind is a continuous, relatively gentle outflow of charged particles from the corona. A coronal mass ejection is a sudden, violent eruption that flings a huge cloud of plasma into space. The solar wind is steady, while CMEs are sporadic and far more intense, capable of triggering strong geomagnetic storms when they strike Earth.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-q009",
+      "type": "match",
+      "text": "Match each solar feature to its description.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "pairs": [
+        [
+          "Photosphere",
+          "Visible surface, ~5,800 K"
+        ],
+        [
+          "Corona",
+          "Outermost, million-degree atmosphere"
+        ],
+        [
+          "Sunspot",
+          "Cool, magnetically active dark region"
+        ],
+        [
+          "Granulation",
+          "Convection pattern on the surface"
+        ]
+      ]
+    },
+    {
+      "id": "ch15-q010",
+      "type": "mc",
+      "text": "The Sun's full magnetic cycle, including a polarity reversal and return, lasts about:",
+      "answer": "22 years",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "11 years",
+        "22 years",
+        "1 year",
+        "100 years"
+      ]
+    },
+    {
+      "id": "ch15-q011",
+      "type": "tf",
+      "text": "Coronal mass ejections can disrupt satellites and power grids on Earth.",
+      "answer": "True",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-q001",
+      "type": "mc",
+      "text": "The Sun produces energy by:",
+      "answer": "nuclear fusion",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "chemical burning",
+        "gravitational contraction",
+        "nuclear fusion",
+        "nuclear fission"
+      ]
+    },
+    {
+      "id": "ch16-q002",
+      "type": "mc",
+      "text": "The net result of the proton-proton chain is to convert hydrogen into:",
+      "answer": "helium",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "carbon",
+        "helium",
+        "iron",
+        "deuterium only"
+      ]
+    },
+    {
+      "id": "ch16-q003",
+      "type": "tf",
+      "text": "Neutrinos escape the Sun's core almost immediately, while light takes thousands of years to leak out.",
+      "answer": "True",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-q004",
+      "type": "tf",
+      "text": "Gravitational contraction could power the Sun for its full 4.6-billion-year lifetime.",
+      "answer": "False",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-q005",
+      "type": "fitb",
+      "text": "The balance between gravity and outward pressure that keeps the Sun stable is called hydrostatic ______.",
+      "answer": "equilibrium",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-q006",
+      "type": "fitb",
+      "text": "Einstein's equation relating mass to energy is E = mc______.",
+      "answer": "2",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-q007",
+      "type": "sa",
+      "text": "Explain how we know the Sun's energy must come from nuclear fusion rather than chemical burning or contraction.",
+      "answer": "Chemical reactions could power the Sun for only a few thousand years and gravitational contraction for only tens of millions of years, yet rocks and meteorites show the Sun has shone steadily for about 4.6 billion years. Only nuclear fusion, which converts mass to energy via E = mc^2, releases enough energy to sustain that output for billions of years.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-q008",
+      "type": "sa",
+      "text": "Describe the proton-proton chain and its overall outcome.",
+      "answer": "In the first step two protons fuse into a deuterium nucleus, releasing a positron and a neutrino. In the second, deuterium fuses with another proton to form helium-3 and a gamma ray. In the third, two helium-3 nuclei combine to make helium-4 and release two protons. Overall, four hydrogen nuclei are converted into one helium-4 nucleus, with the small mass difference released as energy.",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch16-q010",
+      "type": "mc",
+      "text": "The solar neutrino problem was resolved by the discovery that neutrinos:",
+      "answer": "oscillate between types and have mass",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "do not exist",
+        "oscillate between types and have mass",
+        "are the same as neutrons",
+        "come only from flares"
+      ]
+    },
+    {
+      "id": "ch16-q011",
+      "type": "tf",
+      "text": "Fusion joins light nuclei, while fission splits heavy nuclei.",
+      "answer": "True",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     }
   ],
   "notes": [
+    {
+      "id": "ch16-note001",
+      "title": "Ch. 16 — The Sun: A Nuclear Powerhouse",
+      "body": "# The Sun: A Nuclear Powerhouse\n\n## The energy source = nuclear fusion\n- Core fuses **hydrogen -> helium**; a little **mass -> energy** via **E = mc^2**.\n- NOT chemical burning (lasts ~1000s of yr) or contraction (~10s of millions yr).\n- Sun has shone steadily ~**4.6 billion years** -> only fusion works.\n\n## The proton-proton chain\n1. p + p -> deuterium + positron + **neutrino**\n2. deuterium + p -> helium-3 + gamma ray\n3. helium-3 + helium-3 -> **helium-4** + 2 p\n- Net: 4 hydrogen -> 1 helium-4 + energy.\n\n## Conditions required\n- **~10 million K**, very high density/pressure (core only) + quantum tunneling.\n\n## Stability: hydrostatic equilibrium\n- Inward **gravity** balanced by outward **pressure** -> stable size.\n\n## Neutrinos\n- Escape the core in **seconds** (light takes ~10,000s of yr) -> real-time core probe.\n- **Solar neutrino problem:** only ~1/3 detected -> resolved by **neutrino oscillation** -> neutrinos have a tiny **mass**.\n\n## Fusion vs. fission\n- **Fusion:** join light nuclei (the Sun). **Fission:** split heavy nuclei (reactors).\n\n## ★ KEY EXAM POINTS\n- ★ Sun powered by **fusion** (H -> He), energy from **E = mc^2**.\n- ★ p-p chain net: **4 H -> 1 He-4** + energy.\n- ★ **Hydrostatic equilibrium** = gravity vs pressure balance.\n- ★ Neutrinos escape instantly -> probe the core; oscillation -> they have mass.\n- ★ Fusion (light->heavy) vs fission (heavy->light).\n",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch15-note001",
+      "title": "Ch. 15 — The Sun: A Garden-Variety Star",
+      "body": "# The Sun: A Garden-Variety Star\n\n## Layers (atmosphere, inside -> out)\n- **Photosphere:** visible surface, ~**5,800 K**.\n- **Chromosphere:** thin reddish layer, ~10,000 K.\n- **Corona:** outermost, **1-few million K** but very low density.\n- Below the surface: **radiative zone** then **convection zone** (-> **granulation**).\n\n## Magnetic activity\n- **Sunspots:** cooler (~4,000 K), dark *by contrast*; strong magnetic fields suppress convection.\n- **Solar cycle:** ~**11 yr** sunspot cycle; ~**22 yr** full magnetic cycle (polarity flips each 11 yr).\n- Driven by a **dynamo** + **differential rotation** (equator spins faster).\n- **Zeeman effect** measures magnetic field strength.\n\n## Eruptions & outflow\n- **Flares:** sudden magnetic energy release (radiation across spectrum).\n- **Prominences:** arches of cooler gas along field lines.\n- **CMEs:** huge plasma eruptions into space.\n- **Solar wind:** steady particle outflow from the corona.\n\n## Space weather (effects on Earth)\n- Auroras, geomagnetic storms.\n- Can damage power grids, satellites, disrupt GPS/radio, endanger astronauts.\n\n## ★ KEY EXAM POINTS\n- ★ Layers + temps: photosphere ~5,800 K -> corona ~millions K (corona is HOTTER than surface).\n- ★ Sunspots look dark because they are **cooler** (magnetic suppression of convection).\n- ★ **11-yr** sunspot cycle, **22-yr** magnetic cycle (polarity reversal).\n- ★ Two space-weather sources: steady **solar wind** vs sudden **CMEs**.\n- ★ Energy out: core -> radiative zone -> convection zone -> photosphere.\n",
+      "image": null,
+      "module": "week-4",
+      "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch14-note001",
+      "title": "Ch. 14 — Cosmic Samples and the Origin of the Solar System",
+      "body": "# Cosmic Samples and the Origin of the Solar System\n\n## The nebular theory\n- Sun + planets formed ~**4.6 billion years ago** from the **solar nebula** (rotating gas + dust).\n- Disk collapses; densest/hottest center -> **Sun**; surrounding disk -> planets.\n\n## Building planets (the sequence)\n1. **Condensation:** gas cools -> solid grains.\n2. **Accretion:** grains stick -> **planetesimals**.\n3. Planetesimals collide/merge -> protoplanets -> planets.\n\n## The frost line (key idea)\n- Inside the **frost (snow) line:** too warm, only rock/metal condense -> small rocky **terrestrial** planets.\n- Beyond it: ices condense too -> more solid material -> large **giant** planets that grab H/He gas.\n\n## Cosmic samples\n- **Primitive meteorites / chondrites** preserve original nebula material (with **chondrules**).\n- **Radioactive dating:** parent/daughter isotope ratio + **half-life** -> age since the rock solidified (not necessarily the whole world).\n\n## Exoplanets (testing the theory)\n- **Detection:** radial-velocity (star wobble) and **transit** (starlight dips).\n- Surprises: **hot Jupiters** (giants very close in), super-Earths, eccentric/packed orbits -> forced revisions to planet-formation models (e.g., planetary migration).\n\n## ★ KEY EXAM POINTS\n- ★ Order: condensation -> accretion -> planetesimals -> planets.\n- ★ **Frost line** explains rocky-inner vs gas/ice-outer planets.\n- ★ Radiometric dating = parent/daughter + **half-life**; dates the rock, not the planet.\n- ★ Common solar-system properties (same direction, plane, age) -> single nebula.\n- ★ Exoplanets (hot Jupiters etc.) forced revisions to formation theory.\n",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch13-note001",
+      "title": "Ch. 13 — Comets and Asteroids: Debris of the Solar System",
+      "body": "# Comets and Asteroids: Debris of the Solar System\n\n## Asteroids\n- Rocky/metallic leftovers, mostly in the **asteroid belt** (Mars-Jupiter).\n- Never formed a planet (Jupiter's gravity prevented it).\n- **Trojans** share Jupiter's orbit at stable points; **NEOs** cross near Earth (impact hazard).\n\n## Comets\n- Icy 'dirty snowballs' from the cold outer solar system.\n- **Three parts when active:** nucleus (km-sized icy core), coma (glowing gas/dust cloud), tails.\n- **Two tails, both point AWAY from the Sun:**\n  - **Ion tail:** gas pushed straight back by the **solar wind**.\n  - **Dust tail:** dust pushed by sunlight, curves along the orbit.\n- **Sublimation** (solid -> gas) near the Sun creates the coma/tails.\n- **Short-period** comets <- **Kuiper Belt**; **long-period** <- **Oort cloud**.\n\n## Meteoroids, meteors, meteorites\n- **Meteoroid:** particle in space.\n- **Meteor:** the light streak as it burns up ('shooting star').\n- **Meteorite:** what survives and lands.\n- **Meteor showers:** Earth crosses a comet's debris stream; meteors appear to radiate from one point (perspective).\n\n## ★ KEY EXAM POINTS\n- ★ Comet tails ALWAYS point **away from the Sun** (ion = straight, dust = curved).\n- ★ Comet parts: **nucleus, coma, tail**; activity driven by **sublimation**.\n- ★ Short-period comets = **Kuiper Belt**; long-period = **Oort cloud**.\n- ★ Asteroid belt = **Mars to Jupiter**; comets icy vs asteroids rocky.\n- ★ Meteoroid (space) -> meteor (streak) -> meteorite (lands).\n",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
     {
       "id": "ch6-note001",
       "title": "Ch. 6 — Astronomical Instruments",
