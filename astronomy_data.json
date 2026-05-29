@@ -125,6 +125,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch10-g013",
+      "term": "aeolian feature",
+      "def": "A landform produced by wind, such as the dunes and dust storms common on Mars.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-g014",
+      "term": "airless body",
+      "def": "A world with essentially no atmosphere, so its surface is exposed to impacts, radiation, and extreme temperature swings (like the Moon and Mercury).",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch6-g004",
       "term": "aperture",
       "def": "The diameter of a telescope's main light-collecting lens or mirror; the single most important factor in its performance.",
@@ -161,6 +179,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch7-g007",
+      "term": "asteroid belt",
+      "def": "The region between the orbits of Mars and Jupiter where most asteroids are found.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch1-g004",
       "term": "astronomical unit (AU)",
       "def": "The average distance between Earth and the Sun, about 150 million km; used to measure distances within the solar system.",
@@ -176,6 +203,24 @@
       "image": null,
       "module": "week-1",
       "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-g008",
+      "term": "atmosphere",
+      "def": "The layer of gases held to a planet by gravity; Earth's is mostly nitrogen and oxygen.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-g009",
+      "term": "atmospheric pressure",
+      "def": "The weight of the atmosphere pressing on a surface; Venus's is about 90 times Earth's, while Mars's is less than 1%.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -197,6 +242,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch9-g006",
+      "term": "basin",
+      "def": "A very large impact crater, often later flooded by lava to form a mare.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-g007",
+      "term": "belt and zone",
+      "def": "The alternating dark belts and light zones in the cloud bands of Jupiter and Saturn, driven by rising and sinking gas.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch1-g012",
       "term": "Big Bang",
       "def": "The event roughly 13.8 billion years ago from which the observable universe expanded; the beginning of space, time, matter, and energy as we know them.",
@@ -212,6 +275,15 @@
       "image": null,
       "module": "week-2",
       "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-g013",
+      "term": "Cassini Division",
+      "def": "A prominent gap in Saturn's rings, kept clear by gravitational interaction with the moon Mimas.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -248,6 +320,15 @@
       "image": null,
       "module": "week-1",
       "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-g010",
+      "term": "Charon",
+      "def": "Pluto's largest moon, so big relative to Pluto that the two are sometimes called a double system.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -341,12 +422,39 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch8-g012",
+      "term": "convection",
+      "def": "The transfer of heat by the rising of warm material and sinking of cool material, which drives mantle motion and weather.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch15-g012",
       "term": "convection zone",
       "def": "The outer region of the Sun's interior where energy is carried outward by rising and sinking gas.",
       "image": null,
       "module": "week-4",
       "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-g013",
+      "term": "convective atmosphere",
+      "def": "An atmosphere in which heat drives vertical circulation, producing the giant planets' banded clouds and storms.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-g003",
+      "term": "core",
+      "def": "The dense central region of a planet; Earth's core is made largely of iron and nickel and is partly molten.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -377,6 +485,42 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch9-g010",
+      "term": "crater density",
+      "def": "The number of craters per unit area, used to estimate the relative age of a surface; more craters means an older surface.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-g001",
+      "term": "crust",
+      "def": "The thin, solid outermost layer of a rocky planet, where we live.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-g014",
+      "term": "cryovolcanism",
+      "def": "Volcanism in which water, ammonia, or methane ices erupt as 'lavas' on cold icy moons instead of molten rock.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch7-g010",
+      "term": "density",
+      "def": "The mass of an object divided by its volume; a clue to a planet's composition (rocky bodies are dense, gas-rich bodies are not).",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch16-g007",
       "term": "deuterium",
       "def": "A heavy isotope of hydrogen (one proton, one neutron) formed in the first step of the proton-proton chain.",
@@ -392,6 +536,15 @@
       "image": null,
       "module": "week-4",
       "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-g013",
+      "term": "differentiated interior",
+      "def": "An interior separated into layers by density, such as Mercury's unusually large iron core beneath a rocky mantle.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -422,6 +575,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch7-g003",
+      "term": "dwarf planet",
+      "def": "A body that orbits the Sun and is round due to its own gravity but has not cleared its orbital neighborhood of other objects (e.g., Pluto, Eris, Ceres).",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-g014",
+      "term": "dynamo effect",
+      "def": "The generation of a planetary magnetic field by the motion of electrically conducting fluid in a rotating, convecting core.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch3-g006",
       "term": "eccentricity",
       "def": "A number from 0 to 1 describing how elongated an ellipse is; 0 is a perfect circle, values nearer 1 are more stretched.",
@@ -437,6 +608,15 @@
       "image": null,
       "module": "week-1",
       "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-g007",
+      "term": "ejecta",
+      "def": "Material thrown out from an impact crater and deposited around it, sometimes forming bright rays.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -476,6 +656,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch12-g006",
+      "term": "Enceladus",
+      "def": "A small moon of Saturn that erupts geysers of water vapor and ice from a subsurface ocean.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch2-g012",
       "term": "epicycle",
       "def": "A small circle, used in the Ptolemaic geocentric model, on which a planet moved while the circle's center moved along a larger circle, to reproduce retrograde motion.",
@@ -494,12 +683,30 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch8-g013",
+      "term": "erosion",
+      "def": "The gradual wearing away and transport of surface material by wind, water, or ice, which reshapes a planet's surface over time.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch3-g015",
       "term": "escape velocity",
       "def": "The minimum speed an object needs to permanently leave the gravitational pull of a body without further propulsion.",
       "image": null,
       "module": "week-1",
       "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-g005",
+      "term": "Europa",
+      "def": "A moon of Jupiter with an icy crust thought to cover a global subsurface ocean of liquid water.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -566,12 +773,39 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch11-g001",
+      "term": "gas giant",
+      "def": "A giant planet composed mostly of hydrogen and helium, such as Jupiter and Saturn.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch2-g009",
       "term": "geocentric model",
       "def": "An Earth-centered model of the cosmos in which the Sun, Moon, and planets orbit a stationary Earth.",
       "image": null,
       "module": "week-1",
       "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-g005",
+      "term": "giant impact hypothesis",
+      "def": "The leading explanation for the Moon's origin: a Mars-sized body struck the young Earth, and debris from the collision coalesced into the Moon.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch7-g002",
+      "term": "giant planet (jovian planet)",
+      "def": "A large, low-density planet of the outer solar system (Jupiter, Saturn, Uranus, Neptune) made mostly of gases and ices, with no solid surface.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -590,6 +824,42 @@
       "image": null,
       "module": "week-4",
       "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-g003",
+      "term": "Great Red Spot",
+      "def": "A giant, long-lived storm in Jupiter's atmosphere, larger than Earth.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-g009",
+      "term": "greenhouse effect",
+      "def": "The warming of a planet's surface when atmospheric gases trap outgoing infrared (heat) radiation.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-g008",
+      "term": "greenhouse gas",
+      "def": "A gas such as carbon dioxide or water vapor that traps infrared radiation and warms a planet's surface.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-g014",
+      "term": "habitability",
+      "def": "The potential of an environment to support life, often tied to the past or present presence of liquid water.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -656,6 +926,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch11-g002",
+      "term": "ice giant",
+      "def": "A giant planet, such as Uranus or Neptune, containing a larger proportion of heavier 'ices' like water, ammonia, and methane.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-g001",
+      "term": "impact crater",
+      "def": "A bowl-shaped depression formed when a meteoroid, asteroid, or comet strikes a solid surface at high speed.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch6-g013",
       "term": "interferometer",
       "def": "An array of telescopes linked so their signals combine, achieving the resolution of a single instrument as large as their separation.",
@@ -665,12 +953,39 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch11-g006",
+      "term": "internal heat",
+      "def": "Heat radiated from a planet's interior; Jupiter, Saturn, and Neptune emit more energy than they receive from the Sun.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-g007",
+      "term": "Io",
+      "def": "A moon of Jupiter that is the most volcanically active body in the solar system, heated by tidal forces.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch13-g005",
       "term": "ion tail",
       "def": "A comet tail of ionized gas that is pushed straight away from the Sun by the solar wind.",
       "image": null,
       "module": "week-3",
       "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-g009",
+      "term": "Jupiter",
+      "def": "The largest planet in the solar system, a gas giant with a strong magnetic field, many moons, and the Great Red Spot.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -707,6 +1022,24 @@
       "image": null,
       "module": "week-3",
       "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-g012",
+      "term": "Kuiper Belt object",
+      "def": "One of many icy bodies orbiting beyond Neptune, including Pluto and other dwarf planets.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-g012",
+      "term": "late heavy bombardment",
+      "def": "A period early in solar system history when impact rates were very high, producing most of the large basins we see.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -782,12 +1115,84 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch9-g003",
+      "term": "lunar highlands",
+      "def": "The light-colored, heavily cratered, older mountainous regions of the Moon.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-g007",
+      "term": "magnetic field",
+      "def": "The region of magnetic influence around a planet, generated by motions in its molten metallic core (the dynamo effect).",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-g014",
+      "term": "magnetic field (giant planets)",
+      "def": "The very strong magnetic fields of the giant planets, generated by electrically conducting fluids (metallic hydrogen in Jupiter and Saturn) in their interiors.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-g006",
+      "term": "magnetosphere",
+      "def": "The region around a planet dominated by its magnetic field, which deflects charged particles from the Sun.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-g002",
+      "term": "mantle",
+      "def": "The thick, mostly solid rocky layer between a planet's crust and core, which slowly flows over long timescales.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-g002",
+      "term": "maria",
+      "def": "The large, dark, relatively smooth plains on the Moon, formed by ancient lava flows (singular: mare).",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-g004",
+      "term": "Mars",
+      "def": "The fourth planet from the Sun, a cold desert world with a thin carbon dioxide atmosphere and evidence of ancient liquid water.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch16-g003",
       "term": "mass-energy equivalence",
       "def": "Einstein's principle (E = mc^2) that mass can be converted into energy, the source of the Sun's power.",
       "image": null,
       "module": "week-4",
       "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-g004",
+      "term": "metallic hydrogen",
+      "def": "A form of hydrogen, found deep inside Jupiter and Saturn under crushing pressure, that conducts electricity like a metal.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -818,6 +1223,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch7-g012",
+      "term": "meteoroid",
+      "def": "A small rock or dust particle in space; it becomes a meteor (shooting star) when it burns up in an atmosphere and a meteorite if it lands.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch1-g011",
       "term": "Milky Way Galaxy",
       "def": "The spiral galaxy that contains our Sun and solar system, made up of a few hundred billion stars.",
@@ -833,6 +1247,15 @@
       "image": null,
       "module": "week-3",
       "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-g012",
+      "term": "Neptune",
+      "def": "The most distant giant planet, an ice giant with strong winds and a deep blue color from methane.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -890,6 +1313,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch11-g008",
+      "term": "oblateness",
+      "def": "The flattening of a rapidly rotating planet at its poles and bulging at its equator, pronounced in the fast-spinning giants.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-g005",
+      "term": "Olympus Mons",
+      "def": "The largest known volcano in the solar system, located on Mars and about three times the height of Mount Everest.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch13-g008",
       "term": "Oort cloud",
       "def": "A vast spherical reservoir of icy bodies at the outer edge of the solar system, the source of long-period comets.",
@@ -908,12 +1349,48 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch10-g010",
+      "term": "outflow channel",
+      "def": "A surface feature on Mars carved by large flows of liquid water in the distant past.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-g011",
+      "term": "ozone layer",
+      "def": "A region of the stratosphere rich in ozone that absorbs most of the Sun's harmful ultraviolet radiation.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch3-g008",
       "term": "perihelion",
       "def": "The point in an orbit closest to the Sun.",
       "image": null,
       "module": "week-1",
       "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-g011",
+      "term": "permafrost",
+      "def": "Permanently frozen ground; subsurface water ice is widespread on Mars.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-g012",
+      "term": "phase (of a planet)",
+      "def": "The illuminated fraction of a planet's disk as seen from Earth; Venus shows a full cycle of phases, which supported the heliocentric model.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -944,12 +1421,48 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch12-g001",
+      "term": "planetary ring",
+      "def": "A disk of countless small particles of ice and rock orbiting a planet, as around Saturn and the other giants.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch14-g002",
       "term": "planetesimal",
       "def": "A small solid body formed in the early solar nebula that combined with others to build planets.",
       "image": null,
       "module": "week-3",
       "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-g004",
+      "term": "plate tectonics",
+      "def": "The theory that Earth's outer shell is broken into moving plates whose interactions cause earthquakes, volcanoes, and mountain building.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-g009",
+      "term": "Pluto",
+      "def": "A dwarf planet in the Kuiper Belt with a thin atmosphere, surprising surface variety, and a large moon, Charon.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-g007",
+      "term": "polar caps",
+      "def": "The deposits of frozen water and carbon dioxide at the poles of Mars, which grow and shrink with the Martian seasons.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1043,6 +1556,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch9-g004",
+      "term": "regolith",
+      "def": "The layer of loose, broken rock and dust covering a solid surface, produced by repeated impacts.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch6-g006",
       "term": "resolution",
       "def": "The ability of a telescope to show fine detail and separate objects that are close together in the sky.",
@@ -1061,6 +1583,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch10-g002",
+      "term": "retrograde rotation",
+      "def": "Rotation in the opposite direction to most planets; Venus spins backward and very slowly.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch4-g004",
       "term": "revolution",
       "def": "The orbital motion of one body around another; Earth's revolution around the Sun takes one year.",
@@ -1070,12 +1601,57 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch12-g002",
+      "term": "Roche limit",
+      "def": "The distance within which a planet's tidal forces would tear apart a large moon, helping explain why rings lie close to planets.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch4-g003",
       "term": "rotation",
       "def": "The spin of a body about its own axis; Earth's rotation produces day and night.",
       "image": null,
       "module": "week-2",
       "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-g001",
+      "term": "runaway greenhouse effect",
+      "def": "A process in which rising temperature and trapped infrared reinforce each other, driving a planet's surface to extreme heat, as on Venus.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch7-g006",
+      "term": "satellite (moon)",
+      "def": "A natural body that orbits a planet or other non-stellar object.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-g010",
+      "term": "Saturn",
+      "def": "The second-largest planet, a gas giant famous for its spectacular ring system and very low overall density.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-g008",
+      "term": "scarp",
+      "def": "A long cliff on Mercury, thought to have formed as the planet's interior cooled and shrank, wrinkling the crust.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1106,12 +1682,30 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch8-g005",
+      "term": "seismic wave",
+      "def": "A vibration that travels through Earth from earthquakes; studying these waves reveals the planet's internal structure.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch3-g007",
       "term": "semimajor axis",
       "def": "Half the longest diameter of an ellipse; for a planet's orbit it equals the average distance from the Sun.",
       "image": null,
       "module": "week-1",
       "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-g003",
+      "term": "shepherd moon",
+      "def": "A small moon whose gravity confines and shapes a planet's ring, keeping ring particles in a narrow band.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1268,6 +1862,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch12-g011",
+      "term": "subsurface ocean",
+      "def": "A layer of liquid water beneath the icy crust of a moon, a key target in the search for life.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch15-g004",
       "term": "sunspot",
       "def": "A cooler, darker region on the photosphere where strong magnetic fields suppress convection.",
@@ -1295,6 +1898,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch7-g001",
+      "term": "terrestrial planet",
+      "def": "A small, dense, rocky planet of the inner solar system (Mercury, Venus, Earth, Mars), with solid surfaces and thin or no atmospheres.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch1-g007",
       "term": "theory",
       "def": "A well-tested, broad explanation supported by a large body of evidence; in science, much stronger than an everyday 'guess.'",
@@ -1304,12 +1916,39 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch12-g008",
+      "term": "tidal heating",
+      "def": "The internal heating of a moon caused by the changing gravitational pull of its planet as it orbits, which flexes the moon.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-g004",
+      "term": "Titan",
+      "def": "Saturn's largest moon, the only moon with a thick atmosphere, featuring lakes of liquid methane and ethane.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch13-g014",
       "term": "Trojan asteroids",
       "def": "Asteroids that share a planet's orbit, clustered at the stable points 60 degrees ahead of and behind the planet (notably Jupiter's).",
       "image": null,
       "module": "week-3",
       "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-g010",
+      "term": "troposphere",
+      "def": "The lowest layer of Earth's atmosphere, where weather occurs and temperature falls with altitude.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1328,6 +1967,42 @@
       "image": null,
       "module": "week-1",
       "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-g011",
+      "term": "Uranus",
+      "def": "An ice giant notable for rotating on its side, with its axis tipped nearly 90 degrees.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-g006",
+      "term": "Valles Marineris",
+      "def": "An enormous canyon system on Mars, stretching roughly the width of the United States.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-g003",
+      "term": "Venus",
+      "def": "The second planet from the Sun, similar in size to Earth but with a thick carbon dioxide atmosphere and a crushing, scorching surface.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-g011",
+      "term": "volatile",
+      "def": "A substance, such as water or other ices, that easily vaporizes; permanently shadowed polar craters on the Moon and Mercury may trap volatiles.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -2149,6 +2824,492 @@
       "image": null,
       "module": "week-4",
       "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch7-f001",
+      "front": "Name the two main groups of planets and their defining traits.",
+      "back": "Terrestrial (inner, small, dense, rocky) and giant/jovian (outer, large, low-density, gas- and ice-rich).",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch7-f002",
+      "front": "List the four terrestrial planets.",
+      "back": "Mercury, Venus, Earth, and Mars.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch7-f003",
+      "front": "List the four giant planets.",
+      "back": "Jupiter, Saturn, Uranus, and Neptune.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch7-f004",
+      "front": "Why was Pluto reclassified as a dwarf planet?",
+      "back": "It orbits the Sun and is round, but it has not cleared its orbital neighborhood of other bodies, so it fails one of the IAU's planet criteria.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch7-f005",
+      "front": "Where is the asteroid belt located?",
+      "back": "Between the orbits of Mars and Jupiter.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch7-f006",
+      "front": "What is the difference between the Kuiper Belt and the Oort cloud?",
+      "back": "The Kuiper Belt is a disk of icy bodies just beyond Neptune (source of short-period comets); the Oort cloud is a far more distant spherical shell (source of long-period comets).",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch7-f007",
+      "front": "What does a planet's density tell us?",
+      "back": "Its likely composition: high density implies rock and metal, low density implies gas and ice.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch7-f008",
+      "front": "What is differentiation?",
+      "back": "The settling of dense material to a planet's core and light material to its surface, creating a layered interior.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch7-f009",
+      "front": "From what did the Sun and planets form?",
+      "back": "The solar nebula, a rotating cloud of gas and dust, about 4.6 billion years ago.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-f001",
+      "front": "Name Earth's three main interior layers from outside in.",
+      "back": "Crust, mantle, and core.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-f002",
+      "front": "How do scientists study Earth's interior without digging to the center?",
+      "back": "By analyzing seismic waves from earthquakes, which travel differently through layers of different density and state.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-f003",
+      "front": "What drives plate tectonics?",
+      "back": "Slow convection in the mantle, which moves the rigid plates of Earth's outer shell.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-f004",
+      "front": "What generates Earth's magnetic field?",
+      "back": "The dynamo effect: motion of molten, electrically conducting iron in Earth's outer core as the planet rotates.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-f005",
+      "front": "What does Earth's magnetosphere do for life?",
+      "back": "It deflects much of the solar wind and trapped charged particles, shielding the surface and atmosphere.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-f006",
+      "front": "What is the greenhouse effect?",
+      "back": "Atmospheric gases let in sunlight but trap outgoing infrared, warming the surface; without it Earth would be far colder.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-f007",
+      "front": "What is Earth's atmosphere mostly made of?",
+      "back": "Nitrogen (about 78%) and oxygen (about 21%).",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-f008",
+      "front": "Why is the ozone layer important?",
+      "back": "It absorbs most of the Sun's harmful ultraviolet radiation, protecting life at the surface.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-f009",
+      "front": "Name two processes that reshape Earth's surface over time.",
+      "back": "Plate tectonics (internal) and erosion by wind, water, and ice (external); volcanism and impacts also contribute.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-f001",
+      "front": "How do impact craters form?",
+      "back": "When a fast-moving meteoroid, asteroid, or comet strikes a solid surface, blasting out a bowl-shaped depression and ejecta.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-f002",
+      "front": "What is the difference between lunar maria and highlands?",
+      "back": "Maria are dark, smooth, younger lava plains; highlands are light-colored, heavily cratered, older terrain.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-f003",
+      "front": "State the leading hypothesis for the Moon's origin.",
+      "back": "The giant impact hypothesis: a Mars-sized body hit the young Earth, and the ejected debris formed the Moon.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-f004",
+      "front": "How can astronomers tell the relative age of a surface?",
+      "back": "By crater density: a more heavily cratered surface is older, since craters accumulate over time.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-f005",
+      "front": "What is regolith?",
+      "back": "The layer of loose, pulverized rock and dust covering an airless body, produced by repeated impacts.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-f006",
+      "front": "What unusual feature does Mercury's interior have?",
+      "back": "An unusually large iron core relative to its size.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-f007",
+      "front": "What are the long cliffs (scarps) on Mercury thought to indicate?",
+      "back": "That Mercury's interior cooled and contracted, wrinkling and shrinking its crust.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-f008",
+      "front": "Why do the Moon and Mercury retain so many craters?",
+      "back": "They are airless with little geologic activity or erosion, so impact craters are preserved for billions of years.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-f009",
+      "front": "What might be hidden in permanently shadowed polar craters on the Moon and Mercury?",
+      "back": "Water ice and other volatiles, protected from sunlight.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-f001",
+      "front": "Why is Venus the hottest planet despite not being closest to the Sun?",
+      "back": "Its thick carbon dioxide atmosphere creates a runaway greenhouse effect that traps enormous amounts of heat.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-f002",
+      "front": "What is unusual about Venus's rotation?",
+      "back": "It rotates retrograde (backward) and extremely slowly, so a Venusian day is longer than its year.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-f003",
+      "front": "Describe the surface conditions on Venus.",
+      "back": "Crushing pressure about 90 times Earth's and temperatures around 460 deg C, hot enough to melt lead.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-f004",
+      "front": "What evidence suggests Mars once had liquid water?",
+      "back": "Dried riverbeds, outflow channels, minerals that form in water, and ancient lakebed deposits.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-f005",
+      "front": "What is Olympus Mons?",
+      "back": "The largest volcano in the solar system, on Mars, roughly three times the height of Mount Everest.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-f006",
+      "front": "What is Valles Marineris?",
+      "back": "A vast canyon system on Mars about as long as the United States is wide.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-f007",
+      "front": "What are the Martian polar caps made of?",
+      "back": "Frozen water ice and frozen carbon dioxide (dry ice), which change with the seasons.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-f008",
+      "front": "Compare the atmospheres of Venus and Mars.",
+      "back": "Both are mostly carbon dioxide, but Venus's is extremely thick (~90x Earth's pressure) while Mars's is very thin (less than 1% of Earth's).",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-f009",
+      "front": "Why did the phases of Venus support the heliocentric model?",
+      "back": "Galileo saw Venus go through a full set of phases, which only makes sense if Venus orbits the Sun, not Earth.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-f001",
+      "front": "What are the four giant planets, and which are gas vs. ice giants?",
+      "back": "Jupiter and Saturn are gas giants (mostly hydrogen/helium); Uranus and Neptune are ice giants (more water, ammonia, methane).",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-f002",
+      "front": "What is the Great Red Spot?",
+      "back": "A persistent storm in Jupiter's atmosphere, larger than Earth, that has lasted for centuries.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-f003",
+      "front": "What is metallic hydrogen and where is it found?",
+      "back": "Hydrogen compressed so much it conducts electricity like a metal, found deep inside Jupiter and Saturn; it helps generate their strong magnetic fields.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-f004",
+      "front": "Why is Saturn's overall density so low?",
+      "back": "It is made mostly of hydrogen and helium; its average density is less than that of water.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-f005",
+      "front": "What is unusual about Uranus's rotation?",
+      "back": "Its axis is tipped nearly 90 degrees, so it essentially rotates on its side.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-f006",
+      "front": "What is differential rotation in giant planets?",
+      "back": "Different latitudes rotate at different speeds, since the planets are fluid rather than solid.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-f007",
+      "front": "Which giant planets emit more heat than they receive from the Sun?",
+      "back": "Jupiter, Saturn, and Neptune radiate more energy than they absorb, indicating internal heat sources.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-f008",
+      "front": "What causes the banded appearance of Jupiter and Saturn?",
+      "back": "Alternating belts (sinking gas) and zones (rising gas) in their convective, rapidly rotating atmospheres.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-f009",
+      "front": "Why are the giant planets oblate (flattened)?",
+      "back": "Their rapid rotation makes them bulge at the equator and flatten at the poles.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-f001",
+      "front": "What are planetary rings made of?",
+      "back": "Countless small particles of ice and rock, ranging from dust grains to boulders, orbiting the planet.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-f002",
+      "front": "What is the Roche limit?",
+      "back": "The distance within which a planet's tidal forces would pull apart a large moon; rings tend to lie inside it.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-f003",
+      "front": "What does a shepherd moon do?",
+      "back": "Its gravity confines ring particles into a narrow band, sharpening ring edges and gaps.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-f004",
+      "front": "Why is Titan unique among moons?",
+      "back": "It is the only moon with a thick atmosphere, and it has lakes of liquid methane and ethane on its surface.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-f005",
+      "front": "Which moons are thought to have subsurface oceans?",
+      "back": "Europa (Jupiter) and Enceladus (Saturn) are leading examples; their hidden liquid water makes them targets in the search for life.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-f006",
+      "front": "Why is Io so volcanically active?",
+      "back": "Tidal heating from Jupiter's gravity flexes its interior, generating enough heat to drive constant volcanism.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-f007",
+      "front": "What is tidal heating?",
+      "back": "Internal heating produced when a planet's varying gravitational pull repeatedly flexes a moon as it orbits.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-f008",
+      "front": "What is notable about Pluto and Charon?",
+      "back": "Charon is so large relative to Pluto that the pair is sometimes considered a double (binary) system.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-f009",
+      "front": "What causes gaps such as the Cassini Division in Saturn's rings?",
+      "back": "Gravitational interactions (resonances) with moons clear particles from certain regions of the rings.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     }
   ],
@@ -3726,9 +4887,939 @@
       "module": "week-4",
       "chapter": "Ch16",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch7-q001",
+      "type": "mc",
+      "text": "Which of the following is NOT a terrestrial planet?",
+      "answer": "Jupiter",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Jupiter",
+        "Mars"
+      ]
+    },
+    {
+      "id": "ch7-q002",
+      "type": "mc",
+      "text": "Most asteroids orbit the Sun in a belt located between:",
+      "answer": "Mars and Jupiter",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Earth and Mars",
+        "Mars and Jupiter",
+        "Jupiter and Saturn",
+        "Neptune and the Kuiper Belt"
+      ]
+    },
+    {
+      "id": "ch7-q003",
+      "type": "tf",
+      "text": "Giant planets are generally larger but less dense than terrestrial planets.",
+      "answer": "True",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch7-q004",
+      "type": "tf",
+      "text": "Pluto is classified as a terrestrial planet.",
+      "answer": "False",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch7-q005",
+      "type": "fitb",
+      "text": "A small icy body that grows a glowing head and tail near the Sun is a ______.",
+      "answer": "comet",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch7-q006",
+      "type": "fitb",
+      "text": "The rotating cloud of gas and dust from which the solar system formed is the solar ______.",
+      "answer": "nebula",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch7-q007",
+      "type": "sa",
+      "text": "Explain how a planet's density gives clues about what it is made of.",
+      "answer": "Density is mass divided by volume. Rock and metal are dense, so a high-density planet (like the terrestrial planets) must be mostly rock and metal. Gases and ices are far less dense, so a low-density planet (like the giant planets) must be made largely of those lighter materials.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch7-q008",
+      "type": "sa",
+      "text": "Why is Pluto considered a dwarf planet rather than a full planet?",
+      "answer": "Under the IAU definition, a full planet must orbit the Sun, be round due to its own gravity, AND have cleared its orbital neighborhood of other bodies. Pluto satisfies the first two but shares its region with many other Kuiper Belt objects, so it fails the third criterion and is classified as a dwarf planet.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch7-q009",
+      "type": "match",
+      "text": "Match each region or body to its description.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "pairs": [
+        [
+          "Asteroid belt",
+          "Rocky bodies between Mars and Jupiter"
+        ],
+        [
+          "Kuiper Belt",
+          "Disk of icy bodies beyond Neptune"
+        ],
+        [
+          "Oort cloud",
+          "Distant spherical source of long-period comets"
+        ],
+        [
+          "Terrestrial planets",
+          "Small dense rocky inner worlds"
+        ]
+      ]
+    },
+    {
+      "id": "ch7-q010",
+      "type": "mc",
+      "text": "The giant planets are best described as:",
+      "answer": "Large, low-density, and gas-rich",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Small, dense, and rocky",
+        "Large, low-density, and gas-rich",
+        "Made mostly of iron",
+        "Identical to the terrestrial planets"
+      ]
+    },
+    {
+      "id": "ch7-q011",
+      "type": "tf",
+      "text": "The solar system formed about 4.6 billion years ago.",
+      "answer": "True",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-q001",
+      "type": "mc",
+      "text": "Earth's magnetic field is generated by:",
+      "answer": "Motion of molten iron in the core (the dynamo effect)",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Sunlight striking the poles",
+        "Motion of molten iron in the core (the dynamo effect)",
+        "The Moon's gravity",
+        "The ozone layer"
+      ]
+    },
+    {
+      "id": "ch8-q002",
+      "type": "mc",
+      "text": "Which layer of Earth lies between the crust and the core?",
+      "answer": "The mantle",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "The mantle",
+        "The atmosphere",
+        "The magnetosphere",
+        "The troposphere"
+      ]
+    },
+    {
+      "id": "ch8-q003",
+      "type": "tf",
+      "text": "Seismic waves from earthquakes help reveal the structure of Earth's interior.",
+      "answer": "True",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-q004",
+      "type": "tf",
+      "text": "Without any greenhouse effect, Earth's surface would be warmer than it is today.",
+      "answer": "False",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-q005",
+      "type": "fitb",
+      "text": "The theory that Earth's outer shell is broken into moving plates is called plate ______.",
+      "answer": "tectonics",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-q006",
+      "type": "fitb",
+      "text": "Earth's atmosphere is composed mostly of nitrogen and ______.",
+      "answer": "oxygen",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-q007",
+      "type": "sa",
+      "text": "Explain how the greenhouse effect warms a planet's surface.",
+      "answer": "Sunlight (mostly visible) passes through the atmosphere and warms the surface, which then radiates energy back as infrared. Greenhouse gases such as carbon dioxide and water vapor absorb that outgoing infrared and re-emit some of it back downward, trapping heat and raising the surface temperature above what it would be otherwise.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-q008",
+      "type": "sa",
+      "text": "Describe two distinct ways Earth's surface is reshaped over geologic time.",
+      "answer": "Internally, plate tectonics moves crustal plates, building mountains and causing earthquakes and volcanoes. Externally, erosion by wind, water, and ice wears down and redistributes surface material. Together these processes erase old features, which is why Earth has relatively few impact craters compared with the Moon.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-q009",
+      "type": "match",
+      "text": "Match each Earth feature to its description.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "pairs": [
+        [
+          "Core",
+          "Dense iron-nickel center, partly molten"
+        ],
+        [
+          "Mantle",
+          "Thick rocky layer that slowly convects"
+        ],
+        [
+          "Magnetosphere",
+          "Region shielding us from the solar wind"
+        ],
+        [
+          "Ozone layer",
+          "Absorbs harmful ultraviolet light"
+        ]
+      ]
+    },
+    {
+      "id": "ch8-q010",
+      "type": "mc",
+      "text": "The lowest layer of Earth's atmosphere, where weather occurs, is the:",
+      "answer": "Troposphere",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Stratosphere",
+        "Troposphere",
+        "Ionosphere",
+        "Magnetosphere"
+      ]
+    },
+    {
+      "id": "ch8-q011",
+      "type": "tf",
+      "text": "Earth has fewer visible impact craters than the Moon because tectonics and erosion erase them.",
+      "answer": "True",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-q001",
+      "type": "mc",
+      "text": "The dark, smooth plains on the Moon are called:",
+      "answer": "Maria",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Highlands",
+        "Maria",
+        "Scarps",
+        "Regolith"
+      ]
+    },
+    {
+      "id": "ch9-q002",
+      "type": "mc",
+      "text": "The leading explanation for how the Moon formed is the:",
+      "answer": "Giant impact hypothesis",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Capture hypothesis",
+        "Giant impact hypothesis",
+        "Fission hypothesis",
+        "Co-formation hypothesis"
+      ]
+    },
+    {
+      "id": "ch9-q003",
+      "type": "tf",
+      "text": "A heavily cratered surface is generally older than a smooth one.",
+      "answer": "True",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-q004",
+      "type": "tf",
+      "text": "The Moon and Mercury have thick atmospheres that protect them from impacts.",
+      "answer": "False",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-q005",
+      "type": "fitb",
+      "text": "The loose layer of broken rock and dust on an airless world is called ______.",
+      "answer": "regolith",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-q006",
+      "type": "fitb",
+      "text": "Mercury has an unusually large ______ core for its size.",
+      "answer": "iron",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-q007",
+      "type": "sa",
+      "text": "Explain how counting craters lets astronomers estimate the relative age of a planetary surface.",
+      "answer": "Impacts occur over time, so craters accumulate on an undisturbed surface. A region with many craters has been exposed for a long time (old), while a region with few craters has been resurfaced more recently by lava, erosion, or tectonics (young). Comparing crater densities lets astronomers rank surfaces by relative age.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-q008",
+      "type": "sa",
+      "text": "Summarize the giant impact hypothesis for the Moon's formation and one piece of evidence that supports it.",
+      "answer": "Early in solar system history a Mars-sized body collided with the young Earth; debris blasted into orbit coalesced to form the Moon. Supporting evidence includes the Moon's relatively small iron core and its composition being similar to Earth's mantle, consistent with the Moon forming mostly from Earth's outer layers after the metallic cores had already merged.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-q009",
+      "type": "match",
+      "text": "Match each lunar/Mercurian feature to its description.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "pairs": [
+        [
+          "Maria",
+          "Dark smooth lava plains"
+        ],
+        [
+          "Highlands",
+          "Light, old, heavily cratered terrain"
+        ],
+        [
+          "Scarp",
+          "Long cliff from crustal shrinking on Mercury"
+        ],
+        [
+          "Regolith",
+          "Loose surface layer of rock and dust"
+        ]
+      ]
+    },
+    {
+      "id": "ch9-q010",
+      "type": "mc",
+      "text": "The long cliffs called scarps on Mercury are evidence that the planet:",
+      "answer": "Cooled and contracted",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Gained an atmosphere",
+        "Cooled and contracted",
+        "Was struck by the Moon",
+        "Has active plate tectonics"
+      ]
+    },
+    {
+      "id": "ch9-q011",
+      "type": "tf",
+      "text": "Permanently shadowed craters near the poles of the Moon and Mercury may hold water ice.",
+      "answer": "True",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-q001",
+      "type": "mc",
+      "text": "Venus's extremely high surface temperature is caused mainly by:",
+      "answer": "A runaway greenhouse effect",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Its closeness to the Sun",
+        "A runaway greenhouse effect",
+        "Internal nuclear reactions",
+        "Constant volcanic eruptions"
+      ]
+    },
+    {
+      "id": "ch10-q002",
+      "type": "mc",
+      "text": "Which feature is found on Mars?",
+      "answer": "Olympus Mons",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "The Great Red Spot",
+        "Olympus Mons",
+        "The Cassini Division",
+        "The Caloris Basin"
+      ]
+    },
+    {
+      "id": "ch10-q003",
+      "type": "tf",
+      "text": "Venus rotates in the opposite direction to most planets (retrograde).",
+      "answer": "True",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-q004",
+      "type": "tf",
+      "text": "Mars currently has a thick atmosphere similar to Earth's.",
+      "answer": "False",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-q005",
+      "type": "fitb",
+      "text": "The largest volcano in the solar system, located on Mars, is Olympus ______.",
+      "answer": "Mons",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-q006",
+      "type": "fitb",
+      "text": "The atmospheres of both Venus and Mars are composed mostly of carbon ______.",
+      "answer": "dioxide",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-q007",
+      "type": "sa",
+      "text": "Explain why Venus is hotter than Mercury even though Mercury is closer to the Sun.",
+      "answer": "Mercury is closer to the Sun but is essentially airless, so heat escapes readily and its surface cools dramatically on its night side. Venus has a dense carbon-dioxide atmosphere that traps infrared radiation in a runaway greenhouse effect, raising and holding its surface temperature near 460 deg C everywhere, hotter than Mercury's dayside.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-q008",
+      "type": "sa",
+      "text": "What lines of evidence indicate that Mars had liquid water in the past, and why does this matter?",
+      "answer": "Spacecraft have found dried river valleys and outflow channels, sediment layers from ancient lakes, and minerals that form only in the presence of water. This matters because liquid water is considered essential for life, so past water makes Mars a key target in the search for past or present life.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-q009",
+      "type": "match",
+      "text": "Match each planet feature to the correct world.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "pairs": [
+        [
+          "Runaway greenhouse, ~90x Earth pressure",
+          "Venus"
+        ],
+        [
+          "Olympus Mons and polar caps",
+          "Mars"
+        ],
+        [
+          "Retrograde, very slow rotation",
+          "Venus (rotation)"
+        ],
+        [
+          "Valles Marineris canyon system",
+          "Mars (canyon)"
+        ]
+      ]
+    },
+    {
+      "id": "ch10-q010",
+      "type": "mc",
+      "text": "Compared with Earth, the surface atmospheric pressure on Mars is:",
+      "answer": "Less than 1 percent",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "About the same",
+        "Roughly 90 times greater",
+        "Less than 1 percent",
+        "Exactly double"
+      ]
+    },
+    {
+      "id": "ch10-q011",
+      "type": "tf",
+      "text": "Galileo's observation of the phases of Venus supported the heliocentric model.",
+      "answer": "True",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-q001",
+      "type": "mc",
+      "text": "Jupiter and Saturn are composed mostly of:",
+      "answer": "Hydrogen and helium",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Iron and rock",
+        "Hydrogen and helium",
+        "Water and carbon dioxide",
+        "Ammonia ice"
+      ]
+    },
+    {
+      "id": "ch11-q002",
+      "type": "mc",
+      "text": "Which planet rotates almost on its side, with an axial tilt near 90 degrees?",
+      "answer": "Uranus",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ]
+    },
+    {
+      "id": "ch11-q003",
+      "type": "tf",
+      "text": "The Great Red Spot is a long-lived storm in Jupiter's atmosphere larger than Earth.",
+      "answer": "True",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-q004",
+      "type": "tf",
+      "text": "Saturn's average density is greater than that of water.",
+      "answer": "False",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-q005",
+      "type": "fitb",
+      "text": "Hydrogen that conducts electricity like a metal under extreme pressure is called ______ hydrogen.",
+      "answer": "metallic",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-q006",
+      "type": "fitb",
+      "text": "Uranus and Neptune are classified as ______ giants because they contain more water, ammonia, and methane.",
+      "answer": "ice",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-q007",
+      "type": "sa",
+      "text": "Explain why Jupiter and Saturn have such strong magnetic fields.",
+      "answer": "Deep inside Jupiter and Saturn, hydrogen is compressed so much that it becomes metallic hydrogen, an electrical conductor. As these large planets rotate rapidly and this conducting fluid circulates, a powerful dynamo is generated, producing very strong magnetic fields.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-q008",
+      "type": "sa",
+      "text": "What does it mean that Jupiter, Saturn, and Neptune radiate more energy than they receive, and what does it imply?",
+      "answer": "They emit more heat than they absorb from sunlight, which means they have internal heat sources. This leftover heat comes from their formation and ongoing slow contraction (and, for Saturn, helium settling), powering their winds, storms, and convective banded atmospheres.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-q009",
+      "type": "match",
+      "text": "Match each giant planet to a distinguishing feature.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "pairs": [
+        [
+          "Jupiter",
+          "Largest planet; the Great Red Spot"
+        ],
+        [
+          "Saturn",
+          "Spectacular rings; density less than water"
+        ],
+        [
+          "Uranus",
+          "Rotates on its side"
+        ],
+        [
+          "Neptune",
+          "Most distant; deep blue, strong winds"
+        ]
+      ]
+    },
+    {
+      "id": "ch11-q010",
+      "type": "mc",
+      "text": "The alternating dark belts and light zones of Jupiter are produced by:",
+      "answer": "Rising and sinking gas in a convective atmosphere",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Impact craters",
+        "Rising and sinking gas in a convective atmosphere",
+        "Ring shadows",
+        "Volcanic eruptions"
+      ]
+    },
+    {
+      "id": "ch11-q011",
+      "type": "tf",
+      "text": "The giant planets are noticeably flattened (oblate) because they rotate rapidly.",
+      "answer": "True",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-q001",
+      "type": "mc",
+      "text": "Planetary rings are composed mainly of:",
+      "answer": "Countless small particles of ice and rock",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Solid sheets of ice",
+        "Countless small particles of ice and rock",
+        "Hot gas",
+        "A single large moon"
+      ]
+    },
+    {
+      "id": "ch12-q002",
+      "type": "mc",
+      "text": "The most volcanically active body in the solar system is:",
+      "answer": "Io",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Earth's Moon",
+        "Titan",
+        "Io",
+        "Europa"
+      ]
+    },
+    {
+      "id": "ch12-q003",
+      "type": "tf",
+      "text": "Europa is thought to have a subsurface ocean of liquid water beneath its icy crust.",
+      "answer": "True",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-q004",
+      "type": "tf",
+      "text": "Titan has no atmosphere at all.",
+      "answer": "False",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-q005",
+      "type": "fitb",
+      "text": "The distance within which a planet's tidal forces would tear apart a large moon is the ______ limit.",
+      "answer": "Roche",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-q006",
+      "type": "fitb",
+      "text": "Io's intense volcanism is powered by tidal ______ from Jupiter's gravity.",
+      "answer": "heating",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-q007",
+      "type": "sa",
+      "text": "Explain how tidal heating can keep a small moon like Io geologically active.",
+      "answer": "As Io orbits Jupiter, the giant planet's gravity varies in strength and direction (helped by gravitational tugs from neighboring moons), repeatedly flexing Io's interior. This constant flexing generates friction and heat deep inside, which keeps Io molten enough to sustain continuous, intense volcanic activity despite its small size.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-q008",
+      "type": "sa",
+      "text": "Why are moons with subsurface oceans, such as Europa and Enceladus, important in the search for life?",
+      "answer": "Liquid water is considered essential for life as we know it. Although these moons are far from the Sun and icy on the surface, tidal heating can maintain oceans of liquid water beneath their ice. Enceladus even vents water into space, letting spacecraft sample it. These hidden oceans make such moons promising places to look for life beyond Earth.",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch12-q009",
+      "type": "match",
+      "text": "Match each moon to its key feature.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "pairs": [
+        [
+          "Titan",
+          "Thick atmosphere; methane lakes"
+        ],
+        [
+          "Europa",
+          "Icy crust over a water ocean"
+        ],
+        [
+          "Io",
+          "Most volcanically active body"
+        ],
+        [
+          "Enceladus",
+          "Geysers from a subsurface ocean"
+        ]
+      ]
+    },
+    {
+      "id": "ch12-q010",
+      "type": "mc",
+      "text": "Pluto is best classified as a:",
+      "answer": "Dwarf planet in the Kuiper Belt",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "Terrestrial planet",
+        "Giant planet",
+        "Dwarf planet in the Kuiper Belt",
+        "Comet"
+      ]
+    },
+    {
+      "id": "ch12-q011",
+      "type": "tf",
+      "text": "A shepherd moon helps confine ring particles into narrow bands.",
+      "answer": "True",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     }
   ],
   "notes": [
+    {
+      "id": "ch12-note001",
+      "title": "Ch. 12 — Rings, Moons, and Pluto",
+      "body": "# Rings, Moons, and Pluto\n\n## Rings\n- Made of **countless ice + rock particles** (dust to boulders), all in orbit.\n- All four giant planets have rings; **Saturn's** are the showpiece.\n- **Roche limit:** inside this distance, tidal forces shred a large moon → why rings sit close in.\n- **Shepherd moons:** gravity confines ring particles into narrow bands.\n- Gaps (e.g., **Cassini Division**) cleared by resonances with moons (Mimas).\n\n## Remarkable moons\n- **Titan (Saturn):** only moon with a **thick atmosphere**; methane/ethane lakes.\n- **Europa (Jupiter):** icy crust over a **subsurface water ocean**.\n- **Enceladus (Saturn):** **geysers** of water from a subsurface ocean.\n- **Io (Jupiter):** most **volcanically active** body — powered by **tidal heating**.\n- **Cryovolcanism:** icy \"lava\" (water/ammonia/methane) on cold moons.\n\n## Tidal heating (key concept)\n- A planet's changing gravity flexes a moon → internal friction → heat.\n- Explains Io's volcanism and helps keep Europa/Enceladus oceans liquid.\n\n## Pluto & the Kuiper Belt\n- **Pluto:** dwarf planet, thin atmosphere, varied surface; in the **Kuiper Belt**.\n- **Charon:** so large relative to Pluto they're nearly a **double system**.\n\n## Why it matters\n- **Subsurface oceans** (Europa, Enceladus) = top targets in the **search for life**.\n\n## ★ KEY EXAM POINTS\n- ★ Rings = small ice/rock particles; **Roche limit** explains why they're close in.\n- ★ **Shepherd moons** confine rings; Cassini Division = moon resonance.\n- ★ **Io** = most volcanic (tidal heating); **Titan** = thick atmosphere + methane lakes.\n- ★ **Europa & Enceladus** = subsurface oceans → life-search targets.\n- ★ Pluto = **dwarf planet** in the Kuiper Belt; Charon nearly a twin.\n",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch11-note001",
+      "title": "Ch. 11 — The Giant Planets",
+      "body": "# The Giant Planets\n\n## Two sub-types\n- **Gas giants:** Jupiter, Saturn — mostly **hydrogen + helium**.\n- **Ice giants:** Uranus, Neptune — more \"ices\" (water, ammonia, methane); blue from **methane**.\n- No solid surface; huge, low density (Saturn's density < water).\n\n## Atmospheres in motion\n- **Belts (sinking) and zones (rising)** → banded look (Jupiter, Saturn).\n- **Great Red Spot:** centuries-old Jovian storm, bigger than Earth.\n- **Differential rotation:** different latitudes spin at different rates (they're fluid).\n- **Oblateness:** rapid spin → equatorial bulge, polar flattening.\n\n## Interiors & magnetism\n- Deep in Jupiter/Saturn: **metallic hydrogen** (conducts electricity).\n- Rapid rotation + conducting fluid → very **strong magnetic fields**.\n\n## Internal heat\n- **Jupiter, Saturn, Neptune** emit MORE energy than they receive → internal heat (formation + contraction).\n\n## Oddballs\n- **Uranus:** axis tipped ~90 deg → rotates \"on its side.\"\n- **Neptune:** most distant, fastest winds, deep blue.\n\n## ★ KEY EXAM POINTS\n- ★ Gas giants (J, S) = H/He; ice giants (U, N) = water/ammonia/methane.\n- ★ Strong magnetic fields ← **metallic hydrogen** + fast rotation (J, S).\n- ★ Saturn's density is **less than water**.\n- ★ J, S, N radiate **more heat than they receive** (internal heat).\n- ★ Uranus rotates on its side; Great Red Spot = giant Jovian storm.\n",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch10-note001",
+      "title": "Ch. 10 — Earthlike Planets: Venus and Mars",
+      "body": "# Earthlike Planets: Venus and Mars\n\n## Venus — Earth's \"evil twin\"\n- Earth-sized, but a **thick CO₂ atmosphere** → **runaway greenhouse**.\n- Surface ~**460 deg C** (hotter than Mercury) and ~**90x** Earth's pressure.\n- **Retrograde**, ultra-slow rotation → day longer than its year.\n- **Phases of Venus** (Galileo) supported the **heliocentric** model.\n\n## Mars — the cold desert\n- Thin CO₂ atmosphere: **< 1%** of Earth's pressure; cold.\n- Giant features: **Olympus Mons** (biggest volcano in solar system) and **Valles Marineris** (canyon ~US-wide).\n- **Polar caps:** water ice + frozen CO₂ (dry ice); change with seasons.\n- **Evidence of past water:** dried riverbeds, outflow channels, lakebed sediments, water-formed minerals, subsurface **permafrost**.\n- Strong dust storms + dunes = **aeolian** (wind) activity.\n\n## Why it matters\n- Past liquid water → **habitability** question → Mars is a top target in the search for life.\n\n## ★ KEY EXAM POINTS\n- ★ Venus hottest planet → **runaway greenhouse** (thick CO₂), not proximity to Sun.\n- ★ Venus: **retrograde**, very slow spin; ~90x pressure; ~460 deg C.\n- ★ Mars: thin CO₂ (<1% Earth), Olympus Mons, Valles Marineris, polar caps.\n- ★ Mars shows **past liquid water** → key for life search.\n- ★ Phases of Venus = evidence for heliocentrism.\n",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch9-note001",
+      "title": "Ch. 9 — Cratered Worlds: The Moon and Mercury",
+      "body": "# Cratered Worlds: The Moon and Mercury\n\n## Impact cratering (the dominant process)\n- **Impact crater:** bowl-shaped scar from a high-speed impact; throws out **ejecta** (bright rays).\n- Both worlds are **airless** → no erosion/weather → craters survive billions of years.\n- **Crater density = relative age:** more craters = older surface.\n- **Late heavy bombardment:** early era of intense impacts (made big basins).\n\n## The Moon's two terrains\n- **Maria:** dark, smooth, younger **lava** plains (filled large basins).\n- **Highlands:** light, old, heavily cratered.\n- **Regolith:** loose pulverized rock/dust from repeated impacts.\n\n## Origin of the Moon\n- **Giant impact hypothesis:** Mars-sized body hit young Earth → debris formed the Moon.\n- Evidence: Moon's small iron core + composition like Earth's mantle.\n- Moon is in **synchronous rotation** (same face toward Earth).\n\n## Mercury\n- **Airless**, extreme temperature swings, heavily cratered.\n- Unusually **large iron core** for its size.\n- **Scarps:** long cliffs → planet **cooled and shrank**, wrinkling the crust.\n\n## Polar ice\n- Permanently shadowed polar craters on BOTH worlds may trap **water ice / volatiles**.\n\n## ★ KEY EXAM POINTS\n- ★ More craters = **older** surface (crater density dating).\n- ★ Maria = dark young lava plains; highlands = light old cratered terrain.\n- ★ Moon's origin = **giant impact hypothesis**.\n- ★ Mercury: oversized **iron core**; **scarps** = cooling/contraction.\n- ★ Airless worlds preserve craters (no erosion); polar shadows may hide ice.\n",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch8-note001",
+      "title": "Ch. 8 — Earth as a Planet",
+      "body": "# Earth as a Planet\n\n## Interior structure (outside → in)\n- **Crust:** thin solid outer layer.\n- **Mantle:** thick rocky layer; slowly **convects**.\n- **Core:** dense **iron-nickel**; outer core molten, inner core solid.\n- Studied via **seismic waves** (they bend/reflect at layer boundaries).\n\n## A dynamic surface\n- **Plate tectonics:** rigid plates ride on convecting mantle → earthquakes, volcanoes, mountains.\n- **Erosion:** wind/water/ice wear down features.\n- These (plus volcanism) explain why Earth has **few craters** vs the Moon.\n\n## Magnetic field\n- Generated by the **dynamo effect** — molten conducting iron + rotation + convection.\n- Creates the **magnetosphere**, which deflects the solar wind and shields us.\n\n## Atmosphere\n- Composition: ~78% **nitrogen**, ~21% **oxygen**.\n- Layers: **troposphere** (weather, temp drops with height), stratosphere (holds the **ozone layer** → blocks UV), and higher layers.\n\n## Greenhouse effect\n- Sunlight in (visible) → surface warms → emits infrared → greenhouse gases (CO₂, H₂O) trap it.\n- Keeps Earth habitable; without it, Earth would be much **colder**. Too much → overheating.\n\n## ★ KEY EXAM POINTS\n- ★ Layers: crust / mantle / core; probed by **seismic waves**.\n- ★ Magnetic field = **dynamo effect** (molten iron core) → magnetosphere shields us.\n- ★ Greenhouse effect traps **infrared** → warms surface (CO₂, water vapor).\n- ★ Atmosphere ≈ N₂ (78%) + O₂ (21%); ozone layer blocks UV.\n- ★ Tectonics + erosion erase craters → Earth looks 'young.'\n",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch7-note001",
+      "title": "Ch. 7 — Other Worlds: An Introduction to the Solar System",
+      "body": "# Other Worlds: An Introduction to the Solar System\n\n## Two families of planets\n- **Terrestrial (inner):** Mercury, Venus, Earth, Mars.\n  - Small, **dense**, rocky, solid surfaces, thin/no atmospheres.\n- **Giant / jovian (outer):** Jupiter, Saturn, Uranus, Neptune.\n  - Large, **low density**, gas- and ice-rich, NO solid surface, many moons + rings.\n\n## Smaller bodies\n- **Asteroids:** rocky/metallic; mostly in the **asteroid belt** (Mars–Jupiter).\n- **Comets:** icy; grow head + tail near the Sun.\n- **Dwarf planets:** round, orbit Sun, but have NOT cleared their orbit (Pluto, Eris, Ceres).\n- **Meteoroid → meteor (in atmosphere) → meteorite (lands).**\n\n## Reservoirs of icy bodies\n- **Kuiper Belt:** disk just beyond Neptune → short-period comets; Pluto lives here.\n- **Oort cloud:** distant spherical shell → long-period comets.\n\n## Reading a planet from its density\n- High density → rock + metal (terrestrials).\n- Low density → gas + ice (giants).\n- **Differentiation:** dense stuff sinks to core, light stuff floats up → layered interior.\n\n## Origin\n- Formed from the **solar nebula** (rotating gas + dust) ~**4.6 billion years** ago.\n- **Planetesimals** clumped together to build planets.\n\n## ★ KEY EXAM POINTS\n- ★ Terrestrial = small/dense/rocky/inner; Giant = large/low-density/gas/outer.\n- ★ Asteroid belt = between **Mars and Jupiter**.\n- ★ Pluto = dwarf planet because it hasn't **cleared its orbit**.\n- ★ Kuiper Belt (disk, short-period comets) vs Oort cloud (sphere, long-period comets).\n- ★ Density → composition; solar system age ≈ 4.6 billion yr.\n",
+      "image": null,
+      "module": "week-3",
+      "chapter": "Ch7",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
     {
       "id": "ch16-note001",
       "title": "Ch. 16 — The Sun: A Nuclear Powerhouse",
