@@ -7363,6 +7363,286 @@
       "module": "week-4",
       "chapter": "Ch16",
       "source": "Astronomy 2e (OpenStax), Ch. 16 (study-guide objective)"
+    },
+    {
+      "id": "ch17-sg-q001",
+      "type": "sa",
+      "text": "What two factors determine how bright a star appears to be in the sky?",
+      "answer": "A star's apparent brightness depends on its luminosity (the total energy it actually emits) and its distance from us. Because brightness falls off with the square of distance, a nearby modest star can look brighter than a distant luminous one.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Astronomy 2e (OpenStax), Ch. 17 (study-guide objective)"
+    },
+    {
+      "id": "ch17-sg-q002",
+      "type": "sa",
+      "text": "Explain why color is a measure of a star's temperature.",
+      "answer": "A star radiates approximately like a blackbody, so the wavelength at which it emits most strongly depends on its temperature (Wien's law). Hot stars peak at short wavelengths and look blue-white, while cool stars peak at long wavelengths and look red, so color directly indicates surface temperature.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Astronomy 2e (OpenStax), Ch. 17 (study-guide objective)"
+    },
+    {
+      "id": "ch17-sg-q003",
+      "type": "sa",
+      "text": "What is the main reason that the spectra of all stars are not identical?",
+      "answer": "The chief reason is differences in temperature, not composition. Temperature controls which atoms are ionized or excited and therefore which spectral lines appear and how strong they are, so stars of different temperatures show very different spectra even with similar compositions.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Astronomy 2e (OpenStax), Ch. 17 (study-guide objective)"
+    },
+    {
+      "id": "ch17-sg-q004",
+      "type": "sa",
+      "text": "What elements are stars mostly made of, and how do we know?",
+      "answer": "Stars are composed mostly of hydrogen and helium, with small amounts of heavier elements. We know this from analyzing their spectral lines, once the effect of temperature on line strengths is properly accounted for (a key insight of Cecilia Payne-Gaposchkin).",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Astronomy 2e (OpenStax), Ch. 17 (study-guide objective)"
+    },
+    {
+      "id": "ch17-sg-q005",
+      "type": "sa",
+      "text": "What did Annie Cannon contribute to the understanding of stellar spectra?",
+      "answer": "Annie Jump Cannon classified hundreds of thousands of stellar spectra and arranged the spectral types into the temperature-ordered sequence O, B, A, F, G, K, M, establishing the classification system still used today.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Astronomy 2e (OpenStax), Ch. 17 (study-guide objective)"
+    },
+    {
+      "id": "ch17-sg-q006",
+      "type": "sa",
+      "text": "Name five characteristics of a star that can be determined from its spectrum, and how.",
+      "answer": "Temperature (from the pattern and strength of spectral lines and overall color), chemical composition (from which lines are present), radial velocity (from the Doppler shift of the lines), rotation (from broadening of the lines), and magnetic field strength (from Zeeman splitting). Line widths can also reveal pressure and thus luminosity class.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Astronomy 2e (OpenStax), Ch. 17 (study-guide objective)"
+    },
+    {
+      "id": "ch17-sg-q007",
+      "type": "sa",
+      "text": "How do objects of spectral types L, T, and Y differ from the other spectral types?",
+      "answer": "L, T, and Y are extensions beyond M to even cooler objects, mostly brown dwarfs. They are too low in mass and temperature to sustain ordinary hydrogen fusion, and their cool atmospheres show molecules and even clouds, unlike hotter true stars.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Astronomy 2e (OpenStax), Ch. 17 (study-guide objective)"
+    },
+    {
+      "id": "ch17-sg-q008",
+      "type": "sa",
+      "text": "Do stars that look brighter in the sky have larger or smaller magnitudes than fainter stars?",
+      "answer": "Smaller magnitudes. The magnitude scale runs backward, so brighter stars have smaller (and the brightest have negative) numbers, while fainter stars have larger numbers.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Astronomy 2e (OpenStax), Ch. 17 (study-guide objective)"
+    },
+    {
+      "id": "ch17-sg-q009",
+      "type": "sa",
+      "text": "Antares has apparent magnitude 1.0 and Procyon 0.4. Which appears brighter in the sky?",
+      "answer": "Procyon appears brighter. Because smaller magnitudes mean brighter objects, Procyon's 0.4 is brighter than Antares's 1.0.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Astronomy 2e (OpenStax), Ch. 17 (study-guide objective)"
+    },
+    {
+      "id": "ch17-sg-q010",
+      "type": "sa",
+      "text": "Based on their colors, which of Achernar (blue), Betelgeuse (red), and Capella (yellow) is hottest and which is coolest?",
+      "answer": "Achernar, being blue, is the hottest, and Betelgeuse, being red, is the coolest; Capella, yellow, lies in between (similar to the Sun).",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Astronomy 2e (OpenStax), Ch. 17 (study-guide objective)"
+    },
+    {
+      "id": "ch17-sg-q011",
+      "type": "sa",
+      "text": "Order the seven basic spectral types from hottest to coldest.",
+      "answer": "From hottest to coolest: O, B, A, F, G, K, M.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Astronomy 2e (OpenStax), Ch. 17 (study-guide objective)"
+    },
+    {
+      "id": "ch17-sg-q012",
+      "type": "sa",
+      "text": "What is the defining difference between a brown dwarf and a true star?",
+      "answer": "A true star is massive enough to sustain hydrogen fusion in its core, while a brown dwarf is too low in mass to do so (below about 0.08 solar mass), so it never becomes a self-sustaining hydrogen-burning star.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Astronomy 2e (OpenStax), Ch. 17 (study-guide objective)"
+    },
+    {
+      "id": "ch18-sg-q001",
+      "type": "sa",
+      "text": "How does the mass of the Sun compare with that of other stars in our local neighborhood?",
+      "answer": "The Sun is roughly average to somewhat above average. Most stars in the local neighborhood are lower-mass, cooler, fainter red dwarfs, so the Sun is more massive than the typical nearby star.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Astronomy 2e (OpenStax), Ch. 18 (study-guide objective)"
+    },
+    {
+      "id": "ch18-sg-q002",
+      "type": "sa",
+      "text": "Name and describe the three types of binary systems.",
+      "answer": "Visual binaries are pairs resolved as two separate stars through a telescope. Spectroscopic binaries are detected by periodic Doppler shifts in their combined spectrum as the stars orbit. Eclipsing binaries are recognized by regular dips in brightness as one star passes in front of the other along our line of sight.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Astronomy 2e (OpenStax), Ch. 18 (study-guide objective)"
+    },
+    {
+      "id": "ch18-sg-q003",
+      "type": "sa",
+      "text": "Describe two ways of determining the diameter of a star.",
+      "answer": "One way is to measure the star's angular size directly (for example with interferometry) and combine it with its distance. Another is to use an eclipsing binary, timing how long eclipses take together with the stars' orbital speeds; a star's diameter can also be calculated from its luminosity and temperature using L = 4 pi R^2 sigma T^4.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Astronomy 2e (OpenStax), Ch. 18 (study-guide objective)"
+    },
+    {
+      "id": "ch18-sg-q004",
+      "type": "sa",
+      "text": "What are the roughly largest and smallest known values of mass, luminosity, surface temperature, and diameter of stars?",
+      "answer": "Mass ranges from about 0.08 solar masses to well over 100 solar masses; luminosity from about 0.0001 to roughly a million times the Sun's; surface temperature from about 2,000 K to around 40,000-50,000 K; and diameter from white dwarfs about the size of Earth to supergiants hundreds to a thousand times the Sun's diameter.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Astronomy 2e (OpenStax), Ch. 18 (study-guide objective)"
+    },
+    {
+      "id": "ch18-sg-q005",
+      "type": "sa",
+      "text": "From an eclipsing binary's spectra and light curves, what stellar properties can be measured?",
+      "answer": "You can determine the two stars' masses (from their orbital motion), their diameters (from how long the eclipses last combined with orbital speeds), their surface temperatures (from the spectra), their luminosities, the orbital period, and their radial velocities.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Astronomy 2e (OpenStax), Ch. 18 (study-guide objective)"
+    },
+    {
+      "id": "ch18-sg-q006",
+      "type": "sa",
+      "text": "Sketch an H-R diagram, label the axes, and show where cool supergiants, white dwarfs, the Sun, and main-sequence stars are found.",
+      "answer": "On an H-R diagram the horizontal axis is surface temperature (increasing to the left) and the vertical axis is luminosity (increasing upward). Main-sequence stars run as a diagonal band from hot, luminous, upper-left to cool, faint, lower-right; cool supergiants sit in the upper right (luminous but cool); white dwarfs lie in the lower left (hot but faint); and the Sun sits on the main sequence near the middle (about 5,800 K, luminosity 1).",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Astronomy 2e (OpenStax), Ch. 18 (study-guide objective)"
+    },
+    {
+      "id": "ch18-sg-q007",
+      "type": "sa",
+      "text": "Describe what a typical star in the Galaxy would be like compared to the Sun.",
+      "answer": "A typical galactic star is a red dwarf: less massive, cooler, smaller, and far fainter than the Sun. Such low-mass main-sequence stars are by far the most common type in the Galaxy.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Astronomy 2e (OpenStax), Ch. 18 (study-guide objective)"
+    },
+    {
+      "id": "ch18-sg-q008",
+      "type": "sa",
+      "text": "How do we distinguish stars from brown dwarfs, and brown dwarfs from planets?",
+      "answer": "Stars sustain hydrogen fusion while brown dwarfs (below about 0.08 solar mass) cannot, though they may briefly fuse deuterium. Brown dwarfs are distinguished from planets by being more massive (above roughly 13 Jupiter masses, enough for deuterium fusion) and by forming like stars from collapsing gas rather than within a protoplanetary disk.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Astronomy 2e (OpenStax), Ch. 18 (study-guide objective)"
+    },
+    {
+      "id": "ch18-sg-q009",
+      "type": "sa",
+      "text": "How do mass, luminosity, surface temperature, and radius of main-sequence stars change from the bottom to the top of the main sequence?",
+      "answer": "Going from the lower-right (bottom) to the upper-left (top) of the main sequence, all four increase: stars become more massive, more luminous, hotter, and larger. The faint lower end is cool, low-mass, small red dwarfs; the bright upper end is hot, high-mass, large blue stars.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Astronomy 2e (OpenStax), Ch. 18 (study-guide objective)"
+    },
+    {
+      "id": "ch18-sg-q010",
+      "type": "sa",
+      "text": "Why is the Moon used more often than planets to measure stellar diameters by occultation?",
+      "answer": "The Moon is nearby and large in the sky and moves predictably across many background stars, so it occults stars frequently and produces a sharp, measurable cutoff of starlight. Planets are smaller and farther away and only rarely pass in front of stars, so such occultations are uncommon.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Astronomy 2e (OpenStax), Ch. 18 (study-guide objective)"
+    },
+    {
+      "id": "ch18-sg-q011",
+      "type": "sa",
+      "text": "About half of stars are in pairs, yet the first eclipsing binary was not discovered until the 1700s. Why?",
+      "answer": "Most binaries are too close together to be seen as separate stars and are only revealed by careful monitoring of brightness or spectra. An eclipsing binary additionally requires that we view the orbit nearly edge-on, and detecting the regular brightness dips took systematic photometric observation, which is why John Goodricke's study of Algol came as late as it did.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Astronomy 2e (OpenStax), Ch. 18 (study-guide objective)"
+    },
+    {
+      "id": "ch19-sg-q001",
+      "type": "sa",
+      "text": "Explain how parallax measurements determine distances to stars, and why we cannot measure parallax beyond a certain distance.",
+      "answer": "As Earth orbits the Sun, a nearby star appears to shift slightly against the distant background; measuring half this annual shift gives the parallax angle, and the known 1-AU baseline plus trigonometry yields the distance. Beyond a certain distance the shift becomes too small to measure reliably, so parallax only works for relatively nearby stars.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Astronomy 2e (OpenStax), Ch. 19 (study-guide objective)"
+    },
+    {
+      "id": "ch19-sg-q002",
+      "type": "sa",
+      "text": "You discover a new Cepheid variable star. What steps would you take to determine its distance?",
+      "answer": "First measure the period of its brightness pulsations. Then use the Cepheid period-luminosity relation to read off its true luminosity. Finally, compare that luminosity with the star's apparent brightness to calculate its distance, since brightness falls off with distance squared.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Astronomy 2e (OpenStax), Ch. 19 (study-guide objective)"
+    },
+    {
+      "id": "ch19-sg-q003",
+      "type": "sa",
+      "text": "Explain how you would use the spectrum of a star to estimate its distance.",
+      "answer": "By taking the star's spectrum you can determine its spectral type and luminosity class, which place it on the H-R diagram and reveal its true luminosity. Comparing that luminosity to the star's apparent brightness then gives its distance; this technique is called spectroscopic parallax.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Astronomy 2e (OpenStax), Ch. 19 (study-guide objective)"
+    },
+    {
+      "id": "ch19-sg-q004",
+      "type": "sa",
+      "text": "Which method would you use for each: (A) an asteroid crossing Earth's orbit, (B) a star within 50 light-years, (C) a tight group of stars containing many variables, (D) a non-variable star with a clear spectrum?",
+      "answer": "(A) Radar ranging, bouncing radio signals off the asteroid. (B) Trigonometric parallax, since it is close enough. (C) Variable stars such as Cepheids or RR Lyrae, using the period-luminosity relation. (D) Spectroscopic parallax, using the spectrum to find luminosity.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Astronomy 2e (OpenStax), Ch. 19 (study-guide objective)"
+    },
+    {
+      "id": "ch19-sg-q005",
+      "type": "sa",
+      "text": "What are the luminosity class and spectral type of a star with an effective temperature of 5000 K and a luminosity of 100 times the Sun?",
+      "answer": "A temperature near 5000 K corresponds to a cool, roughly K-type star. Since a main-sequence K star is far fainter than the Sun, a luminosity of 100 solar means the star lies well above the main sequence, making it a giant (luminosity class III). So it is approximately a K-type giant (class III).",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Astronomy 2e (OpenStax), Ch. 19 (study-guide objective)"
     }
   ],
   "notes": [
