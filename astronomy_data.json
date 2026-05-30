@@ -8183,6 +8183,336 @@
       "module": "week-6",
       "chapter": "Ch24",
       "source": "Astronomy 2e (OpenStax), Ch. 24 (study-guide objective)"
+    },
+    {
+      "id": "ch25-sg-q001",
+      "type": "sa",
+      "text": "Explain why we see the Milky Way as a faint band of light stretching across the sky.",
+      "answer": "We live inside the flat disk of our own galaxy, so when we look along the plane of that disk our line of sight passes through enormous numbers of distant stars. Their combined light blends into the hazy band we call the Milky Way; looking out of the disk, away from the band, we see far fewer stars.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Astronomy 2e (OpenStax), Ch. 25 (study-guide objective)"
+    },
+    {
+      "id": "ch25-sg-q002",
+      "type": "sa",
+      "text": "Explain where in a spiral galaxy you would expect to find globular clusters, molecular clouds, and atomic hydrogen.",
+      "answer": "Globular clusters are found in the spherical halo surrounding the galaxy, well above and below the disk. Molecular clouds and atomic hydrogen gas lie in the thin disk, concentrated along the spiral arms where star formation occurs.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Astronomy 2e (OpenStax), Ch. 25 (study-guide objective)"
+    },
+    {
+      "id": "ch25-sg-q003",
+      "type": "sa",
+      "text": "Describe several characteristics that distinguish Population I from Population II stars.",
+      "answer": "Population I stars are relatively young and rich in heavy elements (like the Sun), found in the disk and spiral arms on fairly circular orbits. Population II stars are old and metal-poor, found in the halo and bulge, and move on more random, elongated orbits.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Astronomy 2e (OpenStax), Ch. 25 (study-guide objective)"
+    },
+    {
+      "id": "ch25-sg-q004",
+      "type": "sa",
+      "text": "Briefly describe the main parts of our Galaxy.",
+      "answer": "The Galaxy has a flat disk containing spiral arms, gas, dust, and young stars; a central bulge of older stars; and a surrounding spherical halo containing globular clusters and old stars. It is embedded in a much larger halo of dark matter, with a supermassive black hole at its nucleus.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Astronomy 2e (OpenStax), Ch. 25 (study-guide objective)"
+    },
+    {
+      "id": "ch25-sg-q005",
+      "type": "sa",
+      "text": "Describe the evidence indicating that a black hole may be at the center of our Galaxy.",
+      "answer": "Astronomers have tracked individual stars near the galactic center orbiting an invisible, compact object at very high speeds. Their orbits reveal about four million solar masses concentrated in a tiny region, which can only be a supermassive black hole, identified with the radio source Sagittarius A*.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Astronomy 2e (OpenStax), Ch. 25 (study-guide objective)"
+    },
+    {
+      "id": "ch25-sg-q006",
+      "type": "sa",
+      "text": "Explain why the abundances of heavy elements in stars correlate with their positions in the Galaxy.",
+      "answer": "Each generation of stars enriches the surrounding gas with heavy elements when it dies. The disk has had ongoing star formation that steadily raised its metal content, while the halo formed early, before much enrichment, so its stars are metal-poor; thus heavy-element abundance correlates with location and the age of the stars there.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Astronomy 2e (OpenStax), Ch. 25 (study-guide objective)"
+    },
+    {
+      "id": "ch25-sg-q007",
+      "type": "sa",
+      "text": "What will be the long-term future of our Galaxy?",
+      "answer": "The Milky Way will keep forming stars, though more slowly as its gas is consumed. It is also approaching the Andromeda galaxy, and in a few billion years the two will collide and merge into a single larger galaxy, likely a giant elliptical.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Astronomy 2e (OpenStax), Ch. 25 (study-guide objective)"
+    },
+    {
+      "id": "ch26-sg-q001",
+      "type": "sa",
+      "text": "Describe the main distinguishing features of spiral, elliptical, and irregular galaxies.",
+      "answer": "Spiral galaxies have a flattened disk with spiral arms, a central bulge, abundant gas and dust, and active star formation. Elliptical galaxies are smooth, rounded systems of mostly old stars with little gas or ongoing star formation. Irregular galaxies lack any regular shape and are often gas-rich with vigorous star formation.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Astronomy 2e (OpenStax), Ch. 26 (study-guide objective)"
+    },
+    {
+      "id": "ch26-sg-q002",
+      "type": "sa",
+      "text": "Why did it take so long for the existence of other galaxies to be established?",
+      "answer": "Other galaxies are extraordinarily far away and appear only as faint, fuzzy patches that were long thought to be nebulae within the Milky Way. It was not until the 1920s, when Hubble measured Cepheid variables in Andromeda, that their great distances proved they lie far outside our Galaxy, settling the 'Great Debate.'",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Astronomy 2e (OpenStax), Ch. 26 (study-guide objective)"
+    },
+    {
+      "id": "ch26-sg-q003",
+      "type": "sa",
+      "text": "Explain what the mass-to-light ratio is and why it is smaller in star-forming spirals than in ellipticals.",
+      "answer": "The mass-to-light ratio is a galaxy's total mass divided by its light output. Star-forming spirals contain bright, massive young stars that emit a great deal of light per unit mass, giving a low ratio, whereas ellipticals contain only old, faint stars that emit little light per unit mass, giving a higher ratio.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Astronomy 2e (OpenStax), Ch. 26 (study-guide objective)"
+    },
+    {
+      "id": "ch26-sg-q004",
+      "type": "sa",
+      "text": "If dwarf ellipticals are the most common type of galaxy, why did they escape our notice for so long?",
+      "answer": "Dwarf ellipticals are small and extremely faint, with very low surface brightness. Despite being the most numerous galaxies, their dimness makes them hard to detect, especially at large distances, so they were long overlooked.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Astronomy 2e (OpenStax), Ch. 26 (study-guide objective)"
+    },
+    {
+      "id": "ch26-sg-q005",
+      "type": "sa",
+      "text": "What are the two best ways to measure the distance to a nearby spiral galaxy?",
+      "answer": "For a nearby spiral, the best methods are Cepheid variable stars, using the period-luminosity relation to get their true brightness, and the Tully-Fisher relation, which links a spiral's rotation speed to its luminosity. Both give the luminosity, which compared to apparent brightness yields the distance.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Astronomy 2e (OpenStax), Ch. 26 (study-guide objective)"
+    },
+    {
+      "id": "ch26-sg-q006",
+      "type": "sa",
+      "text": "What are the two best ways to measure the distance to a distant, isolated spiral galaxy?",
+      "answer": "For a distant spiral, Type Ia supernovae work well because they are very luminous standard candles visible across great distances, as does the Tully-Fisher relation. Cepheids cannot be used because individual stars are too faint to resolve that far away.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Astronomy 2e (OpenStax), Ch. 26 (study-guide objective)"
+    },
+    {
+      "id": "ch26-sg-q007",
+      "type": "sa",
+      "text": "Why is Hubble's law considered one of the most important discoveries in the history of astronomy?",
+      "answer": "Hubble's law shows that galaxies recede at speeds proportional to their distance (v = H0 times d), which is the key evidence that the universe is expanding. This underpins Big Bang cosmology, provides a way to estimate distances to remote galaxies, and lets astronomers estimate the age of the universe.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Astronomy 2e (OpenStax), Ch. 26 (study-guide objective)"
+    },
+    {
+      "id": "ch26-sg-q008",
+      "type": "sa",
+      "text": "What does it mean to say the universe is expanding? Is your classroom expanding? The solar system?",
+      "answer": "It means space itself is stretching, so the distances between distant galaxies and clusters grow over time. Your classroom and the solar system are not expanding, because they are held together by their own gravity and electromagnetic forces, which easily overcome the expansion; only on the largest scales, between systems not bound together, does the expansion dominate.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Astronomy 2e (OpenStax), Ch. 26 (study-guide objective)"
+    },
+    {
+      "id": "ch26-sg-q009",
+      "type": "sa",
+      "text": "Was Hubble's original estimate of the distance to the Andromeda galaxy correct?",
+      "answer": "No. His original distance was too small, roughly half the modern value, because the Cepheid calibration he used was in error (there are two types of Cepheids with different luminosities). Andromeda is actually much farther away than Hubble first calculated.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Astronomy 2e (OpenStax), Ch. 26 (study-guide objective)"
+    },
+    {
+      "id": "ch26-sg-q010",
+      "type": "sa",
+      "text": "Does an elliptical galaxy rotate like a spiral galaxy?",
+      "answer": "No. Unlike a spiral, whose stars and gas orbit in an organized rotating disk, an elliptical galaxy's stars move on randomly oriented, three-dimensional orbits. The galaxy is supported by these random stellar motions rather than by ordered rotation.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Astronomy 2e (OpenStax), Ch. 26 (study-guide objective)"
+    },
+    {
+      "id": "ch26-sg-q011",
+      "type": "sa",
+      "text": "Why does the disk of a spiral galaxy appear dark when viewed edge on?",
+      "answer": "The disk contains lanes of dust that absorb and block light. When we view a spiral edge-on, our line of sight passes through this dust, which obscures the stars behind it and produces a dark band across the middle of the galaxy.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Astronomy 2e (OpenStax), Ch. 26 (study-guide objective)"
+    },
+    {
+      "id": "ch26-sg-q012",
+      "type": "sa",
+      "text": "What causes the largest mass-to-light ratio: gas and dust, dark matter, or burnt-out stars?",
+      "answer": "Dark matter. It contributes a great deal of mass but emits no light at all, so systems whose mass is dominated by dark matter have the highest mass-to-light ratios.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Astronomy 2e (OpenStax), Ch. 26 (study-guide objective)"
+    },
+    {
+      "id": "ch26-sg-q013",
+      "type": "sa",
+      "text": "Two isolated spiral galaxies have the same apparent brightness but rotate at different rates. What can you say about their relative luminosity and distance?",
+      "answer": "By the Tully-Fisher relation, the faster-rotating galaxy is intrinsically more luminous. If the two appear equally bright in the sky, the more luminous (faster-rotating) one must be the more distant of the two.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Astronomy 2e (OpenStax), Ch. 26 (study-guide objective)"
+    },
+    {
+      "id": "ch26-sg-q014",
+      "type": "sa",
+      "text": "If all distant galaxies are expanding away from us, does this mean we are at the center of the universe?",
+      "answer": "No. In a uniformly expanding universe, every observer in every galaxy sees all the other galaxies receding from them, just as every dot on an inflating balloon sees the others move away. There is no special center, and our vantage point is not unique.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Astronomy 2e (OpenStax), Ch. 26 (study-guide objective)"
+    },
+    {
+      "id": "ch26-sg-q015",
+      "type": "sa",
+      "text": "Is the Hubble constant actually constant?",
+      "answer": "It is constant in the sense of having the same value everywhere in space at a given time, which is why it appears in Hubble's law. However, its value changes over cosmic time as the expansion rate of the universe evolves, so it is not constant throughout the history of the universe.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Astronomy 2e (OpenStax), Ch. 26 (study-guide objective)"
+    },
+    {
+      "id": "ch29-sg-q001",
+      "type": "sa",
+      "text": "What are the basic observations about the universe that any theory of cosmology must explain?",
+      "answer": "A successful cosmology must explain that the universe is expanding (Hubble's law), the existence of the cosmic microwave background radiation, the observed abundances of the light elements such as hydrogen and helium, and the large-scale uniformity of the universe together with its structure of galaxies and clusters.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Astronomy 2e (OpenStax), Ch. 29 (study-guide objective)"
+    },
+    {
+      "id": "ch29-sg-q002",
+      "type": "sa",
+      "text": "Describe some possible futures for the universe, and what property determines which is correct.",
+      "answer": "The universe could expand forever, slow and eventually recollapse in a 'Big Crunch,' or expand at an accelerating rate. Which outcome occurs depends on the universe's total density and energy content, including dark energy; current observations show the expansion is accelerating, indicating it will expand forever.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Astronomy 2e (OpenStax), Ch. 29 (study-guide objective)"
+    },
+    {
+      "id": "ch29-sg-q003",
+      "type": "sa",
+      "text": "What does the term 'Hubble time' mean, and what is the current best calculation for it?",
+      "answer": "The Hubble time is the inverse of the Hubble constant (1 divided by H0); it estimates the age of the universe assuming the expansion rate had always been constant. The current best value is roughly 14 billion years, close to the true age of about 13.8 billion years.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Astronomy 2e (OpenStax), Ch. 29 (study-guide objective)"
+    },
+    {
+      "id": "ch29-sg-q004",
+      "type": "sa",
+      "text": "Which formed first: hydrogen nuclei or hydrogen atoms?",
+      "answer": "Hydrogen nuclei (protons) formed first, within the first moments of the universe. Complete hydrogen atoms, with electrons bound to the nuclei, did not form until about 380,000 years later, when the universe had cooled enough for electrons and nuclei to combine (the era of recombination).",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Astronomy 2e (OpenStax), Ch. 29 (study-guide objective)"
+    },
+    {
+      "id": "ch29-sg-q005",
+      "type": "sa",
+      "text": "Describe at least two characteristics of the universe that are explained by the Big Bang model.",
+      "answer": "The Big Bang model explains the observed expansion of the universe described by Hubble's law, and it predicts the cosmic microwave background radiation as the cooled afterglow of the hot early universe. It also accounts for the observed primordial abundances of light elements, such as the roughly one-quarter helium by mass.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Astronomy 2e (OpenStax), Ch. 29 (study-guide objective)"
+    },
+    {
+      "id": "ch29-sg-q006",
+      "type": "sa",
+      "text": "Describe two properties of the universe not explained by the standard Big Bang (without inflation), and how inflation explains them.",
+      "answer": "The standard model does not explain the flatness problem (why the universe's geometry is so nearly flat) or the horizon problem (why widely separated regions have nearly identical temperatures). Inflation, a brief burst of extremely rapid expansion in the early universe, solves both by stretching any curvature flat and by placing now-distant regions in causal contact before they were driven apart.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Astronomy 2e (OpenStax), Ch. 29 (study-guide objective)"
+    },
+    {
+      "id": "ch29-sg-q007",
+      "type": "sa",
+      "text": "Why do astronomers believe there must be dark matter? What is dark energy?",
+      "answer": "Dark matter is inferred because galaxies rotate far faster than their visible mass can explain and galaxy clusters need much more gravity than their luminous matter provides to stay bound; this unseen mass is dark matter. Dark energy is the mysterious form of energy that is driving the accelerating expansion of the universe.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Astronomy 2e (OpenStax), Ch. 29 (study-guide objective)"
+    },
+    {
+      "id": "ch29-sg-q008",
+      "type": "sa",
+      "text": "Using Einstein's ideas of space and time, explain why all galaxies outside our Local Group show a redshift.",
+      "answer": "In general relativity space itself expands, and as light travels through expanding space its wavelength is stretched, shifting it toward the red (cosmological redshift). This is not motion through space but the stretching of space itself, so light from all distant galaxies arrives redshifted; nearby galaxies in our Local Group are gravitationally bound to us and do not partake in this expansion.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Astronomy 2e (OpenStax), Ch. 29 (study-guide objective)"
+    },
+    {
+      "id": "ch29-sg-q009",
+      "type": "sa",
+      "text": "There is more helium in the universe than stars could have made in 13.8 billion years. How does the Big Bang solve this?",
+      "answer": "The Big Bang model includes a few minutes of intense nuclear reactions in the hot early universe (Big Bang nucleosynthesis) that converted about a quarter of the matter into helium before any stars existed. This primordial helium accounts for the large amount that stellar fusion alone could not have produced.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Astronomy 2e (OpenStax), Ch. 29 (study-guide objective)"
+    },
+    {
+      "id": "ch29-sg-q010",
+      "type": "sa",
+      "text": "Describe the anthropic principle. What are some properties of the universe that make it 'ready' for life?",
+      "answer": "The anthropic principle notes that the universe's properties must be compatible with the existence of observers like us, since otherwise we would not be here to observe it. Examples of fine-tuned conditions include the strengths of the fundamental forces, the specific nuclear resonance that lets stars produce carbon, and an expansion rate that allowed galaxies and stars to form.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Astronomy 2e (OpenStax), Ch. 29 (study-guide objective)"
+    },
+    {
+      "id": "ch29-sg-q011",
+      "type": "sa",
+      "text": "Describe the evidence that the expansion of the universe is accelerating.",
+      "answer": "Observations of distant Type Ia supernovae found them to be fainter, and thus farther away, than expected if the expansion were slowing down. This indicates the expansion has actually been speeding up over time, an effect attributed to dark energy.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Astronomy 2e (OpenStax), Ch. 29 (study-guide objective)"
     }
   ],
   "notes": [
