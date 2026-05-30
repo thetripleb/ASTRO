@@ -242,6 +242,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "v1-g002",
+      "term": "astrology",
+      "def": "A pre-scientific belief that sky objects govern human affairs; not a science, because it has no demonstrated predictive power.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 1: Introduction to Astronomy (Week 1 lecture)"
+    },
+    {
       "id": "ch1-g004",
       "term": "astronomical unit (AU)",
       "def": "The average distance between Earth and the Sun, about 150 million km; used to measure distances within the solar system.",
@@ -258,6 +267,15 @@
       "module": "week-1",
       "chapter": "Ch1",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "v1-g001",
+      "term": "astronomy (video definition)",
+      "def": "The science of studying objects and phenomena beyond Earth; its borders with other sciences are deliberately fuzzy.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 1: Introduction to Astronomy (Week 1 lecture)"
     },
     {
       "id": "ch22-g005",
@@ -953,6 +971,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "v3-g001",
+      "term": "Eratosthenes' method",
+      "def": "Estimating Earth's circumference by comparing the Sun's noon angle at two locations a known distance apart.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 3: History of Astronomy II: Early Measurements of the Earth (Week 1 lecture)"
+    },
+    {
       "id": "ch8-g013",
       "term": "erosion",
       "def": "The gradual wearing away and transport of surface material by wind, water, or ice, which reshapes a planet's surface over time.",
@@ -1005,6 +1032,15 @@
       "module": "week-7",
       "chapter": "Ch26",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "v5-g001",
+      "term": "factor-label method (grid method)",
+      "def": "A conversion technique in which you multiply by conversion-factor fractions arranged so unwanted units cancel, leaving the desired units.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 5: Simple Unit Conversion (Week 1 lecture)"
     },
     {
       "id": "ch29-g007",
@@ -1466,6 +1502,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "v7-g001",
+      "term": "inverse-square law (gravity)",
+      "def": "The rule that gravitational force weakens with the square of the distance: doubling the distance cuts the force to one-fourth.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 7: The Gravity of the Situation (Week 1 lecture)"
+    },
+    {
       "id": "ch12-g007",
       "term": "Io",
       "def": "A moon of Jupiter that is the most volcanically active body in the solar system, heated by tidal forces.",
@@ -1808,6 +1853,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "v7-g003",
+      "term": "microgravity",
+      "def": "The near-weightless condition of objects in free fall (such as orbiting astronauts), where no surface pushes back even though gravity is still present.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 7: The Gravity of the Situation (Week 1 lecture)"
+    },
+    {
       "id": "ch1-g011",
       "term": "Milky Way Galaxy",
       "def": "The spiral galaxy that contains our Sun and solar system, made up of a few hundred billion stars.",
@@ -1905,6 +1959,15 @@
       "module": "week-1",
       "chapter": "Ch3",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "v2-g002",
+      "term": "north celestial pole",
+      "def": "The point in the sky directly above Earth's rotation axis, around which the sky appears to turn; the north star sits near it.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 2: History of Astronomy I: The Celestial Sphere & Early Observations (Week 1 lecture)"
     },
     {
       "id": "ch23-g009",
@@ -2013,6 +2076,15 @@
       "module": "week-1",
       "chapter": "Ch3",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "v6-g002",
+      "term": "perihelion / aphelion",
+      "def": "The points in an orbit closest to (perihelion) and farthest from (aphelion) the Sun.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 6: History of Astronomy IV: Kepler's Laws and Beyond (Week 1 lecture)"
     },
     {
       "id": "ch19-g007",
@@ -5057,6 +5129,285 @@
       "module": "week-8",
       "chapter": "Ch29",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "v1-f001",
+      "front": "What does the lecture say science must be above all else?",
+      "back": "Honest — willing to seek out the ways our current ideas might be wrong, which is how science self-corrects toward the truth.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 1: Introduction to Astronomy (Week 1 lecture)"
+    },
+    {
+      "id": "v1-f002",
+      "front": "How does the video distinguish astronomy from astrology?",
+      "back": "Astronomy is evidence-based science; astrology is not, because its 'successes' come from remembering hits and forgetting misses, not real predictive power.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 1: Introduction to Astronomy (Week 1 lecture)"
+    },
+    {
+      "id": "v1-f003",
+      "front": "Who counts as 'doing astronomy,' according to the video?",
+      "back": "Not only telescope operators, but astrophysicists, engineers, technicians, programmers, teachers, writers, and even artists.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 1: Introduction to Astronomy (Week 1 lecture)"
+    },
+    {
+      "id": "v1-f004",
+      "front": "Roughly how much of the universe can we directly see, per the video?",
+      "back": "Only about 4 percent.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 1: Introduction to Astronomy (Week 1 lecture)"
+    },
+    {
+      "id": "v1-f005",
+      "front": "Where did the elements in your body come from, per the video?",
+      "back": "From exploding stars, which forged the iron in your blood, calcium in your bones, and phosphorus in your DNA.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 1: Introduction to Astronomy (Week 1 lecture)"
+    },
+    {
+      "id": "v2-f001",
+      "front": "Why does the north star appear not to move?",
+      "back": "It lies almost directly above Earth's rotation axis, a point that experiences no lateral motion as Earth spins.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 2: History of Astronomy I: The Celestial Sphere & Early Observations (Week 1 lecture)"
+    },
+    {
+      "id": "v2-f002",
+      "front": "The video stresses that lunar phases are NOT caused by what?",
+      "back": "Earth's shadow; phases come from how much of the Moon's sunlit face is turned toward Earth.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 2: History of Astronomy I: The Celestial Sphere & Early Observations (Week 1 lecture)"
+    },
+    {
+      "id": "v2-f003",
+      "front": "Why are different constellations visible at different times of year?",
+      "back": "As Earth orbits the Sun, the Sun blocks different background stars, so different ones appear in the night sky.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 2: History of Astronomy I: The Celestial Sphere & Early Observations (Week 1 lecture)"
+    },
+    {
+      "id": "v2-f004",
+      "front": "What is the cause of the seasons, per the video?",
+      "back": "The 23.5-degree tilt of Earth's axis, which changes how directly sunlight strikes a hemisphere and the length of daylight — not Earth's distance from the Sun.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 2: History of Astronomy I: The Celestial Sphere & Early Observations (Week 1 lecture)"
+    },
+    {
+      "id": "v3-f001",
+      "front": "How did Aristotle argue that Earth is round?",
+      "back": "From Earth's curved shadow on the Moon during lunar eclipses and from the way different stars become visible as you travel north or south.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 3: History of Astronomy II: Early Measurements of the Earth (Week 1 lecture)"
+    },
+    {
+      "id": "v3-f002",
+      "front": "How did Eratosthenes measure Earth's circumference?",
+      "back": "He compared the Sun's noon angle at Syene (overhead) and Alexandria (7 degrees off vertical); since 7 degrees is about 1/50 of a circle, the circumference is about 50 times the distance between the cities.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 3: History of Astronomy II: Early Measurements of the Earth (Week 1 lecture)"
+    },
+    {
+      "id": "v3-f003",
+      "front": "What value did Eratosthenes obtain for Earth's circumference?",
+      "back": "About 250,000 stadia, roughly 25,000 miles, close to the true value.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 3: History of Astronomy II: Early Measurements of the Earth (Week 1 lecture)"
+    },
+    {
+      "id": "v3-f004",
+      "front": "What did Aristarchus deduce about the Moon and the Sun?",
+      "back": "That the Moon's diameter is about one-third of Earth's, that the Sun is much larger than Earth, and that Earth might orbit the Sun.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 3: History of Astronomy II: Early Measurements of the Earth (Week 1 lecture)"
+    },
+    {
+      "id": "v4-f001",
+      "front": "How did Ptolemy's model explain retrograde motion?",
+      "back": "With epicycles: planets moved on small circles whose centers moved along their larger orbits around Earth.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 4: History of Astronomy III: Copernicus and Heliocentrism (Week 1 lecture)"
+    },
+    {
+      "id": "v4-f002",
+      "front": "How does the heliocentric model explain Mars's retrograde motion?",
+      "back": "Earth, on a faster inner orbit, overtakes the slower Mars, making Mars appear to move backward — like passing a slower car on the highway.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 4: History of Astronomy III: Copernicus and Heliocentrism (Week 1 lecture)"
+    },
+    {
+      "id": "v4-f003",
+      "front": "What was the valid objection to Copernicus involving parallax, and how was it resolved?",
+      "back": "If Earth moved, nearby stars should shift in position; the shift is real but so tiny (because stars are so distant) that it could not be measured until much later, when it confirmed heliocentrism.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 4: History of Astronomy III: Copernicus and Heliocentrism (Week 1 lecture)"
+    },
+    {
+      "id": "v4-f004",
+      "front": "How does parallax give a star's distance?",
+      "back": "Earth's positions six months apart provide a baseline of 1 AU; half the star's apparent shift is its parallax angle, and trigonometry then yields the distance.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 4: History of Astronomy III: Copernicus and Heliocentrism (Week 1 lecture)"
+    },
+    {
+      "id": "v5-f001",
+      "front": "What is the 'grid' or factor-label method of unit conversion?",
+      "back": "You multiply the starting quantity by conversion-factor fractions arranged so that the units you don't want cancel out, leaving only the units you want.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 5: Simple Unit Conversion (Week 1 lecture)"
+    },
+    {
+      "id": "v5-f002",
+      "front": "Using the video's method, what is 70 mph in km/s (with 1 mi = 1.6 km)?",
+      "back": "About 0.03 km/s, or 3 x 10^-2 km/s.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 5: Simple Unit Conversion (Week 1 lecture)"
+    },
+    {
+      "id": "v5-f003",
+      "front": "Using the video's method, what is 70 km/s in mph?",
+      "back": "About 156,586 mph, or roughly 1.57 x 10^5 mph.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 5: Simple Unit Conversion (Week 1 lecture)"
+    },
+    {
+      "id": "v5-f004",
+      "front": "How do you write 0.03 in scientific notation?",
+      "back": "3 x 10^-2.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 5: Simple Unit Conversion (Week 1 lecture)"
+    },
+    {
+      "id": "v5-f005",
+      "front": "Why is scientific notation useful in astronomy?",
+      "back": "It compactly expresses extremely large and extremely small numbers without long strings of zeros, reducing errors.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 5: Simple Unit Conversion (Week 1 lecture)"
+    },
+    {
+      "id": "v6-f001",
+      "front": "What shape did Kepler find for planetary orbits, and what had been assumed before?",
+      "back": "Ellipses with the Sun at one focus; previously orbits were assumed to be perfect circles.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 6: History of Astronomy IV: Kepler's Laws and Beyond (Week 1 lecture)"
+    },
+    {
+      "id": "v6-f002",
+      "front": "Why do the planets' elliptical orbits look nearly circular?",
+      "back": "Their eccentricity is low, meaning the two foci are close together, so the ellipse is almost round.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 6: History of Astronomy IV: Kepler's Laws and Beyond (Week 1 lecture)"
+    },
+    {
+      "id": "v6-f004",
+      "front": "Which of Galileo's observations was the 'final nail' for geocentrism, per the video?",
+      "back": "The phases of Venus, which show that Venus orbits the Sun.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 6: History of Astronomy IV: Kepler's Laws and Beyond (Week 1 lecture)"
+    },
+    {
+      "id": "v6-f005",
+      "front": "What did Newton demonstrate about Kepler's laws?",
+      "back": "That they are consequences of his own laws of motion and universal gravitation, and that falling objects and orbiting planets obey the same physics.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 6: History of Astronomy IV: Kepler's Laws and Beyond (Week 1 lecture)"
+    },
+    {
+      "id": "v7-f001",
+      "front": "What is the difference between mass and weight, per the video?",
+      "back": "Mass is the amount of stuff in an object (and its resistance to changes in motion) and is the same everywhere; weight is how hard a surface pushes back on it, which is zero in free fall.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 7: The Gravity of the Situation (Week 1 lecture)"
+    },
+    {
+      "id": "v7-f002",
+      "front": "How does gravity change if you move 10 times farther from an object?",
+      "back": "The force drops to 1/100 of its value (10 x 10), by the inverse-square law.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 7: The Gravity of the Situation (Week 1 lecture)"
+    },
+    {
+      "id": "v7-f003",
+      "front": "Why are astronauts on the ISS weightless even though gravity there is about 90 percent of surface value?",
+      "back": "Because they are in free fall, orbiting the Earth, so nothing pushes back on them; it is weightlessness from free fall, not an absence of gravity.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 7: The Gravity of the Situation (Week 1 lecture)"
+    },
+    {
+      "id": "v7-f004",
+      "front": "List the five orbit shapes described in the video, in order of increasing speed.",
+      "back": "Line, circle, ellipse, parabola, and hyperbola.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 7: The Gravity of the Situation (Week 1 lecture)"
+    },
+    {
+      "id": "v7-f005",
+      "front": "What are the approximate escape velocities for Earth, Jupiter, and the Sun?",
+      "back": "About 11 km/s for Earth, 58 km/s for Jupiter, and 600 km/s for the Sun.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 7: The Gravity of the Situation (Week 1 lecture)"
     }
   ],
   "questions": [
@@ -11479,9 +11830,408 @@
         "quasars",
         "Cepheids"
       ]
+    },
+    {
+      "id": "v1-q001",
+      "type": "mc",
+      "text": "According to the video, science must above all be:",
+      "answer": "honest",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 1: Introduction to Astronomy (Week 1 lecture)",
+      "options": [
+        "fast",
+        "honest",
+        "expensive",
+        "popular"
+      ]
+    },
+    {
+      "id": "v1-q002",
+      "type": "tf",
+      "text": "The video presents astrology as having real scientific predictive power.",
+      "answer": "False",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 1: Introduction to Astronomy (Week 1 lecture)"
+    },
+    {
+      "id": "v1-q003",
+      "type": "sa",
+      "text": "Explain the video's idea that 'astronomy puts you in your place.'",
+      "answer": "The lecture takes a tour outward from Earth through the solar system, the Milky Way, the Local Group, and on to the observable universe, showing how astonishingly small and ordinary our position is. Recognizing that vast scale is what the host means by astronomy 'putting you in your place.'",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 1: Introduction to Astronomy (Week 1 lecture)"
+    },
+    {
+      "id": "v2-q001",
+      "type": "mc",
+      "text": "According to the video, the lunar phases are caused by:",
+      "answer": "how much of the Moon's sunlit side faces Earth",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 2: History of Astronomy I: The Celestial Sphere & Early Observations (Week 1 lecture)",
+      "options": [
+        "Earth's shadow on the Moon",
+        "how much of the Moon's sunlit side faces Earth",
+        "clouds on the Moon",
+        "the Moon's own light"
+      ]
+    },
+    {
+      "id": "v2-q002",
+      "type": "tf",
+      "text": "The video says the seasons are caused by Earth's changing distance from the Sun.",
+      "answer": "False",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 2: History of Astronomy I: The Celestial Sphere & Early Observations (Week 1 lecture)"
+    },
+    {
+      "id": "v2-q003",
+      "type": "fitb",
+      "text": "The Sun's path across the sky, which is also the plane of the solar system, is the ______.",
+      "answer": "ecliptic",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 2: History of Astronomy I: The Celestial Sphere & Early Observations (Week 1 lecture)"
+    },
+    {
+      "id": "v3-q001",
+      "type": "mc",
+      "text": "Eratosthenes found the Sun was about 7 degrees off vertical at Alexandria, which is about what fraction of a full circle?",
+      "answer": "1/50",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 3: History of Astronomy II: Early Measurements of the Earth (Week 1 lecture)",
+      "options": [
+        "1/4",
+        "1/10",
+        "1/50",
+        "1/100"
+      ]
+    },
+    {
+      "id": "v3-q002",
+      "type": "sa",
+      "text": "Describe how Eratosthenes estimated the circumference of the Earth.",
+      "answer": "He knew the Sun was directly overhead a well at Syene at noon on the summer solstice, while at the same moment it was 7 degrees off vertical at Alexandria. Since 7 degrees is about one-fiftieth of a circle, the distance between the two cities (5,000 stadia) must be about one-fiftieth of Earth's circumference, giving roughly 250,000 stadia, or about 25,000 miles.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 3: History of Astronomy II: Early Measurements of the Earth (Week 1 lecture)"
+    },
+    {
+      "id": "v3-q003",
+      "type": "tf",
+      "text": "Aristarchus was among the first to propose that Earth orbits the Sun.",
+      "answer": "True",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 3: History of Astronomy II: Early Measurements of the Earth (Week 1 lecture)"
+    },
+    {
+      "id": "v4-q001",
+      "type": "mc",
+      "text": "In the heliocentric model, the retrograde motion of Mars results from:",
+      "answer": "Earth overtaking Mars in orbit",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 4: History of Astronomy III: Copernicus and Heliocentrism (Week 1 lecture)",
+      "options": [
+        "Mars actually reversing",
+        "Earth overtaking Mars in orbit",
+        "epicycles",
+        "the Sun moving"
+      ]
+    },
+    {
+      "id": "v4-q002",
+      "type": "fitb",
+      "text": "The tiny apparent shift of a nearby star due to Earth's orbital motion is called its ______.",
+      "answer": "parallax",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 4: History of Astronomy III: Copernicus and Heliocentrism (Week 1 lecture)"
+    },
+    {
+      "id": "v4-q003",
+      "type": "sa",
+      "text": "Why was the absence of an observed stellar parallax a reasonable objection to Copernicus, and how was it eventually resolved?",
+      "answer": "If Earth orbits the Sun, nearby stars should appear to shift back and forth over the year, yet no such shift was seen, which seemed to argue against a moving Earth. The resolution is that the shift is genuine but extremely small because the stars are enormously far away; once instruments became precise enough to measure it, parallax confirmed that Earth does move.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 4: History of Astronomy III: Copernicus and Heliocentrism (Week 1 lecture)"
+    },
+    {
+      "id": "v5-q001",
+      "type": "sa",
+      "text": "Describe the factor-label ('grid') method of unit conversion and why the units cancel.",
+      "answer": "You write the starting quantity and multiply it by a chain of conversion-factor fractions, each equal to one, arranged so that a unit in a numerator cancels the same unit in a denominator. By choosing the fractions so every unwanted unit cancels, you are left with only the desired units, and then you carry out the arithmetic on the numbers.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 5: Simple Unit Conversion (Week 1 lecture)"
+    },
+    {
+      "id": "v5-q002",
+      "type": "mc",
+      "text": "Written in scientific notation, 0.03 km/s is:",
+      "answer": "3 x 10^-2",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 5: Simple Unit Conversion (Week 1 lecture)",
+      "options": [
+        "3 x 10^2",
+        "3 x 10^-2",
+        "0.3 x 10^-1",
+        "30 x 10^-3"
+      ]
+    },
+    {
+      "id": "v5-q003",
+      "type": "fitb",
+      "text": "In the factor-label method, you arrange the conversion factors so that the unwanted units ______.",
+      "answer": "cancel",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 5: Simple Unit Conversion (Week 1 lecture)"
+    },
+    {
+      "id": "v5-q004",
+      "type": "mc",
+      "text": "Converting 70 km/s to miles per hour gives approximately:",
+      "answer": "157,000 mph",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 5: Simple Unit Conversion (Week 1 lecture)",
+      "options": [
+        "1,570 mph",
+        "15,700 mph",
+        "157,000 mph",
+        "1,570,000 mph"
+      ]
+    },
+    {
+      "id": "v6-q001",
+      "type": "mc",
+      "text": "Kepler determined that the planets orbit the Sun in:",
+      "answer": "ellipses with the Sun at one focus",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 6: History of Astronomy IV: Kepler's Laws and Beyond (Week 1 lecture)",
+      "options": [
+        "perfect circles",
+        "ellipses with the Sun at one focus",
+        "spirals",
+        "straight lines"
+      ]
+    },
+    {
+      "id": "v6-q002",
+      "type": "tf",
+      "text": "According to the video, Galileo's observation of the phases of Venus supported the heliocentric model.",
+      "answer": "True",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 6: History of Astronomy IV: Kepler's Laws and Beyond (Week 1 lecture)"
+    },
+    {
+      "id": "v6-q003",
+      "type": "fitb",
+      "text": "The point in a planet's orbit closest to the Sun is called ______.",
+      "answer": "perihelion",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 6: History of Astronomy IV: Kepler's Laws and Beyond (Week 1 lecture)"
+    },
+    {
+      "id": "v6-q004",
+      "type": "match",
+      "text": "Match each of Kepler's laws to its statement.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 6: History of Astronomy IV: Kepler's Laws and Beyond (Week 1 lecture)",
+      "pairs": [
+        [
+          "Kepler's 1st law",
+          "Orbits are ellipses with the Sun at one focus"
+        ],
+        [
+          "Kepler's 2nd law",
+          "Equal areas swept in equal times"
+        ],
+        [
+          "Kepler's 3rd law",
+          "Period squared is proportional to semimajor axis cubed"
+        ]
+      ]
+    },
+    {
+      "id": "v7-q001",
+      "type": "mc",
+      "text": "If you double your distance from a planet, the force of gravity becomes:",
+      "answer": "one-fourth as strong",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 7: The Gravity of the Situation (Week 1 lecture)",
+      "options": [
+        "twice as strong",
+        "half as strong",
+        "one-fourth as strong",
+        "unchanged"
+      ]
+    },
+    {
+      "id": "v7-q002",
+      "type": "mc",
+      "text": "Earth's escape velocity is approximately:",
+      "answer": "11 km/s",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 7: The Gravity of the Situation (Week 1 lecture)",
+      "options": [
+        "1 km/s",
+        "11 km/s",
+        "58 km/s",
+        "600 km/s"
+      ]
+    },
+    {
+      "id": "v7-q003",
+      "type": "tf",
+      "text": "According to the video, ISS astronauts are weightless because there is essentially no gravity at that altitude.",
+      "answer": "False",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 7: The Gravity of the Situation (Week 1 lecture)"
+    },
+    {
+      "id": "v7-q004",
+      "type": "sa",
+      "text": "Use the video's free-fall idea to explain the difference between mass and weight.",
+      "answer": "Mass is the amount of matter in you and stays the same whether you are on Earth or in orbit. Weight is the push of a surface back against you; in orbit you are in continuous free fall with nothing pushing back, so you have no weight even though your mass — and Earth's gravity on you — is essentially unchanged.",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 7: The Gravity of the Situation (Week 1 lecture)"
+    },
+    {
+      "id": "v7-q005",
+      "type": "match",
+      "text": "Match each orbit shape to its description.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 7: The Gravity of the Situation (Week 1 lecture)",
+      "pairs": [
+        [
+          "Circle",
+          "Thrown just fast enough to fall around the body"
+        ],
+        [
+          "Ellipse",
+          "Thrown harder; a closed, elongated orbit"
+        ],
+        [
+          "Parabola",
+          "Exactly escape velocity; open path"
+        ],
+        [
+          "Hyperbola",
+          "Faster than escape; even more open path"
+        ]
+      ]
     }
   ],
   "notes": [
+    {
+      "id": "v7-note001",
+      "title": "Video 7 — The Gravity of the Situation",
+      "body": "# Video 7 — The Gravity of the Situation\n\n## Mass vs density vs weight\n- **Mass:** how much 'stuff' is in an object; also its resistance to changes in motion. Same everywhere.\n- **Density:** mass per volume (same mass + bigger size = lower density).\n- **Weight:** how hard a surface pushes back on you; it's zero in free fall.\n\n## How gravity works\n- Everything with mass has gravity; force depends on **both masses and the distance**.\n- **Inverse-square law:** double the distance -> force ÷ 4; ten times farther -> force ÷ 100.\n- Gravity is **attractive only**.\n\n## Orbits = falling and missing the ground\n- Throw a rock sideways hard enough and it falls *around* Earth -> an **orbit**.\n- Orbit shapes by increasing speed: **line -> circle -> ellipse -> parabola -> hyperbola**.\n- Low-Earth circular orbit takes ~90 minutes.\n\n## Escape velocity\n- Throw hard enough and gravity weakens faster than it can stop you -> the object **escapes**.\n- **Earth ≈ 11 km/s, Jupiter ≈ 58 km/s, Sun ≈ 600 km/s.**\n- Escape path = parabola; faster than escape = hyperbola.\n\n## Why astronauts are 'weightless'\n- Not because gravity is gone — at the ISS, Earth's gravity is still ~**90%** of surface value.\n- They're in **free fall** (orbiting), so nothing pushes back -> no weight. NASA calls it **microgravity**.\n- Same **mass** as on Earth, but no **weight**.\n\n## Bonus: gravity warps space\n- Even massless **photons** bend near massive objects -> gravity curves space itself (preview of black holes).\n\n## ★ KEY EXAM POINTS\n- ★ Inverse-square: 2× distance -> 1/4 force; 10× -> 1/100.\n- ★ Orbit shapes by speed: line, circle, ellipse, parabola, hyperbola.\n- ★ Escape velocity: Earth ~11, Jupiter ~58, Sun ~600 km/s.\n- ★ Astronauts are weightless from **free fall**, not absence of gravity (mass stays; weight = 0).\n",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 7: The Gravity of the Situation (Week 1 lecture)"
+    },
+    {
+      "id": "v6-note001",
+      "title": "Video 6 — Kepler's Laws and Beyond",
+      "body": "# Video 6 — Kepler's Laws and Beyond\n\n## Brahe -> Kepler\n- **Tycho Brahe** built the best instruments of his era and gathered the best pre-telescope data.\n- His assistant **Johannes Kepler** analyzed it and found planets trace **ellipses**, not circles.\n\n## Ellipse basics\n- Two **foci**; the sum of distances from the foci to any point is constant.\n- A circle is an ellipse whose foci coincide; planet orbits have **low eccentricity**, so they look nearly circular.\n\n## Kepler's three laws\n- **1st:** each orbit is an **ellipse with the Sun at one focus** (closest point = **perihelion**, farthest = **aphelion**).\n- **2nd:** a planet sweeps **equal areas in equal times** -> faster near the Sun, slower far away.\n- **3rd:** **P² ∝ a³** (period in years, semimajor axis in AU).\n- Laws are **empirical** yet extremely precise -> the universe obeys decipherable math (a foundation of modern science).\n\n## Galileo (telescope, same era)\n- Moon has mountains/craters; **sunspots** that move -> Sun rotates.\n- **Four moons of Jupiter** -> not everything orbits Earth.\n- Saturn's rings; **phases of Venus** -> 'final nail' for geocentrism; far more stars than the eye sees.\n\n## Newton\n- Born the year Galileo died.\n- Showed **falling and orbiting have the same cause**; Kepler's three laws follow from Newton's laws of motion + universal gravitation.\n\n## ★ KEY EXAM POINTS\n- ★ Brahe = data; Kepler = ellipses (orbits look circular only because eccentricity is low).\n- ★ Kepler: 1) ellipse, Sun at focus; 2) equal areas/equal times; 3) P² ∝ a³.\n- ★ Galileo's **phases of Venus** = decisive against geocentrism.\n- ★ Newton unified Kepler's laws via motion + gravity.\n",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch3",
+      "source": "Course Video 6: History of Astronomy IV: Kepler's Laws and Beyond (Week 1 lecture)"
+    },
+    {
+      "id": "v5-note001",
+      "title": "Video 5 — Simple Unit Conversion (the 'grid' method)",
+      "body": "# Video 5 — Simple Unit Conversion\n\n## The method: factor-label / 'grid' / 'train-track'\n1. Write down your **conversion factors** (e.g., 1 mi = 1.6 km, 1 hr = 60 min, 1 min = 60 s).\n2. Start with the given quantity, then multiply by factor-fractions arranged so the **unwanted units cancel** diagonally.\n3. Keep chaining until only the desired units remain, then multiply/divide the numbers.\n\n## Worked example A: 70 mph -> km/s\n- 70 mi/hr × (1.6 km / 1 mi) × (1 hr / 60 min) × (1 min / 60 s)\n- mi, hr, min all cancel -> km/s.\n- 70 × 1.6 ÷ 60 ÷ 60 ≈ **0.03 km/s = 3 × 10⁻² km/s**.\n\n## Worked example B: 70 km/s -> mph\n- 70 km/s × (1 mi / 1.6 km) × (60 s / 1 min) × (60 min / 1 hr)\n- ≈ **156,586 mph ≈ 1.57 × 10⁵ mph** (very fast!).\n- Sanity check: 70 km ≈ 42 mi, so 70 km/s ≈ 42 mi/s — a huge distance each second.\n\n## Scientific notation\n- Move the decimal so one nonzero digit is in front; the exponent counts the moves.\n- 0.03 -> **3 × 10⁻²**;  157,000 -> **1.57 × 10⁵**.\n- Why bother: it tames very large/small numbers (no long strings of zeros).\n\n## Instructor's advice\n- Just practice — do the study-guide conversion problems, then invent your own.\n- You already do conversions intuitively (1 yard = 3 ft, 1 ft = 12 in, 1 m = 100 cm).\n\n## ★ KEY EXAM POINTS\n- ★ Set up factor-label fractions so **units cancel**, leaving the target units.\n- ★ 70 mph ≈ **0.03 km/s** (3 × 10⁻²); 70 km/s ≈ **1.57 × 10⁵ mph**.\n- ★ Scientific notation: one digit before the decimal × 10^(places moved).\n",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 5: Simple Unit Conversion (Week 1 lecture)"
+    },
+    {
+      "id": "v4-note001",
+      "title": "Video 4 — Copernicus and Heliocentrism",
+      "body": "# Video 4 — Copernicus and Heliocentrism\n\n## Ptolemy's geocentric model\n- Perfected the Earth-centered model (2nd-century Egypt).\n- Explained **retrograde motion** with **epicycles** (small circles on the main orbit).\n- Reasonably accurate but messy: a different formula per planet; tinkered with for centuries until the 1500s.\n\n## Copernicus\n- Revived the **heliocentric** (Sun-centered) model.\n- Problems of geocentrism vanish: inner planets orbit faster; **retrograde = Earth overtaking an outer planet** (like passing a slower car on the highway).\n- Even estimated planet-Sun distances with clever geometry.\n\n## The parallax objection (a valid one)\n- If Earth moves, nearby stars should appear to **shift** (parallax).\n- It's real but **tiny** because stars are so far; not measurable until centuries later.\n- **Finger/eye analogy:** blink each eye and a near finger shifts; the shift shrinks with distance.\n- Method: Earth's two orbital positions (baseline = **1 AU ≈ 150 million km**); half the shift = the star's **parallax**; trig gives the distance. Parallax confirms heliocentrism.\n\n## Cultural impact\n- If Earth orbits the Sun, Earth is **not** the center of the universe.\n- **Giordano Bruno** argued stars are other suns with possible worlds/life; the Church tried him for heresy and burned him at the stake.\n\n## ★ KEY EXAM POINTS\n- ★ Geocentrism used **epicycles** for retrograde; heliocentrism explains it as Earth overtaking outer planets.\n- ★ **Parallax** = apparent star shift from Earth's orbit; tiny because of huge distances; confirms heliocentrism.\n- ★ Parallax baseline = **1 AU**; half the measured shift = the parallax angle.\n",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 4: History of Astronomy III: Copernicus and Heliocentrism (Week 1 lecture)"
+    },
+    {
+      "id": "v3-note001",
+      "title": "Video 3 — Early Measurements of the Earth",
+      "body": "# Video 3 — Early Measurements of the Earth\n\n## Science = observation + what we do with it\n- Observe -> build models -> predict -> measure -> revise if they don't match.\n\n## Earth is round\n- **Pythagoras:** proposed it on aesthetic grounds (the sphere is 'perfect') — not yet scientific.\n- **Aristotle (logical evidence):**\n  - Earth's **curved shadow** on the Moon during lunar eclipses.\n  - **Different stars** become visible as you travel north-south.\n\n## Eratosthenes measures Earth's circumference\n- Sun directly overhead a **well at Syene** at noon on the summer solstice.\n- Same moment, an **obelisk at Alexandria** cast a shadow showing the Sun **7° off vertical**.\n- 7° ≈ **1/50** of a full circle.\n- Distance between cities = 5,000 stadia -> circumference ≈ 50 × 5,000 = **250,000 stadia ≈ 25,000 miles** (remarkably accurate).\n\n## Aristarchus\n- From the curvature of Earth's shadow on the Moon: Moon's diameter ≈ **1/3 of Earth's**.\n- Argued the **Sun is much larger than Earth**, and even proposed a **Sun-centered** model (too early to be accepted).\n\n## ★ KEY EXAM POINTS\n- ★ Aristotle's evidence for a round Earth: curved eclipse shadow + changing stars with latitude.\n- ★ Eratosthenes: 7° ≈ 1/50 circle -> circumference ≈ 50 × (city distance) ≈ 25,000 miles.\n- ★ Aristarchus: Moon ≈ 1/3 Earth's diameter; first to propose heliocentrism.\n",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 3: History of Astronomy II: Early Measurements of the Earth (Week 1 lecture)"
+    },
+    {
+      "id": "v2-note001",
+      "title": "Video 2 — The Celestial Sphere & Early Observations",
+      "body": "# Video 2 — The Celestial Sphere & Early Observations\n\n## The celestial sphere\n- Ancients saw thousands of 'fixed' stars on a slowly rotating dome.\n- They grouped them into **constellations**; the Sun, Moon, and 5 planets moved separately.\n- Planets crossed special constellations = the **zodiac** (still used in astrology).\n\n## Sky cycles -> units of time\n- **Day** = Sun rises/sets (most obvious cycle).\n- **Month** = Moon's phases.\n- **Year** = seasons.\n\n## The north celestial pole\n- One point doesn't move: the **NCP** (above Earth's rotation axis).\n- The **north star** sits there -> useful for navigation; a point with no lateral motion as Earth spins.\n\n## Why the sky changes through the year\n- As Earth orbits, the **Sun blocks different background stars**, so different constellations are visible at night across the year.\n\n## The ecliptic\n- The Sun's path across the sky = the **plane of the solar system** (planets follow it too).\n- Named because **eclipses** can happen when the Moon crosses it.\n\n## Seasons = AXIAL TILT (not distance!)\n- Axis tilted **23.5°**; opposite hemispheres have opposite seasons, so distance can't be the cause.\n- Hemisphere tilted toward Sun -> more direct light + longer days = summer.\n- **Equinoxes:** Sun crosses the celestial equator (equal day/night).\n- **Solstices:** Sun farthest from the celestial equator.\n- Monuments like **Stonehenge** frame solstice/equinox sunrises — careful observation, not aliens.\n\n## Moon phases (NOT shadows)\n- We see only the sunlit face; how much of it points toward Earth gives the phase.\n- Full = Moon opposite Sun; New = Moon on Sun's side; crescents in between.\n- **Solar eclipse:** Moon between Sun and Earth. **Lunar eclipse:** Earth between Sun and Moon.\n\n## ★ KEY EXAM POINTS\n- ★ Seasons = **23.5° axial tilt**, NOT Earth-Sun distance.\n- ★ Lunar phases come from geometry of the sunlit face — **not** Earth's shadow.\n- ★ Ecliptic = Sun's path = plane of the solar system.\n- ★ Different stars each season because the Sun blocks different background stars.\n",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch2",
+      "source": "Course Video 2: History of Astronomy I: The Celestial Sphere & Early Observations (Week 1 lecture)"
+    },
+    {
+      "id": "v1-note001",
+      "title": "Video 1 — Introduction to Astronomy",
+      "body": "# Video 1 — Introduction to Astronomy\n\n## What science is\n- A body of knowledge AND a method for building it.\n- Core requirement: **honesty** — actively looking for ways our ideas might be wrong.\n- Science self-corrects: it gets ever closer to reality over time.\n\n## What astronomy is\n- The study of objects and phenomena beyond Earth.\n- Boundaries with other sciences are fuzzy (a Mars rover does geology/chemistry too).\n- \"Astronomy puts you in your place\": a scale tour from Earth -> Sun -> Milky Way -> Local Group -> Virgo Supercluster -> observable universe.\n\n## Astronomy vs astrology\n- **Astronomy = science** (evidence-based).\n- **Astrology = not science**: no real predictive power; people remember the hits and forget the misses.\n- Historically astrology motivated careful sky-watching, which seeded real astronomy.\n\n## Who \"does\" astronomy\n- Not just telescope operators: astrophysicists, engineers, technicians, **programmers**, teachers, writers, even artists.\n\n## Quick history (revolutions)\n- Geocentrism -> Copernicus (heliocentric) -> Brahe/Kepler -> Newton (calculus + gravity) -> Galileo & telescopes -> photography -> digital detectors -> space telescopes.\n\n## Memorable facts from the video\n- Earth ~13,000 km across; Sun ~150 million km away.\n- Observable universe ~90 billion light-years across, expanding (dark energy).\n- We can directly see only ~**4%** of the universe.\n- Exploding stars forged the elements in you (iron in blood, calcium in bones, phosphorus in DNA).\n- The most common star type is too faint to see without a telescope (red dwarfs).\n\n## ★ KEY EXAM POINTS\n- ★ Astronomy = science; astrology = not (no predictive validity).\n- ★ Science's defining trait per the lecture: **honesty / self-correction**.\n- ★ Revolution order: Copernicus -> Kepler -> Newton -> telescopes -> photography -> digital -> space.\n- ★ Elements in our bodies were forged in stars.\n",
+      "image": null,
+      "module": "week-1",
+      "chapter": "Ch1",
+      "source": "Course Video 1: Introduction to Astronomy (Week 1 lecture)"
+    },
     {
       "id": "ch29-note001",
       "title": "Ch. 29 — The Big Bang",
