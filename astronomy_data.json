@@ -7643,6 +7643,546 @@
       "module": "week-5",
       "chapter": "Ch19",
       "source": "Astronomy 2e (OpenStax), Ch. 19 (study-guide objective)"
+    },
+    {
+      "id": "ch21-sg-q001",
+      "type": "sa",
+      "text": "Give several reasons the Orion molecular cloud is such a useful laboratory for studying the stages of star formation.",
+      "answer": "It is relatively nearby and very large, and it contains stars at many different stages of formation at the same time, from dense collapsing cores to protostars to newly formed stars. That range lets astronomers see the whole star-forming sequence at once, and the region is bright and well studied across many wavelengths, especially the infrared.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Astronomy 2e (OpenStax), Ch. 21 (study-guide objective)"
+    },
+    {
+      "id": "ch21-sg-q002",
+      "type": "sa",
+      "text": "Why is star formation more likely in cold molecular clouds than in regions where the gas is several hundred thousand degrees?",
+      "answer": "Cold gas has low thermal pressure, so gravity can more easily overcome it and trigger collapse, and the low temperature lets dense molecular gas form. Hot gas has high pressure that resists gravitational collapse, preventing clouds from contracting into stars.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Astronomy 2e (OpenStax), Ch. 21 (study-guide objective)"
+    },
+    {
+      "id": "ch21-sg-q003",
+      "type": "sa",
+      "text": "Why have we learned so much about star formation since the invention of infrared detectors?",
+      "answer": "Stars form deep inside dusty clouds that block visible light, but infrared radiation passes through the dust and is emitted by the warm forming protostars. Infrared detectors therefore let astronomers see directly into stellar nurseries that are otherwise hidden.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Astronomy 2e (OpenStax), Ch. 21 (study-guide objective)"
+    },
+    {
+      "id": "ch21-sg-q004",
+      "type": "sa",
+      "text": "Describe what happens when a star forms, from a dense core in a molecular cloud to the main sequence.",
+      "answer": "A dense core in a molecular cloud collapses under its own gravity, heating up as it contracts and forming a protostar surrounded by a disk of gas and dust. The protostar keeps contracting and heating until its center reaches about 10 million K, at which point hydrogen fusion ignites; the energy released halts the contraction, and the star settles onto the main sequence.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Astronomy 2e (OpenStax), Ch. 21 (study-guide objective)"
+    },
+    {
+      "id": "ch21-sg-q005",
+      "type": "sa",
+      "text": "Describe how the T Tauri stage of a low-mass star can lead to a Herbig-Haro object.",
+      "answer": "Young low-mass stars in the T Tauri stage drive strong outflows and narrow jets of gas. When these jets slam into the surrounding interstellar material, they create glowing, shock-heated knots of gas known as Herbig-Haro objects.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Astronomy 2e (OpenStax), Ch. 21 (study-guide objective)"
+    },
+    {
+      "id": "ch21-sg-q006",
+      "type": "sa",
+      "text": "Two protostars, one 10 times and one half the mass of the Sun, are born together. Which reaches the main sequence first?",
+      "answer": "The 10-solar-mass protostar reaches the main sequence first. More massive protostars contract under stronger gravity, heat up faster, and reach the temperature for hydrogen fusion sooner, so they evolve more quickly overall.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Astronomy 2e (OpenStax), Ch. 21 (study-guide objective)"
+    },
+    {
+      "id": "ch21-sg-q007",
+      "type": "sa",
+      "text": "Why is it so hard to see planets around other stars and so easy to see them around our own?",
+      "answer": "Exoplanets are small and dim and are lost in the overwhelming glare of their host star, which is billions of times brighter. The planets in our own system are very close, reflect plenty of sunlight, and are viewed from within the system, so they are easy to see and study directly.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Astronomy 2e (OpenStax), Ch. 21 (study-guide objective)"
+    },
+    {
+      "id": "ch21-sg-q008",
+      "type": "sa",
+      "text": "Why did it take astronomers until 1995 to discover the first exoplanet orbiting another Sun-like star?",
+      "answer": "Detecting a planet requires measuring the tiny wobble it induces in its star's motion (or a slight dip in starlight), effects far too small to see directly. The necessary precision in spectroscopy was not achieved until the mid-1990s, when Mayor and Queloz detected 51 Pegasi b.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Astronomy 2e (OpenStax), Ch. 21 (study-guide objective)"
+    },
+    {
+      "id": "ch21-sg-q009",
+      "type": "sa",
+      "text": "Which types of planets are most easily detected by Doppler measurements? By transits?",
+      "answer": "Doppler (radial-velocity) measurements most easily detect massive planets orbiting close to their star, because those produce the largest stellar wobble. Transits most easily detect planets whose orbits are nearly edge-on to us and that are large and close to the star, because those block more light more often.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Astronomy 2e (OpenStax), Ch. 21 (study-guide objective)"
+    },
+    {
+      "id": "ch21-sg-q010",
+      "type": "sa",
+      "text": "List three ways the exoplanets we have detected differ from planets in our solar system.",
+      "answer": "Many are 'hot Jupiters,' giant planets orbiting extremely close to their stars; many follow highly eccentric (elongated) orbits rather than nearly circular ones; and many systems contain 'super-Earths,' planets sized between Earth and Neptune, which have no counterpart in our solar system.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Astronomy 2e (OpenStax), Ch. 21 (study-guide objective)"
+    },
+    {
+      "id": "ch21-sg-q011",
+      "type": "sa",
+      "text": "List any similarities between discovered exoplanets and planets in our solar system.",
+      "answer": "Exoplanets span a similar range of types, from small rocky worlds to gas giants; they orbit their stars as our planets orbit the Sun; and many stars host multiple planets, including rocky ones, just as the Sun does.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Astronomy 2e (OpenStax), Ch. 21 (study-guide objective)"
+    },
+    {
+      "id": "ch21-sg-q012",
+      "type": "sa",
+      "text": "What revisions to the theory of planet formation have astronomers had to make because of exoplanets?",
+      "answer": "Astronomers had to add planetary migration, recognizing that giant planets can form far out and then spiral inward to become hot Jupiters. More broadly, planet formation turns out to be common and far more varied than expected, so our orderly solar system is just one of many possible outcomes.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Astronomy 2e (OpenStax), Ch. 21 (study-guide objective)"
+    },
+    {
+      "id": "ch22-sg-q001",
+      "type": "sa",
+      "text": "Compare the life stages (prenatal, birth, adolescence/adulthood, middle age, old age, death) of a human and a Sun-like star.",
+      "answer": "Prenatal corresponds to the collapsing cloud core and protostar; birth is the ignition of hydrogen fusion as the star joins the main sequence; adolescence and adulthood are the long, stable main-sequence hydrogen-burning phase; middle age is the red-giant stage after core hydrogen is exhausted; old age is the shedding of the outer layers; and death is the ejection of a planetary nebula, leaving a slowly cooling white dwarf.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Astronomy 2e (OpenStax), Ch. 22 (study-guide objective)"
+    },
+    {
+      "id": "ch22-sg-q002",
+      "type": "sa",
+      "text": "What is the first event when a Sun-like star exhausts its core hydrogen, and what sequence follows?",
+      "answer": "When the core hydrogen runs out, the inert helium core contracts and heats while hydrogen fusion continues in a shell around it. This shell burning makes the outer layers expand and cool, so the star swells into a red giant; eventually the core becomes hot enough to ignite helium fusion.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Astronomy 2e (OpenStax), Ch. 22 (study-guide objective)"
+    },
+    {
+      "id": "ch22-sg-q003",
+      "type": "sa",
+      "text": "Why are about 90 percent of observed stars on the main sequence, and why are there far fewer giants and supergiants?",
+      "answer": "Stars spend the great majority of their lives fusing hydrogen on the main sequence, so at any moment most stars are caught in that long-lasting phase. The giant and supergiant phases are comparatively brief, so only a small fraction of stars are passing through them at any given time.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Astronomy 2e (OpenStax), Ch. 22 (study-guide objective)"
+    },
+    {
+      "id": "ch22-sg-q004",
+      "type": "sa",
+      "text": "Describe the evolution of a Sun-like star from protostar to its first time as a red giant (words and H-R path).",
+      "answer": "The protostar contracts and heats until hydrogen fusion ignites and it joins the main sequence, where it steadily fuses hydrogen to helium for billions of years. When core hydrogen is exhausted, the core contracts and a hydrogen-burning shell makes the outer layers expand and cool, so on the H-R diagram the star moves up and to the right into the red-giant region.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Astronomy 2e (OpenStax), Ch. 22 (study-guide objective)"
+    },
+    {
+      "id": "ch22-sg-q005",
+      "type": "sa",
+      "text": "Describe the evolution of a Sun-like star from its first red-giant stage until it exhausts its last usable fuel.",
+      "answer": "Helium ignites in the core and fuses to carbon (via the triple-alpha process). After the core helium is used up, helium- and hydrogen-burning shells make the star expand again into a luminous asymptotic giant. A Sun-like star cannot get hot enough to fuse carbon further, so fusion stops at carbon and oxygen and the star begins shedding its outer layers.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Astronomy 2e (OpenStax), Ch. 22 (study-guide objective)"
+    },
+    {
+      "id": "ch22-sg-q006",
+      "type": "sa",
+      "text": "A star is often described as 'moving' on an H-R diagram. What is actually happening?",
+      "answer": "The star is not moving through space; rather, its luminosity and surface temperature change over time as its internal structure evolves. Because the H-R diagram plots luminosity against temperature, those changes shift the star's position on the diagram.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Astronomy 2e (OpenStax), Ch. 22 (study-guide objective)"
+    },
+    {
+      "id": "ch22-sg-q007",
+      "type": "sa",
+      "text": "Which edge of the main-sequence band is the zero-age main sequence?",
+      "answer": "The zero-age main sequence is the lower-left edge of the band, marking where stars first arrive and begin steady hydrogen fusion. As a star ages on the main sequence, it drifts slightly off this initial edge.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Astronomy 2e (OpenStax), Ch. 22 (study-guide objective)"
+    },
+    {
+      "id": "ch22-sg-q008",
+      "type": "sa",
+      "text": "Stars like Betelgeuse are cooler than the Sun yet far more luminous. How do they produce so much energy?",
+      "answer": "Luminosity depends on both temperature and surface area (L = 4 pi R^2 sigma T^4). Betelgeuse is a red supergiant of enormous size, and its huge surface area more than makes up for its lower temperature, so it radiates far more total energy than the Sun.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Astronomy 2e (OpenStax), Ch. 22 (study-guide objective)"
+    },
+    {
+      "id": "ch22-sg-q009",
+      "type": "sa",
+      "text": "What mechanism can oppose a star's gravitational collapse, and during which stages is there a balance?",
+      "answer": "The outward gas and radiation pressure generated by energy production opposes gravity. A stable balance (hydrostatic equilibrium) exists whenever the star is fusing fuel in its core, such as during the main sequence and the core helium-burning phases; in remnants, degeneracy pressure provides the support instead.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Astronomy 2e (OpenStax), Ch. 22 (study-guide objective)"
+    },
+    {
+      "id": "ch22-sg-q010",
+      "type": "sa",
+      "text": "Why are star clusters so useful for studying stellar evolution?",
+      "answer": "The stars in a cluster all formed at about the same time, from the same material, at the same distance, so they share an age and composition and differ mainly in mass. Comparing them isolates the effect of mass on evolution and lets astronomers determine the cluster's age.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Astronomy 2e (OpenStax), Ch. 22 (study-guide objective)"
+    },
+    {
+      "id": "ch22-sg-q011",
+      "type": "sa",
+      "text": "Would the Sun more likely have been a member of a globular cluster or an open cluster in the past?",
+      "answer": "An open cluster. The Sun is a relatively young, metal-rich Population I star, whereas globular clusters contain very old, metal-poor Population II stars formed early in the Galaxy's history.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Astronomy 2e (OpenStax), Ch. 22 (study-guide objective)"
+    },
+    {
+      "id": "ch22-sg-q012",
+      "type": "sa",
+      "text": "Two clusters: diagram A has most stars on the upper-left main sequence (rest off it); diagram B has most on the lower-right main sequence (rest off it). Which is older, and why?",
+      "answer": "Diagram B is the older cluster. In an old cluster the massive, hot, upper-left main-sequence stars have already evolved off the main sequence and died, leaving mainly low-mass stars on the lower-right of the main sequence; diagram A still has its short-lived massive stars, so it is younger.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Astronomy 2e (OpenStax), Ch. 22 (study-guide objective)"
+    },
+    {
+      "id": "ch22-sg-q013",
+      "type": "sa",
+      "text": "Why is the helium-to-carbon fusion process called the 'triple-alpha process,' and why must it occur at much higher temperature than hydrogen fusion?",
+      "answer": "It is called triple-alpha because three helium-4 nuclei (alpha particles) combine to form a carbon nucleus. It requires much higher temperature than hydrogen fusion because helium nuclei each carry a charge of +2, so their mutual electrical repulsion is stronger and more thermal energy is needed for them to collide and fuse.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Astronomy 2e (OpenStax), Ch. 22 (study-guide objective)"
+    },
+    {
+      "id": "ch22-sg-q014",
+      "type": "sa",
+      "text": "Describe the two 'recycling' mechanisms associated with stars.",
+      "answer": "During and at the end of their lives, stars return processed material enriched in heavy elements to the interstellar medium through stellar winds, planetary nebulae, and supernova explosions. That enriched gas is then incorporated into new generations of stars and planets, recycling material from one stellar generation to the next.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Astronomy 2e (OpenStax), Ch. 22 (study-guide objective)"
+    },
+    {
+      "id": "ch22-sg-q015",
+      "type": "sa",
+      "text": "In which group would you most likely find the least heavy-element abundance: open clusters, globular clusters, or associations?",
+      "answer": "Globular clusters. They are very old, having formed early in the Galaxy's history before much heavy-element enrichment occurred, so their stars (Population II) are the most metal-poor.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Astronomy 2e (OpenStax), Ch. 22 (study-guide objective)"
+    },
+    {
+      "id": "ch22-sg-q016",
+      "type": "sa",
+      "text": "Explain how an H-R diagram of a cluster's stars can be used to determine the cluster's age.",
+      "answer": "Astronomers find the main-sequence turnoff, the point where the most massive stars still on the main sequence are about to evolve off. Since more massive stars burn out faster, the location of the turnoff indicates how much time has passed: a lower, cooler turnoff means more massive stars have already died, so the cluster is older.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Astronomy 2e (OpenStax), Ch. 22 (study-guide objective)"
+    },
+    {
+      "id": "ch22-sg-q017",
+      "type": "sa",
+      "text": "Where did the carbon in a tree and the neon in 'neon lights' originally come from?",
+      "answer": "Both were forged inside stars by nuclear fusion, carbon mainly in red giants through the triple-alpha process and neon in massive stars, and then scattered into space by stellar winds and supernovae. That enriched material was later incorporated into the Sun, the Earth, and ultimately living things and everyday matter.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Astronomy 2e (OpenStax), Ch. 22 (study-guide objective)"
+    },
+    {
+      "id": "ch23-sg-q001",
+      "type": "sa",
+      "text": "How does a white dwarf differ from a neutron star? How does each form, and what keeps each from collapsing?",
+      "answer": "A white dwarf is the Earth-sized carbon-oxygen remnant left when a low- or intermediate-mass star sheds its outer layers; it is held up by electron degeneracy pressure. A neutron star is the roughly 20-km collapsed core left after a massive star's supernova, made almost entirely of neutrons and held up by neutron degeneracy pressure. They form from different-mass progenitors, and in each case quantum degeneracy pressure halts further collapse.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Astronomy 2e (OpenStax), Ch. 23 (study-guide objective)"
+    },
+    {
+      "id": "ch23-sg-q002",
+      "type": "sa",
+      "text": "Describe the evolution of a Sun-like star from the main sequence until it becomes a white dwarf.",
+      "answer": "It fuses hydrogen on the main sequence, then becomes a red giant with shell hydrogen burning, ignites helium in its core, and later swells into an asymptotic giant with helium- and hydrogen-burning shells. Finally it ejects its outer layers as a planetary nebula, leaving behind the hot, exposed carbon-oxygen core as a white dwarf that slowly cools.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Astronomy 2e (OpenStax), Ch. 23 (study-guide objective)"
+    },
+    {
+      "id": "ch23-sg-q003",
+      "type": "sa",
+      "text": "Describe the evolution of a 20-solar-mass star up to its supernova, and how it differs from the Sun.",
+      "answer": "A massive star fuses progressively heavier elements in concentric shells (hydrogen, helium, carbon, oxygen, neon, silicon) until it builds an iron core. Iron fusion absorbs rather than releases energy, so the core collapses catastrophically into a neutron star or black hole, and the rebound and neutrino burst blow the star apart as a Type II supernova. Unlike the Sun, its high mass and temperature let it fuse far beyond carbon and end in a violent explosion.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Astronomy 2e (OpenStax), Ch. 23 (study-guide objective)"
+    },
+    {
+      "id": "ch23-sg-q004",
+      "type": "sa",
+      "text": "How do the two types of supernovae differ, and what kind of star gives rise to each?",
+      "answer": "A Type Ia supernova comes from a white dwarf in a binary that accretes matter, exceeds the Chandrasekhar limit, and detonates completely; its spectrum shows no hydrogen. A Type II supernova comes from the core collapse of a single massive star and shows hydrogen lines in its spectrum.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Astronomy 2e (OpenStax), Ch. 23 (study-guide objective)"
+    },
+    {
+      "id": "ch23-sg-q005",
+      "type": "sa",
+      "text": "A star starts at 5 solar masses but ends as a 0.8-solar-mass white dwarf. During which stages did it lose mass, and how?",
+      "answer": "It lost most of its mass through strong stellar winds during the red-giant and especially the asymptotic-giant-branch phases, and then by ejecting its outer envelope as a planetary nebula at the very end. These processes carried away the difference between its starting mass and the final white-dwarf mass.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Astronomy 2e (OpenStax), Ch. 23 (study-guide objective)"
+    },
+    {
+      "id": "ch23-sg-q006",
+      "type": "sa",
+      "text": "If a neutron star's formation causes a supernova, why are only a few of the hundreds of known pulsars found in supernova remnants?",
+      "answer": "Supernova remnants disperse and fade within a few tens of thousands of years, while pulsars keep emitting for millions of years, so most pulsars long outlive their visible remnants. In addition, the explosion often gives the neutron star a 'kick' that flings it out of the remnant.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Astronomy 2e (OpenStax), Ch. 23 (study-guide objective)"
+    },
+    {
+      "id": "ch23-sg-q007",
+      "type": "sa",
+      "text": "How can the Crab Nebula shine with the power of about 100,000 Suns when its star exploded nearly 1000 years ago? Who 'pays the bills'?",
+      "answer": "The central pulsar, a rapidly spinning neutron star, supplies the energy. As it gradually slows, its enormous rotational energy is channeled through its strong magnetic field into the surrounding gas, continuously powering the nebula's glow long after the explosion.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Astronomy 2e (OpenStax), Ch. 23 (study-guide objective)"
+    },
+    {
+      "id": "ch23-sg-q008",
+      "type": "sa",
+      "text": "How is a nova different from a Type Ia supernova, and from a Type II supernova?",
+      "answer": "A nova is a white dwarf in a binary that briefly ignites a layer of accreted hydrogen on its surface; the dwarf survives and can erupt repeatedly. A Type Ia supernova is the complete thermonuclear destruction of a white dwarf pushed past the Chandrasekhar limit, and a Type II is the core collapse of a massive star. A nova is vastly less energetic and, unlike the supernovae, is not destructive.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Astronomy 2e (OpenStax), Ch. 23 (study-guide objective)"
+    },
+    {
+      "id": "ch23-sg-q009",
+      "type": "sa",
+      "text": "Apart from mass, how are binary systems with a neutron star different from those with a white dwarf?",
+      "answer": "A neutron star's gravity is far stronger because it is so much smaller and denser, so matter falling onto it releases much more energy, often as intense X-rays and X-ray bursts, and can power pulsars. White-dwarf binaries instead produce novae and Type Ia supernovae, with far less energetic accretion.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Astronomy 2e (OpenStax), Ch. 23 (study-guide objective)"
+    },
+    {
+      "id": "ch23-sg-q010",
+      "type": "sa",
+      "text": "What observations from SN 1987A helped confirm theories about supernovae?",
+      "answer": "Detectors on Earth recorded a burst of neutrinos arriving just before the visible light, confirming that a core collapse releases most of its energy as neutrinos, exactly as theory predicted. SN 1987A also let astronomers watch a supernova evolve in detail and identify its progenitor, which turned out to be a blue supergiant.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Astronomy 2e (OpenStax), Ch. 23 (study-guide objective)"
+    },
+    {
+      "id": "ch23-sg-q011",
+      "type": "sa",
+      "text": "Describe how a white dwarf evolves over time, particularly its luminosity, temperature, and radius.",
+      "answer": "A white dwarf no longer generates energy by fusion, so it simply radiates away its stored heat and cools over billions of years. Its luminosity and temperature steadily decrease while its radius stays nearly constant, and in principle it eventually becomes a cold, dark black dwarf.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Astronomy 2e (OpenStax), Ch. 23 (study-guide objective)"
+    },
+    {
+      "id": "ch23-sg-q012",
+      "type": "sa",
+      "text": "Describe how a pulsar evolves over time, particularly its rotation and pulse signal.",
+      "answer": "As a pulsar ages it gradually loses rotational energy, so it spins more slowly and its pulses arrive less frequently and grow weaker. Eventually it slows so much that it no longer emits detectable pulses and effectively switches off.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Astronomy 2e (OpenStax), Ch. 23 (study-guide objective)"
+    },
+    {
+      "id": "ch23-sg-q013",
+      "type": "sa",
+      "text": "How would a white dwarf from a 1-solar-mass star differ from one formed from a 6-solar-mass star?",
+      "answer": "Both end as white dwarfs below the Chandrasekhar limit, but the 6-solar-mass star evolves far faster and loses much more mass, and it may leave a somewhat more massive white dwarf with a different composition (such as oxygen and neon rather than carbon and oxygen). The 1-solar-mass star evolves slowly and leaves a typical carbon-oxygen white dwarf.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Astronomy 2e (OpenStax), Ch. 23 (study-guide objective)"
+    },
+    {
+      "id": "ch23-sg-q014",
+      "type": "sa",
+      "text": "What do astronomers think causes longer-duration and shorter-duration gamma-ray bursts?",
+      "answer": "Long-duration gamma-ray bursts are thought to come from the collapse of very massive, rapidly rotating stars into black holes (collapsars or hypernovae). Short-duration bursts are thought to come from the merger of two compact objects, such as two neutron stars or a neutron star and a black hole.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Astronomy 2e (OpenStax), Ch. 23 (study-guide objective)"
+    },
+    {
+      "id": "ch23-sg-q015",
+      "type": "sa",
+      "text": "How did astronomers finally solve the mystery of what gamma-ray bursts were, and what instruments were required?",
+      "answer": "The breakthrough came when satellites could quickly pinpoint a burst's position accurately enough for follow-up telescopes to catch its fading afterglow. X-ray satellites such as BeppoSAX (and later Swift), combined with rapid optical observations, located the bursts in distant galaxies, proving they are enormously energetic cosmological events.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Astronomy 2e (OpenStax), Ch. 23 (study-guide objective)"
+    },
+    {
+      "id": "ch24-sg-q001",
+      "type": "sa",
+      "text": "How does the equivalence principle lead us to suspect that spacetime might be curved?",
+      "answer": "The equivalence principle says that gravity and acceleration are locally indistinguishable. Since a light beam appears to bend in an accelerating frame, it must also bend in a gravitational field, which implies that mass curves spacetime and that light follows that curvature.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Astronomy 2e (OpenStax), Ch. 24 (study-guide objective)"
+    },
+    {
+      "id": "ch24-sg-q002",
+      "type": "sa",
+      "text": "If general relativity best describes gravity, why do physicists still use Newton's equations (for example, in building a bridge)?",
+      "answer": "Newton's equations are far simpler and are accurate to extremely high precision for weak gravity and ordinary speeds, which covers everyday engineering and most spaceflight. General relativity's corrections are utterly negligible in those situations, so there is no need for its added complexity.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Astronomy 2e (OpenStax), Ch. 24 (study-guide objective)"
+    },
+    {
+      "id": "ch24-sg-q003",
+      "type": "sa",
+      "text": "Describe three experiments that verified predictions of general relativity after Einstein proposed it.",
+      "answer": "First, the bending of starlight passing near the Sun, measured during the 1919 solar eclipse. Second, the extra precession of Mercury's orbit (its perihelion advance), which Newtonian gravity could not fully explain. Third, the gravitational redshift and time dilation of light in a gravitational field, later confirmed by precise clocks and required for GPS to work.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Astronomy 2e (OpenStax), Ch. 24 (study-guide objective)"
+    },
+    {
+      "id": "ch24-sg-q004",
+      "type": "sa",
+      "text": "If a black hole itself emits no radiation, what evidence do astronomers have that black holes are real?",
+      "answer": "They detect black holes through their gravitational effects on surroundings: gas spiraling into a black hole heats up and emits X-rays, stars are seen orbiting unseen very massive companions, and gravitational waves from merging black holes have been recorded. The amount of mass inferred in such a tiny volume can only be a black hole, and the event-horizon image provides direct evidence.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Astronomy 2e (OpenStax), Ch. 24 (study-guide objective)"
+    },
+    {
+      "id": "ch24-sg-q005",
+      "type": "sa",
+      "text": "What characteristics must a binary star have to be a good black-hole candidate, and why does each matter?",
+      "answer": "One visible star should orbit an unseen companion whose mass, derived from the orbital motion, exceeds the neutron-star limit of about three solar masses, and the system should emit strong X-rays. The high mass rules out a white dwarf or neutron star, and the X-rays indicate matter falling into an extremely deep gravitational well, as expected for a black hole.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Astronomy 2e (OpenStax), Ch. 24 (study-guide objective)"
+    },
+    {
+      "id": "ch24-sg-q006",
+      "type": "sa",
+      "text": "A student jumps into a 10-solar-mass black hole. What is the trip like for him, and for the class watching from afar?",
+      "answer": "For the student, tidal forces stretch him head-to-toe ('spaghettification'); he crosses the event horizon (feeling nothing special at the crossing itself) and reaches the central singularity quickly by his own clock. For the class, his infalling image appears to slow down and freeze at the horizon while reddening and dimming, so they never actually see him cross, because of gravitational time dilation.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Astronomy 2e (OpenStax), Ch. 24 (study-guide objective)"
+    },
+    {
+      "id": "ch24-sg-q007",
+      "type": "sa",
+      "text": "What is an event horizon? Does our Sun have one?",
+      "answer": "An event horizon is the boundary around a black hole within which nothing, not even light, can escape. The Sun does not have one, because it is nowhere near compressed within its Schwarzschild radius (only about 3 km); it would need to be crushed to that size to develop an event horizon.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Astronomy 2e (OpenStax), Ch. 24 (study-guide objective)"
+    },
+    {
+      "id": "ch24-sg-q008",
+      "type": "sa",
+      "text": "What is a gravitational wave, and why was it so hard to detect?",
+      "answer": "A gravitational wave is a ripple in the fabric of spacetime produced by accelerating masses, such as orbiting and merging compact objects, traveling outward at the speed of light. It was extremely hard to detect because the resulting distortions are minuscule, far smaller than an atomic nucleus over kilometers, requiring exquisitely sensitive laser interferometers like LIGO.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Astronomy 2e (OpenStax), Ch. 24 (study-guide objective)"
+    },
+    {
+      "id": "ch24-sg-q009",
+      "type": "sa",
+      "text": "What are some strong sources of gravitational waves that astronomers hope to detect?",
+      "answer": "The strongest sources are merging compact objects: pairs of black holes, pairs of neutron stars, and neutron-star-black-hole mergers. Other potential sources include supernova core collapses and processes in the very early universe.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Astronomy 2e (OpenStax), Ch. 24 (study-guide objective)"
+    },
+    {
+      "id": "ch24-sg-q010",
+      "type": "sa",
+      "text": "Suppose the mass of a black hole doubles. Does the event horizon change, and if so how?",
+      "answer": "Yes. The radius of the event horizon (the Schwarzschild radius) is directly proportional to the mass, so doubling the mass doubles the radius of the event horizon.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Astronomy 2e (OpenStax), Ch. 24 (study-guide objective)"
     }
   ],
   "notes": [
