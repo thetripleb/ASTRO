@@ -98,6 +98,15 @@
   ],
   "glossary": [
     {
+      "id": "ch17-g004",
+      "term": "absolute magnitude",
+      "def": "How bright a star would appear if placed at a standard distance of 10 parsecs; a measure of true luminosity.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch5-g009",
       "term": "absorption line spectrum",
       "def": "A continuous spectrum crossed by dark lines, produced when light passes through a cooler thin gas that removes specific wavelengths.",
@@ -161,12 +170,30 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch17-g002",
+      "term": "apparent brightness",
+      "def": "How bright a star looks from Earth, which depends on both its luminosity and its distance.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch2-g014",
       "term": "apparent magnitude",
       "def": "A number describing how bright a star appears from Earth; smaller (and negative) numbers mean brighter objects.",
       "image": null,
       "module": "week-1",
       "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-g003",
+      "term": "arcsecond",
+      "def": "One thirty-six-hundredth of a degree, the tiny angular scale on which parallax is measured.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -269,12 +296,30 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch18-g006",
+      "term": "binary star",
+      "def": "Two stars that orbit a common center of mass.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch5-g010",
       "term": "blackbody radiation",
       "def": "The continuous spectrum emitted by an idealized object that absorbs and re-emits all radiation; its shape depends only on temperature.",
       "image": null,
       "module": "week-2",
       "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-g012",
+      "term": "brown dwarf",
+      "def": "A substellar object too low in mass to sustain hydrogen fusion in its core.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -323,6 +368,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch18-g012",
+      "term": "center of mass",
+      "def": "The balance point about which the two stars in a binary system orbit.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-g005",
+      "term": "Cepheid variable",
+      "def": "A pulsating star whose pulsation period is tied to its luminosity, making it a powerful standard candle.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch12-g010",
       "term": "Charon",
       "def": "Pluto's largest moon, so big relative to Pluto that the two are sometimes called a double system.",
@@ -365,6 +428,15 @@
       "image": null,
       "module": "week-4",
       "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-g007",
+      "term": "color index",
+      "def": "The difference in a star's brightness measured through two different filters, used to estimate temperature.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -476,6 +548,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch19-g010",
+      "term": "cosmic distance ladder",
+      "def": "The chain of overlapping techniques astronomers use to measure distances across the universe.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch1-g002",
       "term": "cosmology",
       "def": "The branch of astronomy concerned with the origin, large-scale structure, and evolution of the universe as a whole.",
@@ -566,6 +647,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch17-g009",
+      "term": "Doppler shift (stellar)",
+      "def": "A shift of a star's spectral lines to longer or shorter wavelengths caused by its motion away from or toward us.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch13-g006",
       "term": "dust tail",
       "def": "A comet tail of dust particles pushed gently by sunlight, which curves along the comet's orbit.",
@@ -602,12 +692,30 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch18-g009",
+      "term": "eclipsing binary",
+      "def": "A binary recognized by regular dips in brightness as one star passes in front of the other.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch2-g004",
       "term": "ecliptic",
       "def": "The apparent annual path of the Sun against the background stars; also the plane of Earth's orbit.",
       "image": null,
       "module": "week-1",
       "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-g006",
+      "term": "effective temperature",
+      "def": "A star's surface temperature, revealed by its color and the peak wavelength of its light.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -791,6 +899,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch18-g003",
+      "term": "giant / supergiant",
+      "def": "Large, very luminous evolved stars found in the upper region of the H-R diagram.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch9-g005",
       "term": "giant impact hypothesis",
       "def": "The leading explanation for the Moon's origin: a Mars-sized body struck the young Earth, and debris from the collision coalesced into the Moon.",
@@ -851,6 +968,15 @@
       "image": null,
       "module": "week-3",
       "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch18-g001",
+      "term": "H-R diagram",
+      "def": "A plot of stellar luminosity versus surface temperature that reveals the main groupings of stars.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -962,6 +1088,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch19-g011",
+      "term": "inverse-square law (brightness)",
+      "def": "The rule that apparent brightness decreases with the square of the distance to the source.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch12-g007",
       "term": "Io",
       "def": "A moon of Jupiter that is the most volcanically active body in the solar system, heated by tidal forces.",
@@ -977,6 +1112,15 @@
       "image": null,
       "module": "week-3",
       "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-g011",
+      "term": "ionization",
+      "def": "The loss of electrons from atoms at high temperature, which changes which spectral lines a star shows.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1106,6 +1250,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch18-g005",
+      "term": "luminosity class",
+      "def": "A classification (from I supergiants to V dwarfs) indicating a star's size and luminosity from its spectrum.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch4-g012",
       "term": "lunar eclipse",
       "def": "An event in which Earth passes between the Sun and Moon, casting Earth's shadow on the Moon.",
@@ -1151,6 +1304,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch18-g002",
+      "term": "main sequence",
+      "def": "The diagonal band on the H-R diagram where stars fuse hydrogen in their cores; most stars spend their lives here.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch8-g002",
       "term": "mantle",
       "def": "The thick, mostly solid rocky layer between a planet's crust and core, which slowly flows over long timescales.",
@@ -1184,6 +1346,15 @@
       "image": null,
       "module": "week-4",
       "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch18-g010",
+      "term": "mass-luminosity relation",
+      "def": "The relation showing that more massive main-sequence stars are far more luminous.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1367,12 +1538,39 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch19-g001",
+      "term": "parallax",
+      "def": "The apparent shift of a nearby star against distant background stars caused by Earth's motion around the Sun.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-g002",
+      "term": "parsec",
+      "def": "The distance at which a star shows a parallax of one arcsecond, about 3.26 light-years.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch3-g008",
       "term": "perihelion",
       "def": "The point in an orbit closest to the Sun.",
       "image": null,
       "module": "week-1",
       "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-g007",
+      "term": "period-luminosity relation",
+      "def": "The relationship between a Cepheid's pulsation period and its luminosity, used to find distance.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1400,6 +1598,15 @@
       "image": null,
       "module": "week-2",
       "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-g013",
+      "term": "photometry",
+      "def": "The measurement of the brightness of stars, often through standardized filters.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1511,6 +1718,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch19-g009",
+      "term": "radar ranging",
+      "def": "Measuring the distance to a nearby body by timing a reflected radio signal.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-g010",
+      "term": "radial velocity",
+      "def": "The speed of a star directly toward or away from us, measured from the Doppler shift of its lines.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch16-g014",
       "term": "radiative diffusion",
       "def": "The slow outward leakage of energy as photons are repeatedly absorbed and re-emitted in the Sun's interior.",
@@ -1535,6 +1760,15 @@
       "image": null,
       "module": "week-3",
       "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch18-g011",
+      "term": "red dwarf",
+      "def": "A cool, low-mass, faint main-sequence star; the most common type of star in the Galaxy.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1616,6 +1850,15 @@
       "image": null,
       "module": "week-2",
       "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-g006",
+      "term": "RR Lyrae variable",
+      "def": "A type of pulsating standard-candle star common in old stellar populations, used for distances.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1826,6 +2069,42 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch17-g005",
+      "term": "spectral class (OBAFGKM)",
+      "def": "The classification of stars by surface temperature, from hottest (O) to coolest (M).",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-g008",
+      "term": "spectral lines",
+      "def": "Dark or bright features in a spectrum that identify the elements present and the conditions in a star.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch18-g008",
+      "term": "spectroscopic binary",
+      "def": "A binary detected by periodic Doppler shifts in its combined spectrum.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-g008",
+      "term": "spectroscopic parallax",
+      "def": "A distance method that uses a star's spectral type and luminosity class to infer its luminosity.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch5-g014",
       "term": "spectroscopy",
       "def": "The technique of spreading light into its spectrum to analyze the composition, temperature, motion, and other properties of a source.",
@@ -1841,6 +2120,15 @@
       "image": null,
       "module": "week-2",
       "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-g004",
+      "term": "standard candle",
+      "def": "An object whose true luminosity is known, so its distance can be found from its apparent brightness.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1997,6 +2285,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch18-g007",
+      "term": "visual binary",
+      "def": "A binary whose two stars can be seen separately through a telescope.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch9-g011",
       "term": "volatile",
       "def": "A substance, such as water or other ices, that easily vaporizes; permanently shadowed polar craters on the Moon and Mercury may trap volatiles.",
@@ -2012,6 +2309,15 @@
       "image": null,
       "module": "week-2",
       "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch18-g004",
+      "term": "white dwarf",
+      "def": "The small, dense, hot remnant of a low- or intermediate-mass star, found at lower left of the H-R diagram.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -3310,6 +3616,222 @@
       "image": null,
       "module": "week-3",
       "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-f001",
+      "front": "What two things determine a star's apparent brightness?",
+      "back": "Its luminosity (true energy output) and its distance, since brightness falls off with distance squared.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-f002",
+      "front": "What is the difference between luminosity and apparent brightness?",
+      "back": "Luminosity is the star's true total energy output; apparent brightness is how bright it looks from Earth, which also depends on distance.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-f003",
+      "front": "In the magnitude system, do brighter stars have larger or smaller numbers?",
+      "back": "Smaller (and the brightest have negative) magnitudes.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-f004",
+      "front": "Why is a star's color a measure of its temperature?",
+      "back": "A star radiates like a blackbody, so its peak wavelength and color depend on temperature: blue is hot, red is cool (Wien's law).",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-f005",
+      "front": "List the spectral classes from hottest to coolest.",
+      "back": "O, B, A, F, G, K, M.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-f006",
+      "front": "What mainly causes stars of similar composition to have different spectra?",
+      "back": "Differences in temperature, which control the ionization and excitation of atoms and thus which lines appear.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-f007",
+      "front": "What does a Doppler shift in a star's spectrum reveal?",
+      "back": "The star's radial velocity — its motion toward us (blueshift) or away from us (redshift).",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-f008",
+      "front": "What distinguishes a brown dwarf from a true star?",
+      "back": "A true star sustains hydrogen fusion; a brown dwarf is too low in mass (below about 0.08 solar mass) to do so.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch18-f001",
+      "front": "What two quantities are plotted on an H-R diagram?",
+      "back": "Luminosity (vertical) versus surface temperature (horizontal, increasing to the left).",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch18-f002",
+      "front": "Where do most stars lie on the H-R diagram, and what are they doing?",
+      "back": "On the main sequence, where they fuse hydrogen into helium in their cores.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch18-f003",
+      "front": "Where are white dwarfs and supergiants on the H-R diagram?",
+      "back": "White dwarfs lie at the lower left (hot but faint); supergiants lie at the top (very luminous).",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch18-f004",
+      "front": "Name the three types of binary systems.",
+      "back": "Visual binaries, spectroscopic binaries, and eclipsing binaries.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch18-f005",
+      "front": "Why are binary stars so important to astronomers?",
+      "back": "They allow the masses of stars to be measured directly from their orbital motion.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch18-f006",
+      "front": "What does the mass-luminosity relation say?",
+      "back": "On the main sequence, more massive stars are much more luminous than less massive ones.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch18-f007",
+      "front": "What is a typical star in the Galaxy like compared with the Sun?",
+      "back": "A red dwarf: smaller, cooler, fainter, and lower in mass than the Sun.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch18-f008",
+      "front": "How do mass, luminosity, temperature, and size change up the main sequence?",
+      "back": "All increase together toward the upper-left: hotter, larger, more massive, and more luminous stars.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-f001",
+      "front": "How does parallax give the distance to a star?",
+      "back": "Earth's orbit provides a 1-AU baseline; half the star's annual apparent shift is its parallax angle, and trigonometry then yields the distance.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-f002",
+      "front": "Why can't parallax be used for very distant stars?",
+      "back": "Their apparent shift becomes too small to measure accurately, so parallax only works for relatively nearby stars.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-f003",
+      "front": "What is a parsec?",
+      "back": "The distance at which a star has a parallax of one arcsecond, about 3.26 light-years.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-f004",
+      "front": "What is a standard candle?",
+      "back": "An object of known luminosity whose distance can be found by comparing that luminosity to its apparent brightness.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-f005",
+      "front": "How are Cepheid variables used to measure distance?",
+      "back": "Their pulsation period reveals their true luminosity (the period-luminosity relation), which compared to apparent brightness gives the distance.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-f006",
+      "front": "What is spectroscopic parallax?",
+      "back": "Estimating a star's distance by using its spectral type and luminosity class to determine its luminosity.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-f007",
+      "front": "Which method measures distances to nearby solar-system bodies?",
+      "back": "Radar ranging — bouncing radio signals off the object and timing the echo.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-f008",
+      "front": "What is the cosmic distance ladder?",
+      "back": "The chain of overlapping distance methods, each calibrated by the previous, used to reach ever-greater distances.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     }
   ],
@@ -8513,9 +9035,416 @@
       "module": "week-8",
       "chapter": "Ch29",
       "source": "Astronomy 2e (OpenStax), Ch. 29 (study-guide objective)"
+    },
+    {
+      "id": "ch17-q001",
+      "type": "mc",
+      "text": "A star's apparent brightness depends on its luminosity and its:",
+      "answer": "distance",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "color",
+        "distance",
+        "mass only",
+        "spectral lines"
+      ]
+    },
+    {
+      "id": "ch17-q002",
+      "type": "mc",
+      "text": "Which spectral class is the hottest?",
+      "answer": "O",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "M",
+        "G",
+        "A",
+        "O"
+      ]
+    },
+    {
+      "id": "ch17-q003",
+      "type": "tf",
+      "text": "In the magnitude system, brighter stars have smaller numbers.",
+      "answer": "True",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-q004",
+      "type": "tf",
+      "text": "The main reason stellar spectra differ is differences in composition, not temperature.",
+      "answer": "False",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-q005",
+      "type": "fitb",
+      "text": "A star's true total energy output per second is its ______.",
+      "answer": "luminosity",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-q006",
+      "type": "fitb",
+      "text": "The classification of stars by temperature uses the sequence O, B, A, F, G, K, and ______.",
+      "answer": "M",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-q007",
+      "type": "sa",
+      "text": "Explain how astronomers determine a star's temperature and chemical makeup from its spectrum.",
+      "answer": "A star's color and the pattern of its spectral lines reveal its temperature, because temperature controls which atoms are ionized or excited and therefore which lines appear and how strong they are. The specific set of lines present identifies the chemical elements in the star, since each element has a unique spectral fingerprint.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-q008",
+      "type": "sa",
+      "text": "Why can two stars with the same apparent brightness have very different luminosities?",
+      "answer": "Apparent brightness combines luminosity and distance, falling off as one over distance squared. A very luminous star that is far away can look just as bright as a modest star that is nearby, so equal apparent brightness does not imply equal luminosity unless the distances are also equal.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-q010",
+      "type": "mc",
+      "text": "A redshift in a star's spectral lines indicates the star is:",
+      "answer": "moving away from us",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "moving toward us",
+        "moving away from us",
+        "not moving",
+        "getting hotter"
+      ]
+    },
+    {
+      "id": "ch18-q001",
+      "type": "mc",
+      "text": "On the H-R diagram, the diagonal band where most stars (including the Sun) are found is the:",
+      "answer": "main sequence",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "white dwarf region",
+        "main sequence",
+        "supergiant branch",
+        "halo"
+      ]
+    },
+    {
+      "id": "ch18-q002",
+      "type": "mc",
+      "text": "The masses of stars are most directly measured using:",
+      "answer": "binary star systems",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "their color",
+        "binary star systems",
+        "their magnitude",
+        "parallax"
+      ]
+    },
+    {
+      "id": "ch18-q003",
+      "type": "tf",
+      "text": "White dwarfs are hot but faint, placing them at the lower left of the H-R diagram.",
+      "answer": "True",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch18-q004",
+      "type": "tf",
+      "text": "Most stars in the Galaxy are more massive and luminous than the Sun.",
+      "answer": "False",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch18-q005",
+      "type": "fitb",
+      "text": "A diagram plotting luminosity against temperature for many stars is the ______ diagram.",
+      "answer": "H-R",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch18-q006",
+      "type": "fitb",
+      "text": "The most common type of star in the Galaxy is the red ______.",
+      "answer": "dwarf",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch18-q007",
+      "type": "sa",
+      "text": "Explain why eclipsing binaries are especially valuable for determining stellar properties.",
+      "answer": "Because we view their orbit nearly edge-on, eclipsing binaries let astronomers combine the timing of the eclipses with the stars' orbital speeds to find each star's mass and diameter. Their spectra add temperatures, and their light curves yield luminosities, so a single eclipsing binary can reveal an unusually complete set of stellar properties.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch18-q008",
+      "type": "sa",
+      "text": "Describe how luminosity, temperature, mass, and radius vary along the main sequence.",
+      "answer": "Along the main sequence these properties change together. Toward the upper-left end, stars are hot, large, massive, and highly luminous; toward the lower-right end, they are cool, small, low in mass, and faint. The Sun sits near the middle of this sequence.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch18-q009",
+      "type": "match",
+      "text": "Match each binary type to how it is detected.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "pairs": [
+        [
+          "Visual binary",
+          "Two stars seen separately through a telescope"
+        ],
+        [
+          "Spectroscopic binary",
+          "Periodic Doppler shifts in the spectrum"
+        ],
+        [
+          "Eclipsing binary",
+          "Regular dips in brightness as stars eclipse"
+        ],
+        [
+          "Mass-luminosity relation",
+          "More massive main-sequence stars are more luminous"
+        ]
+      ]
+    },
+    {
+      "id": "ch18-q010",
+      "type": "mc",
+      "text": "A cool, low-mass, faint, and very common main-sequence star is called a:",
+      "answer": "red dwarf",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "supergiant",
+        "red dwarf",
+        "white dwarf",
+        "blue giant"
+      ]
+    },
+    {
+      "id": "ch19-q001",
+      "type": "mc",
+      "text": "The distance method that uses Earth's orbital motion to measure a nearby star's apparent shift is:",
+      "answer": "parallax",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "radar ranging",
+        "parallax",
+        "spectroscopic parallax",
+        "the Tully-Fisher relation"
+      ]
+    },
+    {
+      "id": "ch19-q002",
+      "type": "mc",
+      "text": "A pulsating star whose period reveals its luminosity is a:",
+      "answer": "Cepheid variable",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "white dwarf",
+        "Cepheid variable",
+        "red dwarf",
+        "quasar"
+      ]
+    },
+    {
+      "id": "ch19-q003",
+      "type": "tf",
+      "text": "One parsec is about 3.26 light-years.",
+      "answer": "True",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-q004",
+      "type": "tf",
+      "text": "Parallax can be used to measure the distance to any star, no matter how far.",
+      "answer": "False",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-q005",
+      "type": "fitb",
+      "text": "An object of known luminosity used to measure distance is called a standard ______.",
+      "answer": "candle",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-q006",
+      "type": "fitb",
+      "text": "The pulsation ______ of a Cepheid reveals its luminosity.",
+      "answer": "period",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-q007",
+      "type": "sa",
+      "text": "Describe the steps you would take to find the distance to a newly discovered Cepheid variable.",
+      "answer": "First measure the period over which its brightness pulsates. Use the Cepheid period-luminosity relation to convert that period into the star's true luminosity. Finally, compare its luminosity to its observed apparent brightness, using the inverse-square law, to compute the distance.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-q008",
+      "type": "sa",
+      "text": "Explain what the cosmic distance ladder is and why multiple methods are needed.",
+      "answer": "The cosmic distance ladder is the sequence of distance-measuring techniques, each calibrated using the method below it, that astronomers use to reach progressively greater distances. Multiple methods are needed because no single technique works at all scales: parallax serves nearby stars, Cepheids and other standard candles reach nearby galaxies, and Type Ia supernovae extend to very distant ones.",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch19-q009",
+      "type": "match",
+      "text": "Match each distance method to the situation it suits best.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "pairs": [
+        [
+          "Radar ranging",
+          "A nearby solar-system body"
+        ],
+        [
+          "Parallax",
+          "A star within a few hundred light-years"
+        ],
+        [
+          "Cepheid variables",
+          "A nearby galaxy with pulsating stars"
+        ],
+        [
+          "Spectroscopic parallax",
+          "A non-variable star with a clear spectrum"
+        ]
+      ]
+    },
+    {
+      "id": "ch19-q010",
+      "type": "mc",
+      "text": "Apparent brightness decreases with the square of the distance; this is the:",
+      "answer": "inverse-square law",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "period-luminosity relation",
+        "inverse-square law",
+        "Doppler effect",
+        "mass-luminosity relation"
+      ]
     }
   ],
   "notes": [
+    {
+      "id": "ch19-note001",
+      "title": "Ch. 19 — Celestial Distances",
+      "body": "# Celestial Distances\n\n## The distance ladder (overlapping methods)\n- **Radar ranging:** nearby solar-system bodies (time a reflected signal).\n- **Parallax:** nearby stars — Earth's orbit = 1-AU baseline; half the annual shift = parallax angle; trig -> distance.\n  - **Parsec:** distance for 1 arcsecond of parallax ≈ 3.26 ly.\n  - Limit: tiny shifts become unmeasurable -> only relatively near stars.\n- **Standard candles:** objects of known luminosity; compare to apparent brightness (inverse-square law) -> distance.\n  - **Cepheids:** period -> luminosity (**period-luminosity relation**); reach nearby galaxies.\n  - **RR Lyrae:** standard candles in old populations.\n- **Spectroscopic parallax:** spectral type + luminosity class -> luminosity -> distance.\n- **Type Ia supernovae:** very luminous standard candles for the most distant galaxies.\n\n## Why a \"ladder\"?\n- Each method is calibrated by the one below it; no single tool spans all distances.\n\n## ★ KEY EXAM POINTS\n- ★ Parallax: 1-AU baseline; **1 parsec = 3.26 ly**; only works nearby.\n- ★ Standard candle = known luminosity -> distance via inverse-square law.\n- ★ Cepheids: **period -> luminosity** (period-luminosity relation).\n- ★ Method by target: radar (solar system), parallax (near stars), Cepheids (near galaxies), Type Ia SNe (far).\n",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch18-note001",
+      "title": "Ch. 18 — The Stars: A Celestial Census",
+      "body": "# The Stars: A Celestial Census\n\n## The H-R diagram (the key tool)\n- Axes: **luminosity** (up) vs **surface temperature** (increasing LEFT).\n- **Main sequence:** diagonal band, hydrogen fusion — where most stars live (incl. Sun).\n- **Giants/supergiants:** upper region (luminous).\n- **White dwarfs:** lower left (hot but faint, small remnants).\n- **Luminosity class** (I supergiant -> V dwarf) read from the spectrum.\n\n## Measuring masses: binary stars\n- Half of stars are in pairs orbiting a **center of mass**.\n- **Visual** (resolved), **spectroscopic** (Doppler shifts), **eclipsing** (brightness dips).\n- Binaries give **masses**; eclipsing binaries also give **radii** and temperatures.\n\n## Patterns\n- **Mass-luminosity relation:** more massive main-sequence stars are far more luminous.\n- Up the main sequence (toward upper-left): more mass, more luminosity, hotter, larger.\n- Typical galactic star = a **red dwarf** (small, cool, faint, most common).\n\n## Ranges\n- Mass ~0.08 to 100+ Msun; luminosity ~10⁻⁴ to 10⁶ Lsun; temp ~2,000 to ~50,000 K; size white-dwarf (Earth-size) to supergiant (~1000× Sun).\n\n## ★ KEY EXAM POINTS\n- ★ H-R diagram: luminosity vs temperature; main sequence = H fusion.\n- ★ White dwarfs = lower-left (hot, faint); supergiants = top.\n- ★ **Binaries give masses**; eclipsing binaries also give sizes.\n- ★ Mass-luminosity: massive = much more luminous.\n- ★ Most common star = red dwarf.\n",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch17-note001",
+      "title": "Ch. 17 — Analyzing Starlight",
+      "body": "# Analyzing Starlight\n\n## Brightness vs luminosity\n- **Luminosity:** true energy output per second (intrinsic).\n- **Apparent brightness:** how bright it looks here — depends on luminosity AND distance (falls as 1/distance²).\n- **Magnitudes:** smaller/negative = brighter (backwards scale). **Absolute magnitude** = brightness at 10 pc (a luminosity measure).\n\n## Color = temperature\n- Stars radiate ~blackbody -> peak wavelength sets color (Wien's law). Blue = hot, red = cool.\n- **Color index** (brightness in two filters) gauges temperature.\n\n## Spectral classification\n- **O B A F G K M** = hottest -> coolest (\"Oh Be A Fine Guy/Girl, Kiss Me\").\n- Cooler extensions: L, T, Y (brown dwarfs).\n\n## Why spectra differ\n- Mainly **temperature**, not composition: temperature controls ionization/excitation -> which lines appear.\n- Stars are mostly H and He (Payne-Gaposchkin's insight).\n\n## Motion from spectra\n- **Doppler shift** of lines -> **radial velocity** (blueshift = approaching, redshift = receding).\n- Line broadening -> rotation; Zeeman splitting -> magnetic field.\n\n## ★ KEY EXAM POINTS\n- ★ Apparent brightness = luminosity + distance (1/d²).\n- ★ Magnitudes: smaller/negative = brighter.\n- ★ OBAFGKM = hot -> cool; color reveals temperature.\n- ★ Spectra differ mainly by **temperature**; stars are mostly H/He.\n- ★ Doppler: blueshift = toward, redshift = away.\n",
+      "image": null,
+      "module": "week-5",
+      "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
     {
       "id": "ch12-note001",
       "title": "Ch. 12 — Rings, Moons, and Pluto",
