@@ -116,6 +116,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch29-g013",
+      "term": "accelerating universe",
+      "def": "The discovery that cosmic expansion is speeding up over time, attributed to dark energy.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch14-g003",
       "term": "accretion",
       "def": "The growth of a body as smaller particles and planetesimals collide and stick together under gravity.",
@@ -158,6 +167,15 @@
       "image": null,
       "module": "week-3",
       "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-g012",
+      "term": "anthropic principle",
+      "def": "The idea that the universe's properties must be compatible with the existence of observers.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -311,6 +329,15 @@
       "image": null,
       "module": "week-1",
       "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-g005",
+      "term": "Big Bang nucleosynthesis",
+      "def": "The production of light elements (mainly helium) in the first few minutes of the universe.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -602,6 +629,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch29-g002",
+      "term": "cosmic microwave background (CMB)",
+      "def": "The faint, uniform radiation left over from the hot early universe, a key Big Bang prediction.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-g011",
+      "term": "cosmological redshift",
+      "def": "The stretching of light's wavelength as it travels through expanding space.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch1-g002",
       "term": "cosmology",
       "def": "The branch of astronomy concerned with the origin, large-scale structure, and evolution of the universe as a whole.",
@@ -635,6 +680,33 @@
       "image": null,
       "module": "week-3",
       "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-g010",
+      "term": "dark energy",
+      "def": "The mysterious energy driving the accelerating expansion of the universe.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-g009",
+      "term": "dark matter",
+      "def": "Unseen mass inferred from its gravitational effects on galaxies and clusters.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-g007",
+      "term": "dark matter halo",
+      "def": "The vast, unseen mass surrounding the Galaxy, inferred from its rotation.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -716,6 +788,15 @@
       "image": null,
       "module": "week-3",
       "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-g012",
+      "term": "dwarf elliptical",
+      "def": "A small, faint elliptical galaxy; the most common type of galaxy.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -818,6 +899,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch26-g002",
+      "term": "elliptical galaxy",
+      "def": "A smooth, rounded galaxy of mostly old stars with little gas or star formation.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch5-g008",
       "term": "emission line spectrum",
       "def": "A spectrum of bright lines at specific wavelengths, produced by a hot, thin (low-density) gas.",
@@ -908,6 +998,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch26-g013",
+      "term": "expansion of the universe",
+      "def": "The stretching of space itself, which increases the distances between galaxies over time.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-g007",
+      "term": "flatness problem",
+      "def": "The puzzle of why the universe's geometry is so nearly flat, explained by inflation.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch6-g007",
       "term": "focal length",
       "def": "The distance from a lens or mirror to the point where it brings parallel light to a focus.",
@@ -950,6 +1058,42 @@
       "image": null,
       "module": "week-4",
       "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-g002",
+      "term": "galactic bulge",
+      "def": "The dense, roughly spherical concentration of mostly older stars at the center of the Galaxy.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-g011",
+      "term": "galactic center",
+      "def": "The nucleus of the Milky Way, home to Sagittarius A*.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-g001",
+      "term": "galactic disk",
+      "def": "The flat, rotating component of the Milky Way containing the spiral arms, gas, dust, and young stars.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-g003",
+      "term": "galactic halo",
+      "def": "The extended spherical region around the Galaxy containing old stars and globular clusters.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1196,12 +1340,48 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch29-g008",
+      "term": "horizon problem",
+      "def": "The puzzle of why widely separated regions have the same temperature, explained by inflation.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch14-g014",
       "term": "hot Jupiter",
       "def": "A giant exoplanet orbiting very close to its star, a common type with no counterpart in our solar system.",
       "image": null,
       "module": "week-3",
       "chapter": "Ch14",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-g005",
+      "term": "Hubble constant",
+      "def": "The proportionality constant in Hubble's law, relating recession speed to distance.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-g003",
+      "term": "Hubble time",
+      "def": "The inverse of the Hubble constant, an estimate of the age of the universe.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-g004",
+      "term": "Hubble's law",
+      "def": "The relation that a galaxy's recession speed is proportional to its distance (v = H0 x d).",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1238,6 +1418,15 @@
       "image": null,
       "module": "week-3",
       "chapter": "Ch9",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-g006",
+      "term": "inflation",
+      "def": "A brief epoch of extremely rapid expansion in the very early universe.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1301,6 +1490,15 @@
       "image": null,
       "module": "week-5",
       "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-g003",
+      "term": "irregular galaxy",
+      "def": "A galaxy lacking a regular shape, often gas-rich with active star formation.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1409,6 +1607,15 @@
       "image": null,
       "module": "week-1",
       "chapter": "Ch1",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-g011",
+      "term": "Local Group",
+      "def": "The small cluster of galaxies that includes the Milky Way and Andromeda.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1544,6 +1751,15 @@
       "image": null,
       "module": "week-5",
       "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-g008",
+      "term": "mass-to-light ratio",
+      "def": "A galaxy's total mass divided by its light output; high values indicate much dark matter.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1925,6 +2141,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch25-g009",
+      "term": "Population I stars",
+      "def": "Younger, metal-rich stars on near-circular orbits in the disk (like the Sun).",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-g010",
+      "term": "Population II stars",
+      "def": "Older, metal-poor stars on random orbits in the halo and bulge.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch2-g013",
       "term": "precession",
       "def": "The slow (~26,000-year) conical wobble of Earth's rotation axis, which gradually changes which star marks the celestial pole.",
@@ -2042,6 +2276,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch26-g007",
+      "term": "recession velocity",
+      "def": "The speed at which a galaxy moves away from us due to the expansion of the universe.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-g004",
+      "term": "recombination",
+      "def": "The era about 380,000 years after the Big Bang when electrons joined nuclei to form neutral atoms, releasing the CMB.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch18-g011",
       "term": "red dwarf",
       "def": "A cool, low-mass, faint main-sequence star; the most common type of star in the Galaxy.",
@@ -2057,6 +2309,15 @@
       "image": null,
       "module": "week-6",
       "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-g006",
+      "term": "redshift",
+      "def": "The shift of a galaxy's light to longer wavelengths as space expands, indicating recession.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -2141,6 +2402,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch25-g008",
+      "term": "rotation curve",
+      "def": "A graph of orbital speed versus distance from the center, whose flatness reveals dark matter.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch19-g006",
       "term": "RR Lyrae variable",
       "def": "A type of pulsating standard-candle star common in old stellar populations, used for distances.",
@@ -2156,6 +2426,15 @@
       "image": null,
       "module": "week-3",
       "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-g005",
+      "term": "Sagittarius A*",
+      "def": "The compact radio source at the Galaxy's center, marking its supermassive black hole.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -2447,6 +2726,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch25-g004",
+      "term": "spiral arms",
+      "def": "Bright lanes in the galactic disk where gas is compressed and star formation is concentrated.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-g001",
+      "term": "spiral galaxy",
+      "def": "A galaxy with a flattened disk, spiral arms, gas and dust, and ongoing star formation.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch19-g004",
       "term": "standard candle",
       "def": "An object whose true luminosity is known, so its distance can be found from its apparent brightness.",
@@ -2516,6 +2813,15 @@
       "image": null,
       "module": "week-4",
       "chapter": "Ch15",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-g006",
+      "term": "supermassive black hole",
+      "def": "A black hole of millions to billions of solar masses found at the center of a galaxy.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -2642,6 +2948,15 @@
       "image": null,
       "module": "week-3",
       "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-g009",
+      "term": "Tully-Fisher relation",
+      "def": "A relation linking a spiral galaxy's rotation speed to its luminosity, used for distances.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -4543,6 +4858,204 @@
       "image": null,
       "module": "week-6",
       "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-f001",
+      "front": "Why do we see the Milky Way as a band across the sky?",
+      "back": "We are inside its flat disk, so looking along the disk we see the merged light of countless distant stars as a hazy band.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-f002",
+      "front": "Where are globular clusters, molecular clouds, and atomic hydrogen found in a spiral galaxy?",
+      "back": "Globular clusters in the halo; molecular clouds and atomic hydrogen in the disk, concentrated in the spiral arms.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-f003",
+      "front": "How do Population I and II stars differ?",
+      "back": "Pop I are young, metal-rich disk stars on circular orbits; Pop II are old, metal-poor halo/bulge stars on random orbits.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-f004",
+      "front": "What are the main components of the Milky Way?",
+      "back": "A disk with spiral arms, a central bulge, a spherical halo with globular clusters, a dark-matter halo, and a central black hole.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-f005",
+      "front": "What is the evidence for a black hole at the Galaxy's center?",
+      "back": "Stars near the center orbit an unseen, compact object at high speed, implying about 4 million solar masses in a tiny region (Sagittarius A*).",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-f006",
+      "front": "What is the long-term future of the Milky Way?",
+      "back": "Continued (slowing) star formation, followed by a collision and merger with the Andromeda galaxy in a few billion years.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-f001",
+      "front": "Describe the three main galaxy types.",
+      "back": "Spirals (disk, arms, gas, star formation), ellipticals (rounded, old stars, little gas), and irregulars (no regular shape, often gas-rich and star-forming).",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-f002",
+      "front": "Why did it take so long to confirm other galaxies exist?",
+      "back": "They look like faint fuzzy nebulae; only Cepheid measurements in Andromeda (1920s) proved their distances lie far beyond the Milky Way.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-f003",
+      "front": "What is Hubble's law?",
+      "back": "A galaxy's recession velocity is proportional to its distance (v = H0 times d), the key evidence for an expanding universe.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-f004",
+      "front": "What does it mean that the universe is expanding?",
+      "back": "Space itself stretches, increasing distances between unbound galaxies; bound systems like the solar system and your room do not expand.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-f005",
+      "front": "Why is a spiral's disk dark when seen edge-on?",
+      "back": "Dust in the disk plane absorbs and blocks the light of stars behind it.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-f006",
+      "front": "What causes the highest mass-to-light ratios?",
+      "back": "Dark matter, which adds mass but emits no light.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-f007",
+      "front": "Two ways to measure distance to a distant spiral galaxy?",
+      "back": "Type Ia supernovae (luminous standard candles) and the Tully-Fisher relation.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-f008",
+      "front": "If all galaxies recede from us, are we at the center of the universe?",
+      "back": "No; in a uniform expansion every observer sees all others receding, so there is no center.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-f001",
+      "front": "What key observations must any cosmology explain?",
+      "back": "The expansion of the universe, the cosmic microwave background, the light-element abundances, and the large-scale uniformity and structure.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-f002",
+      "front": "What determines the future of the universe, and what is observed?",
+      "back": "Its total density and energy content (including dark energy); observations show the expansion is accelerating, so it will expand forever.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-f003",
+      "front": "Which formed first: hydrogen nuclei or hydrogen atoms?",
+      "back": "Nuclei formed first (in the first minutes); neutral atoms formed about 380,000 years later at recombination.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-f004",
+      "front": "What two observations strongly support the Big Bang?",
+      "back": "The cosmic microwave background radiation and the observed primordial abundances of light elements like helium.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-f005",
+      "front": "What two problems does inflation solve?",
+      "back": "The flatness problem and the horizon problem.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-f006",
+      "front": "Why do astronomers believe in dark matter, and what is dark energy?",
+      "back": "Galaxies rotate and clusters hold together with far more gravity than visible matter provides (dark matter); dark energy is the energy driving accelerating expansion.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-f007",
+      "front": "Why does all distant galaxy light show a redshift?",
+      "back": "Space itself expands and stretches the light's wavelength (cosmological redshift) as it travels.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-f008",
+      "front": "What is the evidence that cosmic expansion is accelerating?",
+      "back": "Distant Type Ia supernovae appear fainter (farther) than expected for a decelerating universe.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     }
   ],
@@ -10586,9 +11099,416 @@
         "3 solar masses",
         "100 solar masses"
       ]
+    },
+    {
+      "id": "ch25-q001",
+      "type": "mc",
+      "text": "We see the Milky Way as a band of light because:",
+      "answer": "we are inside its flat disk",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "it is a nearby star cloud",
+        "we are inside its flat disk",
+        "it orbits the Sun",
+        "of light pollution"
+      ]
+    },
+    {
+      "id": "ch25-q002",
+      "type": "mc",
+      "text": "Globular clusters in the Milky Way are found mainly in the:",
+      "answer": "halo",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "disk",
+        "spiral arms",
+        "halo",
+        "nucleus only"
+      ]
+    },
+    {
+      "id": "ch25-q003",
+      "type": "tf",
+      "text": "Population II stars are old and metal-poor, found in the halo and bulge.",
+      "answer": "True",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-q004",
+      "type": "tf",
+      "text": "The Milky Way will remain isolated and never interact with other galaxies.",
+      "answer": "False",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-q005",
+      "type": "fitb",
+      "text": "The compact radio source marking the black hole at the Galaxy's center is Sagittarius ______.",
+      "answer": "A*",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-q006",
+      "type": "fitb",
+      "text": "Young, metal-rich disk stars like the Sun are called Population ______ stars.",
+      "answer": "I",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-q007",
+      "type": "sa",
+      "text": "Describe the evidence that a supermassive black hole lies at the center of the Milky Way.",
+      "answer": "Astronomers have tracked individual stars near the galactic center as they orbit an invisible object at very high speeds. The shapes and speeds of those orbits reveal about four million solar masses packed into a region smaller than our solar system, which can only be a supermassive black hole, identified with the radio source Sagittarius A*.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-q008",
+      "type": "sa",
+      "text": "Explain why heavy-element abundance in stars correlates with their location in the Galaxy.",
+      "answer": "Each generation of stars enriches the surrounding gas with heavy elements as it dies. The disk has undergone continued star formation that steadily raised its metal content, while the halo formed early, before much enrichment, so its stars are metal-poor. As a result, metal-rich stars are found in the disk and metal-poor stars in the halo.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-q009",
+      "type": "match",
+      "text": "Match each Galaxy component to its description.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "pairs": [
+        [
+          "Disk",
+          "Flat, rotating, with spiral arms and young stars"
+        ],
+        [
+          "Bulge",
+          "Central concentration of older stars"
+        ],
+        [
+          "Halo",
+          "Spherical region with globular clusters"
+        ],
+        [
+          "Sagittarius A*",
+          "The central supermassive black hole"
+        ]
+      ]
+    },
+    {
+      "id": "ch25-q010",
+      "type": "mc",
+      "text": "Molecular clouds and active star formation in the Milky Way are concentrated in the:",
+      "answer": "spiral arms of the disk",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "halo",
+        "spiral arms of the disk",
+        "globular clusters",
+        "dark-matter halo"
+      ]
+    },
+    {
+      "id": "ch26-q001",
+      "type": "mc",
+      "text": "A galaxy with a flattened disk, spiral arms, and active star formation is a(n):",
+      "answer": "spiral galaxy",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "elliptical galaxy",
+        "spiral galaxy",
+        "irregular galaxy",
+        "dwarf galaxy"
+      ]
+    },
+    {
+      "id": "ch26-q002",
+      "type": "mc",
+      "text": "Hubble's law states that a galaxy's recession speed is proportional to its:",
+      "answer": "distance",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "mass",
+        "temperature",
+        "distance",
+        "brightness"
+      ]
+    },
+    {
+      "id": "ch26-q003",
+      "type": "tf",
+      "text": "The expansion of the universe stretches space itself, so unbound galaxies grow farther apart.",
+      "answer": "True",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-q004",
+      "type": "tf",
+      "text": "Your classroom and the solar system are expanding along with the universe.",
+      "answer": "False",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-q005",
+      "type": "fitb",
+      "text": "The relation v = H0 x d is known as ______'s law.",
+      "answer": "Hubble",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-q006",
+      "type": "fitb",
+      "text": "The most common type of galaxy is the dwarf ______.",
+      "answer": "elliptical",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-q007",
+      "type": "sa",
+      "text": "Explain what it means to say the universe is expanding, and why the solar system is not expanding.",
+      "answer": "Cosmic expansion means that space itself is stretching, so the distances between galaxies and clusters not bound together grow over time. The solar system and smaller systems are not expanding because they are held together by gravity (and, on small scales, electromagnetic forces) that easily overcome the expansion; only on the largest scales, between unbound systems, does expansion dominate.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-q008",
+      "type": "sa",
+      "text": "How would you measure the distance to (a) a nearby spiral galaxy and (b) a very distant one?",
+      "answer": "For a nearby spiral, Cepheid variable stars (via the period-luminosity relation) and the Tully-Fisher relation work well. For a very distant spiral, Cepheids are too faint to resolve, so astronomers use Type Ia supernovae, which are extremely luminous standard candles visible across great distances, along with the Tully-Fisher relation.",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-q009",
+      "type": "match",
+      "text": "Match each item to its description.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "pairs": [
+        [
+          "Spiral galaxy",
+          "Disk with arms and star formation"
+        ],
+        [
+          "Elliptical galaxy",
+          "Rounded, old stars, little gas"
+        ],
+        [
+          "Hubble's law",
+          "Recession speed proportional to distance"
+        ],
+        [
+          "Dark matter",
+          "Cause of the highest mass-to-light ratios"
+        ]
+      ]
+    },
+    {
+      "id": "ch26-q010",
+      "type": "mc",
+      "text": "The disk of a spiral galaxy looks dark when viewed edge-on because of:",
+      "answer": "dust in the disk plane",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "black holes",
+        "dust in the disk plane",
+        "lack of stars",
+        "redshift"
+      ]
+    },
+    {
+      "id": "ch29-q001",
+      "type": "mc",
+      "text": "The leftover radiation from the hot early universe is the:",
+      "answer": "cosmic microwave background",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "solar wind",
+        "cosmic microwave background",
+        "gamma-ray background",
+        "aurora"
+      ]
+    },
+    {
+      "id": "ch29-q002",
+      "type": "mc",
+      "text": "Which formed first in the early universe?",
+      "answer": "hydrogen nuclei",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "hydrogen atoms",
+        "hydrogen nuclei",
+        "stars",
+        "galaxies"
+      ]
+    },
+    {
+      "id": "ch29-q003",
+      "type": "tf",
+      "text": "Inflation helps explain why the universe is so nearly flat and so uniform in temperature.",
+      "answer": "True",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-q004",
+      "type": "tf",
+      "text": "Dark energy is the unseen mass that holds galaxies together.",
+      "answer": "False",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-q005",
+      "type": "fitb",
+      "text": "The leftover radiation from the early universe is the cosmic microwave ______.",
+      "answer": "background",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-q006",
+      "type": "fitb",
+      "text": "The energy driving the accelerating expansion of the universe is dark ______.",
+      "answer": "energy",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-q007",
+      "type": "sa",
+      "text": "Explain how the Big Bang model accounts for the large amount of helium in the universe.",
+      "answer": "In the first few minutes after the Big Bang, the universe was hot and dense enough for nuclear reactions (Big Bang nucleosynthesis) to fuse protons and neutrons into helium, converting about a quarter of the matter into helium before any stars existed. This primordial helium explains the abundance that stellar fusion alone could not have produced in the age of the universe.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-q008",
+      "type": "sa",
+      "text": "What are the flatness and horizon problems, and how does inflation resolve them?",
+      "answer": "The flatness problem is the puzzle of why the universe's geometry is so close to flat, and the horizon problem is why regions too far apart to have ever exchanged light have the same temperature. Inflation, a brief burst of exponential expansion in the early universe, resolves both by stretching any initial curvature flat and by placing now-distant regions in causal contact before inflation drove them apart.",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch29-q010",
+      "type": "mc",
+      "text": "Evidence that the expansion of the universe is accelerating comes from observations of distant:",
+      "answer": "Type Ia supernovae",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "pulsars",
+        "Type Ia supernovae",
+        "quasars",
+        "Cepheids"
+      ]
     }
   ],
   "notes": [
+    {
+      "id": "ch29-note001",
+      "title": "Ch. 29 — The Big Bang",
+      "body": "# The Big Bang\n\n## What cosmology must explain\n- The **expansion** (Hubble's law), the **cosmic microwave background**, the **light-element abundances**, and large-scale **uniformity + structure**.\n\n## Timeline highlights\n- Hot, dense start ~**13.8 billion years** ago.\n- First minutes: **Big Bang nucleosynthesis** -> ~25% helium (nuclei form).\n- ~**380,000 yr**: **recombination** -> neutral atoms form -> releases the **CMB**.\n- (So **nuclei form before atoms**.)\n\n## Key successes\n- Predicts the **CMB** and the primordial **helium** abundance.\n\n## Beyond the basic model\n- **Inflation** (brief rapid early expansion) solves the **flatness** and **horizon** problems.\n- **Dark matter:** unseen mass (galaxy rotation, cluster gravity).\n- **Dark energy:** drives the **accelerating** expansion (from distant **Type Ia supernovae**).\n- **Cosmological redshift:** expanding space stretches light -> all distant galaxies redshifted.\n- **Anthropic principle:** the universe's properties are compatible with observers existing.\n\n## ★ KEY EXAM POINTS\n- ★ Big Bang evidence: expansion + **CMB** + light-element (helium) abundances.\n- ★ **Nuclei form first**, atoms at recombination (~380,000 yr) -> CMB.\n- ★ Inflation solves **flatness** + **horizon** problems.\n- ★ Dark matter = unseen mass; dark energy = accelerating expansion (Type Ia SNe).\n",
+      "image": null,
+      "module": "week-8",
+      "chapter": "Ch29",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch26-note001",
+      "title": "Ch. 26 — Galaxies",
+      "body": "# Galaxies\n\n## Galaxy types\n- **Spiral:** disk + arms + gas/dust + star formation.\n- **Elliptical:** rounded, old stars, little gas; stars on random orbits (no ordered rotation).\n- **Irregular:** no regular shape, often gas-rich and star-forming.\n- **Dwarf ellipticals** are the most common (but faint, so long overlooked).\n\n## Discovering other galaxies\n- Looked like fuzzy 'nebulae'; **Hubble's Cepheids in Andromeda (1920s)** proved they're far outside the Milky Way (Hubble's first distance was too small).\n\n## Hubble's law -> expansion\n- **v = H0 x d:** recession speed ∝ distance -> the universe is **expanding** (space stretches).\n- Bound systems (your room, solar system, galaxies themselves) do NOT expand.\n- All observers see all galaxies receding -> **no center**.\n\n## Measuring galaxies\n- **Mass-to-light ratio:** high in ellipticals / dark-matter-dominated systems; low in star-forming spirals.\n- **Distances:** Cepheids + Tully-Fisher (near); **Type Ia supernovae** + Tully-Fisher (far).\n- Edge-on disk looks dark due to **dust**.\n\n## ★ KEY EXAM POINTS\n- ★ Spiral / elliptical / irregular; dwarf ellipticals most common.\n- ★ **Hubble's law (v = H0 d)** -> expanding universe; space stretches, bound systems don't.\n- ★ No center to the expansion.\n- ★ Highest mass-to-light ratio -> **dark matter**.\n",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch26",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch25-note001",
+      "title": "Ch. 25 — The Milky Way Galaxy",
+      "body": "# The Milky Way Galaxy\n\n## Why a band across the sky\n- We sit **inside the flat disk**, so looking along it we see countless stars merged into a hazy band.\n\n## Structure\n- **Disk** (spiral arms, gas/dust, young Pop I stars) + **bulge** (old stars) + **halo** (globular clusters, old Pop II stars).\n- Embedded in a huge **dark-matter halo** (inferred from the flat **rotation curve**).\n- **Nucleus:** supermassive black hole, **Sagittarius A*** (~4 million Msun).\n\n## Where things live\n- Globular clusters -> **halo**; molecular clouds + atomic H -> **disk/spiral arms**.\n\n## Populations\n- **Pop I:** young, metal-rich, disk, circular orbits (Sun).\n- **Pop II:** old, metal-poor, halo/bulge, random orbits.\n- Metallicity correlates with location (disk enriched over time; halo formed early).\n\n## Future\n- Star formation slows; **collision/merger with Andromeda** in a few billion years.\n\n## ★ KEY EXAM POINTS\n- ★ We see a band because we're inside the disk.\n- ★ Globulars/old Pop II -> halo; young Pop I + star formation -> disk/arms.\n- ★ Center: **Sagittarius A***, ~4 million Msun black hole (from stellar orbits).\n- ★ Flat rotation curve -> dark matter.\n",
+      "image": null,
+      "module": "week-7",
+      "chapter": "Ch25",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
     {
       "id": "ch24-note001",
       "title": "Ch. 24 — Black Holes and Curved Spacetime",
