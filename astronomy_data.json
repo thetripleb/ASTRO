@@ -341,6 +341,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch3-ppt-g010",
+      "term": "Average Density (Planetary)",
+      "def": "A planet's mass divided by its volume (rho = M/V). Mass is found from Kepler's modified third law using a satellite's orbit, and volume is found from the planet's measured radius. Average density is a key clue to a planet's interior composition and structure.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
       "id": "ch4-g006",
       "term": "axial tilt",
       "def": "The 23.5 deg angle between Earth's rotation axis and the perpendicular to its orbital plane; the cause of the seasons.",
@@ -422,6 +431,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch3-ppt-g001",
+      "term": "Bode's Law (Titius–Bode Rule)",
+      "def": "An empirical pattern for the spacing of the planets, first noted in 1766 and formalized by J. E. Bode in 1778. Each successive distance is found by taking the sequence 0, 3, 6, 12, 24, ... adding 4, and dividing by 10, giving distances in AU. It fits the solar system reasonably well out to Uranus but breaks down for Neptune/Pluto and does not reliably apply to exoplanetary systems.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
       "id": "ch17-g012",
       "term": "brown dwarf",
       "def": "A substellar object too low in mass to sustain hydrogen fusion in its core.",
@@ -438,6 +456,15 @@
       "module": "week-3",
       "chapter": "Ch12",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-ppt-g004",
+      "term": "Cavendish Experiment",
+      "def": "The 1798 torsion-balance experiment by Henry Cavendish that first measured the gravitational constant G. The tiny twist of a suspended fiber, caused by the attraction between lead masses, allowed G to be determined despite gravity's extreme weakness between laboratory-sized objects.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
     },
     {
       "id": "ch6-g009",
@@ -807,6 +834,15 @@
       "module": "week-3",
       "chapter": "Ch7",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-ppt-g011",
+      "term": "Density Differentiation",
+      "def": "The separation of a body's materials by density, with denser matter sinking toward the center and lighter matter rising. It is one of the factors used, along with candidate material densities, compression effects, surface spectra, and equatorial-bulge analysis, to infer interior structure.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
     },
     {
       "id": "ch16-g007",
@@ -1241,6 +1277,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch3-ppt-g008",
+      "term": "Geostationary Orbit",
+      "def": "A special geosynchronous orbit that lies over the equator, so the satellite stays fixed above the same point on Earth's surface at all times.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
+      "id": "ch3-ppt-g007",
+      "term": "Geosynchronous Orbit",
+      "def": "An orbit at about 35,786 km altitude where a satellite completes one trip around Earth in exactly one day, matching Earth's rotation period.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
       "id": "ch18-g003",
       "term": "giant / supergiant",
       "def": "Large, very luminous evolved stars found in the upper region of the H-R diagram.",
@@ -1293,6 +1347,15 @@
       "module": "week-6",
       "chapter": "Ch21",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-ppt-g003",
+      "term": "Gravitational Constant (G)",
+      "def": "The universal proportionality constant in Newton's law of gravity, equal to about 6.67 x 10^-11 N·m^2/kg^2. Its small size reflects how weak gravity is between everyday masses, which is why it is difficult to measure.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
     },
     {
       "id": "ch16-g012",
@@ -1428,6 +1491,15 @@
       "module": "week-6",
       "chapter": "Ch21",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-ppt-g009",
+      "term": "High Earth Orbit",
+      "def": "An orbit at altitudes greater than about 35,786 km. Often used by satellites that study space itself, such as observers of the Sun and solar wind.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
     },
     {
       "id": "ch2-g008",
@@ -1736,6 +1808,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch3-ppt-g005",
+      "term": "Low Earth Orbit (LEO)",
+      "def": "An orbit at altitudes below about 2000 km. Used for observation satellites, the Hubble Space Telescope, and the International Space Station.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
       "id": "ch16-g009",
       "term": "luminosity",
       "def": "The total amount of energy a star radiates into space each second.",
@@ -1871,6 +1952,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch3-ppt-g006",
+      "term": "Medium Earth Orbit (MEO)",
+      "def": "An orbit between roughly 2000 km and 35,786 km altitude. Used for navigation, communication, and scientific satellites.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
       "id": "ch11-g004",
       "term": "metallic hydrogen",
       "def": "A form of hydrogen, found deep inside Jupiter and Saturn under crushing pressure, that conducts electricity like a metal.",
@@ -1959,6 +2049,15 @@
       "module": "week-3",
       "chapter": "Ch11",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-ppt-g012",
+      "term": "Net Force",
+      "def": "The single overall force resulting from combining all forces acting on an object. Newton's first law refers to this net force: only a nonzero net force changes an object's state of motion; balanced forces produce no change.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
     },
     {
       "id": "ch16-g004",
@@ -2490,6 +2589,15 @@
       "module": "week-2",
       "chapter": "Ch6",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-ppt-g013",
+      "term": "Reflection Spectrum",
+      "def": "The spectrum of sunlight reflected from a planet, which reveals the composition of its atmosphere and the nature of its surface rocks. It is a primary tool for determining planetary composition remotely.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
     },
     {
       "id": "ch6-g002",
@@ -3030,6 +3138,15 @@
       "module": "week-6",
       "chapter": "Ch23",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch3-ppt-g002",
+      "term": "Surface Gravity",
+      "def": "The gravitational acceleration a mass experiences at the surface of a celestial body. Derived by combining Newton's second law with the law of gravity, it is g = GM/R^2, where M and R are the body's mass and radius. It sets an object's weight at the surface, influences a body's shape, and helps determine whether the body can hold an atmosphere. For Earth, g = 9.8 m/s^2.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
     },
     {
       "id": "ch4-g010",
@@ -6038,6 +6155,114 @@
       "module": "mod-2",
       "chapter": "2",
       "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch3-ppt-f001",
+      "front": "How is a distance computed under Bode's Law?",
+      "back": "Take the sequence 0, 3, 6, 12, 24, ... (each term after 3 doubles), add 4 to the value, then divide by 10. The result is the predicted distance from the Sun in AU.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
+      "id": "ch3-ppt-f002",
+      "front": "Where does Bode's Law work well and where does it fail?",
+      "back": "It fits reasonably well from Mercury out to Uranus, but it breaks down for Neptune and Pluto and does not reliably apply to many exoplanetary systems.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
+      "id": "ch3-ppt-f003",
+      "front": "What is the formula for surface gravity, and what does it depend on?",
+      "back": "g = GM/R^2. It depends on the body's mass M and radius R: for a fixed radius, more mass means stronger surface gravity.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
+      "id": "ch3-ppt-f004",
+      "front": "What is Earth's surface gravity?",
+      "back": "About 9.8 m/s^2.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
+      "id": "ch3-ppt-f005",
+      "front": "What is the value of the gravitational constant G, and who measured it?",
+      "back": "About 6.67 x 10^-11 N·m^2/kg^2; Henry Cavendish measured it in 1798 using a torsion balance.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
+      "id": "ch3-ppt-f006",
+      "front": "Why is G hard to measure?",
+      "back": "Because gravity is extremely weak between laboratory-sized masses, so the attractive force to detect is tiny.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
+      "id": "ch3-ppt-f007",
+      "front": "What altitude marks a geosynchronous orbit, and what is special about it?",
+      "back": "About 35,786 km; a satellite there completes one orbit in exactly one day, matching Earth's rotation.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
+      "id": "ch3-ppt-f008",
+      "front": "How does a geostationary orbit differ from a geosynchronous one?",
+      "back": "A geostationary orbit is a geosynchronous orbit positioned over the equator, so the satellite stays above the same point on Earth at all times.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
+      "id": "ch3-ppt-f009",
+      "front": "Name the three altitude-based orbit classes and a use for each.",
+      "back": "Low Earth Orbit (<2000 km): ISS, Hubble, observation. Medium Earth Orbit (2000–35,786 km): navigation/communication/science. High Earth Orbit (>35,786 km): studying space, e.g., the Sun and solar wind.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
+      "id": "ch3-ppt-f010",
+      "front": "How do astronomers find a planet's average density?",
+      "back": "Divide mass by volume (rho = M/V): mass from Kepler's modified third law via a satellite's orbit, volume from the planet's measured radius.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
+      "id": "ch3-ppt-f011",
+      "front": "How is a large object's mass found from a smaller object's orbit?",
+      "back": "Using Kepler's modified third law, M = 4*pi^2*d^3 / (G*P^2), where d is the orbital distance and P the orbital period of the smaller body.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
+      "id": "ch3-ppt-f012",
+      "front": "What two methods reveal a planet's composition besides density?",
+      "back": "Its reflection spectrum (atmosphere and surface rocks) and, for Earth specifically, seismic activity for interior structure.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
     }
   ],
   "questions": [
@@ -13272,9 +13497,234 @@
           "right": "Recognizable star pattern like the Big Dipper"
         }
       ]
+    },
+    {
+      "id": "ch3-ppt-q001",
+      "type": "mc",
+      "text": "Under Bode's Law, the predicted distance for a planet is found by taking the sequence (0, 3, 6, 12, ...), then:",
+      "answer": "Adding 4 and dividing by 10",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)",
+      "options": [
+        "Multiplying by 4 and adding 10",
+        "Adding 4 and dividing by 10",
+        "Dividing by 4 and adding 10",
+        "Squaring and dividing by 4"
+      ]
+    },
+    {
+      "id": "ch3-ppt-q002",
+      "type": "tf",
+      "text": "Bode's Law applies reliably to most known exoplanetary systems.",
+      "answer": "False — it fits our solar system reasonably well out to Uranus but does not reliably apply to many exoplanetary systems.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
+      "id": "ch3-ppt-q003",
+      "type": "mc",
+      "text": "The formula for surface gravity is:",
+      "answer": "g = GM/R^2",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)",
+      "options": [
+        "g = GM/R",
+        "g = GM/R^2",
+        "g = GMm/R^2",
+        "g = 2GM/R"
+      ]
+    },
+    {
+      "id": "ch3-ppt-q004",
+      "type": "fitb",
+      "text": "Earth's surface gravity is about ______ m/s^2.",
+      "answer": "9.8",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
+      "id": "ch3-ppt-q005",
+      "type": "tf",
+      "text": "Two planets with the same radius but different masses will have the same surface gravity.",
+      "answer": "False — for equal radius, the planet with greater mass has the greater surface gravity (g = GM/R^2).",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
+      "id": "ch3-ppt-q006",
+      "type": "fitb",
+      "text": "Henry Cavendish first measured the gravitational constant G in the year ______.",
+      "answer": "1798",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
+      "id": "ch3-ppt-q007",
+      "type": "mc",
+      "text": "The approximate value of the gravitational constant G is:",
+      "answer": "6.67 x 10^-11 N·m^2/kg^2",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)",
+      "options": [
+        "9.8 m/s^2",
+        "6.67 x 10^-11 N·m^2/kg^2",
+        "3.0 x 10^8 m/s",
+        "1.0 x 10^-11 N·m^2/kg^2"
+      ]
+    },
+    {
+      "id": "ch3-ppt-q008",
+      "type": "mc",
+      "text": "At what approximate altitude does a satellite achieve a geosynchronous orbit?",
+      "answer": "35,786 km",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)",
+      "options": [
+        "2000 km",
+        "11 km",
+        "35,786 km",
+        "384,000 km"
+      ]
+    },
+    {
+      "id": "ch3-ppt-q009",
+      "type": "tf",
+      "text": "A geostationary orbit is a geosynchronous orbit located over the equator, keeping the satellite above the same point on Earth.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
+      "id": "ch3-ppt-q010",
+      "type": "fitb",
+      "text": "Orbits with altitudes below about 2000 km, used by the ISS and Hubble, are called ______ Earth orbit.",
+      "answer": "low",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
+      "id": "ch3-ppt-q011",
+      "type": "mc",
+      "text": "A planet's average density is calculated by:",
+      "answer": "Dividing its mass by its volume",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)",
+      "options": [
+        "Multiplying mass by volume",
+        "Dividing its mass by its volume",
+        "Dividing radius by mass",
+        "Multiplying G by mass"
+      ]
+    },
+    {
+      "id": "ch3-ppt-q012",
+      "type": "sa",
+      "text": "Explain how astronomers determine a planet's average density, naming the source of each quantity.",
+      "answer": "Average density is mass divided by volume (rho = M/V). The mass is found from Kepler's modified third law (M = 4*pi^2*d^3 / (G*P^2)) by observing the distance and period of a satellite orbiting the planet. The volume is found from the planet's measured radius (V = 4/3*pi*R^3), with the radius obtained from the planet's angular size and distance. Dividing the two gives the average density, a key clue to interior composition.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
+    {
+      "id": "ch3-ppt-q013",
+      "type": "match",
+      "text": "Match each Earth-orbit class to its defining altitude or feature.",
+      "answer": "LEO -> below ~2000 km; MEO -> ~2000 to 35,786 km; Geosynchronous -> one orbit per day; High Earth orbit -> above ~35,786 km",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)",
+      "pairs": [
+        [
+          "Low Earth Orbit",
+          "Below about 2000 km; ISS and Hubble"
+        ],
+        [
+          "Medium Earth Orbit",
+          "About 2000 to 35,786 km; navigation and communication"
+        ],
+        [
+          "Geosynchronous orbit",
+          "About 35,786 km; one orbit per day"
+        ],
+        [
+          "High Earth orbit",
+          "Above about 35,786 km; studies space such as the Sun"
+        ]
+      ]
+    },
+    {
+      "id": "ch3-ppt-q014",
+      "type": "match",
+      "text": "Match each gravity concept to its description.",
+      "answer": "Surface gravity -> g=GM/R^2; Gravitational constant -> 6.67e-11; Cavendish -> measured G in 1798; Net force -> overall combined force",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)",
+      "pairs": [
+        [
+          "Surface gravity",
+          "Acceleration at a body's surface, g = GM/R^2"
+        ],
+        [
+          "Gravitational constant (G)",
+          "About 6.67 x 10^-11 N·m^2/kg^2"
+        ],
+        [
+          "Cavendish experiment",
+          "Torsion-balance measurement of G in 1798"
+        ],
+        [
+          "Net force",
+          "The overall force left after combining all forces"
+        ]
+      ]
+    },
+    {
+      "id": "ch3-ppt-q015",
+      "type": "sa",
+      "text": "Why does surface gravity influence whether a celestial object can retain an atmosphere?",
+      "answer": "Surface gravity sets how strongly a body holds onto gas molecules. A body with higher mass (and thus higher surface gravity for a given radius) produces a higher escape velocity, making it harder for gas molecules to reach escape speed and drift away. Low-gravity bodies like the Moon let gas escape easily and end up with little or no atmosphere, while higher-gravity bodies like Earth retain one.",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
     }
   ],
   "notes": [
+    {
+      "id": "ch3-ppt-n001",
+      "title": "Ch. 3 Lecture — Gravity and Motion (slides: Bode's Law, surface gravity, satellites)",
+      "body": "# Ch. 3 Lecture — Gravity and Motion (lecture slides)\n\nNOTE: Supplements the OpenStax Ch. 3 note (Orbits and Gravity). This note emphasizes the lecture deck's added material — Bode's Law, surface gravity, the gravitational constant, satellite orbits, and how mass/density/composition are measured. Core Kepler/Newton/escape-velocity content lives in the book note.\n\n## Bode's Law (Titius–Bode Rule)\n- First noted 1766; formalized by J. E. Bode in 1778.\n- Rule: take 0, 3, 6, 12, 24, ... (double after 3), add 4, divide by 10 -> distance in AU.\n- Fits reasonably well Mercury -> Uranus; misses Neptune (predicts 38.8 vs true 30.1) and Pluto.\n- Does NOT reliably apply to many exoplanetary systems.\n\n## The Law of Gravity, refined\n- Every mass attracts every other mass: F_G = G(M*m)/d^2.\n- **G = 6.67 x 10^-11 N·m^2/kg^2** — measured by **Cavendish (1798)** with a torsion balance.\n- G is hard to measure because gravity between lab masses is extremely weak.\n\n## Surface gravity\n- From Newton's 2nd law + law of gravity: m*a = GMm/R^2  ->  **g = GM/R^2**.\n- **g(Earth) = 9.8 m/s^2.**\n- Same radius, more mass -> larger surface gravity.\n- Surface gravity sets weight, influences a body's shape, and affects atmosphere retention.\n\n## Measuring an object's mass from orbits\n- Kepler's modified 3rd law: **M = 4*pi^2*d^3 / (G*P^2)**.\n- Observe a small satellite's distance d and period P -> solve for the large body's mass M.\n\n## Measuring composition\n- **Reflection spectrum** -> atmospheric contents + surface rock type.\n- **Seismic activity** -> interior structure (only measured on Earth so far).\n- **Average density** = M / V:\n  - M from Kepler's modified 3rd law (satellite orbit).\n  - V = 4/3*pi*R^3 from measured radius (via angular size + distance).\n- Using density: compare candidate material densities, account for gravitational compression, surface spectra, density differentiation, and equatorial-bulge analysis.\n\n## Satellites and orbit types\n- A **stable orbit** needs the right separation and the correct velocity; too fast -> flung away, too slow -> falls in.\n- **Low Earth Orbit (LEO):** < ~2000 km — ISS, Hubble, observation sats.\n- **Medium Earth Orbit (MEO):** ~2000–35,786 km — navigation, communication, science.\n- **Geosynchronous:** ~35,786 km — one orbit per day.\n- **Geostationary:** geosynchronous AND over the equator — stays above one point.\n- **High Earth Orbit:** > ~35,786 km — studies space (Sun, solar wind).\n\n## ★ KEY EXAM POINTS\n- ★ Bode's Law: (sequence + 4) / 10 = distance in AU; fails past Uranus and for exoplanets.\n- ★ **g = GM/R^2**; g(Earth) = 9.8 m/s^2; more mass (same R) -> more surface gravity.\n- ★ **G = 6.67 x 10^-11**, measured by **Cavendish, 1798**.\n- ★ Mass from orbit: **M = 4*pi^2*d^3 / (G*P^2)**.\n- ★ Density = M/V -> clue to interior composition.\n- ★ Geosynchronous = 35,786 km / one day; geostationary = geosynchronous + over equator.\n",
+      "image": null,
+      "module": "mod-3",
+      "chapter": "3",
+      "source": "Astronomy lecture slides, Ch. 3: Gravity and Motion (McGraw-Hill Education)"
+    },
     {
       "id": "ch2-ba-n002",
       "title": "Chapter 2 (Part 2) - The Birth of Astronomy",
