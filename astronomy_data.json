@@ -170,6 +170,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch2-ba-g024",
+      "term": "Angular size",
+      "def": "The angle an object appears to span in the sky; combined with distance, it gives the object's true (linear) size.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
       "id": "ch29-g012",
       "term": "anthropic principle",
       "def": "The idea that the universe's properties must be compatible with the existence of observers.",
@@ -224,6 +233,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch2-ba-g014",
+      "term": "Asterism",
+      "def": "A subset of stars that forms a widely recognized shape, such as the Big Dipper or Orion's Belt.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
       "id": "ch13-g001",
       "term": "asteroid",
       "def": "A small, rocky or metallic body that orbits the Sun, most located in the asteroid belt between Mars and Jupiter.",
@@ -240,6 +258,15 @@
       "module": "week-3",
       "chapter": "Ch7",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-ba-g031",
+      "term": "Astrolabe",
+      "def": "An instrument developed by Islamic astronomers for measuring the positions of stars and planets.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
     },
     {
       "id": "v1-g002",
@@ -341,6 +368,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch2-ba-g016",
+      "term": "Betelgeuse",
+      "def": "The bright red star marking the armpit/shoulder of the constellation Orion.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
       "id": "ch1-g012",
       "term": "Big Bang",
       "def": "The event roughly 13.8 billion years ago from which the observable universe expanded; the beginning of space, time, matter, and energy as we know them.",
@@ -431,6 +467,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch2-ba-g007",
+      "term": "Celestial poles",
+      "def": "The two points where Earth's extended rotational axis intersects the celestial sphere (north and south celestial poles).",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
       "id": "ch2-g001",
       "term": "celestial sphere",
       "def": "An imaginary sphere surrounding Earth onto which the stars appear to be projected; a convenient model for describing positions in the sky.",
@@ -510,6 +555,15 @@
       "module": "week-4",
       "chapter": "Ch15",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-ba-g012",
+      "term": "Circumpolar stars",
+      "def": "Stars near a celestial pole that, for a given observer, never rise or set but circle the pole.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
     },
     {
       "id": "ch17-g007",
@@ -726,6 +780,15 @@
       "module": "week-7",
       "chapter": "Ch25",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-ba-g011",
+      "term": "Declination (Dec)",
+      "def": "A celestial coordinate analogous to latitude: the angle of an object above or below the celestial equator.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
     },
     {
       "id": "ch22-g006",
@@ -1997,6 +2060,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch2-ba-g022",
+      "term": "Occam's razor",
+      "def": "The principle that one should not make more assumptions than necessary ('entities should not be multiplied without necessity').",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
       "id": "ch10-g005",
       "term": "Olympus Mons",
       "def": "The largest known volcano in the solar system, located on Mars and about three times the height of Mount Everest.",
@@ -2202,6 +2274,15 @@
       "module": "week-3",
       "chapter": "Ch10",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-ba-g008",
+      "term": "Polaris",
+      "def": "The North Star, located very near the north celestial pole; nicknamed 'the fastener of the sky.'",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
     },
     {
       "id": "ch22-g013",
@@ -2465,6 +2546,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch2-ba-g017",
+      "term": "Rigel",
+      "def": "The bright blue star marking the foot of the constellation Orion.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-g010",
+      "term": "Right ascension (RA)",
+      "def": "A celestial coordinate analogous to longitude, measured east or west of the vernal equinox point.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
       "id": "ch12-g002",
       "term": "Roche limit",
       "def": "The distance within which a planet's tidal forces would tear apart a large moon, helping explain why rings lie close to planets.",
@@ -2562,6 +2661,15 @@
       "module": "week-1",
       "chapter": "Ch1",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-ba-g002",
+      "term": "Scientific model",
+      "def": "A representation used to enhance understanding of nature; it need not match physical reality exactly (the celestial sphere is one example).",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
     },
     {
       "id": "ch1-g014",
@@ -3084,6 +3192,15 @@
       "module": "week-3",
       "chapter": "Ch11",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-ba-g015",
+      "term": "Ursa Major",
+      "def": "The constellation known as the Great Bear; it contains the Big Dipper asterism.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
     },
     {
       "id": "ch10-g006",
@@ -5570,6 +5687,357 @@
       "module": "mod-1",
       "chapter": "2",
       "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch2-ba-f001",
+      "front": "What is the celestial sphere, and why is it useful?",
+      "back": "An imaginary sphere centered on Earth on which all stars appear equally distant. It's a model that's useful for mapping the sky, even though it doesn't match physical reality.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f002",
+      "front": "Horizon vs. zenith",
+      "back": "Horizon = where the sky meets the ground. Zenith = the point directly overhead.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f003",
+      "front": "In which directions do stars rise and set?",
+      "back": "They rise in the east and set in the west.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f004",
+      "front": "Why does the sky appear to turn each day?",
+      "back": "The celestial sphere stays still - Earth rotates. The apparent turning is an illusion caused by Earth's rotation.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f005",
+      "front": "What are the celestial poles, and what marks the north one?",
+      "back": "Points where Earth's extended axis meets the celestial sphere. Polaris (the North Star) sits very near the north celestial pole.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f006",
+      "front": "How does the altitude of the north celestial pole relate to your latitude?",
+      "back": "The pole's angle above the horizon equals the observer's latitude.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f007",
+      "front": "How does the sky's motion differ at the pole, equator, and mid-latitudes?",
+      "back": "At a pole: stars circle a fixed point and never rise/set. At the equator: stars rise straight up and set straight down. At mid-latitudes: stars rise/set at an angle; some are circumpolar.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f008",
+      "front": "Right ascension vs. declination",
+      "back": "RA is like longitude (east/west of the vernal equinox). Dec is like latitude (angle above/below the celestial equator).",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f009",
+      "front": "Modern definition of a constellation",
+      "back": "A defined patch (sector) of sky that carries a name - not just the set of stars. There are 88 official constellations (IAU, 1928); 48 are ancient.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f010",
+      "front": "Constellation vs. asterism",
+      "back": "A constellation is an official region of sky; an asterism is a recognizable star pattern within (or across) constellations, like the Big Dipper or Orion's Belt.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f011",
+      "front": "Name Orion's two famous stars.",
+      "back": "Betelgeuse (bright red, the armpit/shoulder) and Rigel (bright blue, the foot).",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f012",
+      "front": "Why do constellations look the same for thousands of years?",
+      "back": "Star positions change very slowly, so the patterns appear fixed over human timescales.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f014",
+      "front": "What is the zodiac?",
+      "back": "The belt of sky around the ecliptic, passing through ~12 constellations (plus Ophiuchus), through which the Sun, Moon, and planets travel.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f015",
+      "front": "Why are planets called 'planets'?",
+      "back": "It's Greek for 'wanderers' - unlike stars, they drift relative to the background stars.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f016",
+      "front": "What is retrograde motion, and is it real?",
+      "back": "The occasional apparent east-to-west drift of a planet against the stars. It's apparent only - caused by Earth and the planet passing each other, not a real reversal of orbit.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f017",
+      "front": "Why was retrograde motion historically important?",
+      "back": "Explaining it was a main reason astronomers ultimately rejected the Earth-centered model.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f018",
+      "front": "What did Eudoxus propose (~400-347 BC)?",
+      "back": "A geocentric model with each celestial object on its own revolving transparent sphere; faster-moving objects had smaller spheres.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f019",
+      "front": "How did Ptolemy explain retrograde motion?",
+      "back": "With epicycles - each planet moves on a small circle whose center moves on a larger circle around Earth. His model predicted motions with fair precision and was canon for centuries.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f020",
+      "front": "What is Occam's razor?",
+      "back": "Don't make more assumptions than necessary - 'entities should not be multiplied without necessity.' It helped topple the over-complicated geocentric models.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f021",
+      "front": "What did the Mayans contribute (~750 BC)?",
+      "back": "They tracked the skies and created the first almanacs - tables predicting the movements of the Sun, Moon, and planets.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f022",
+      "front": "What did Thales of Miletus do in 585 BC?",
+      "back": "He correctly predicted a solar eclipse.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f023",
+      "front": "What did Pythagoras teach (~500 BC)?",
+      "back": "That Earth is round, based on the belief that the sphere is the perfect shape.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f024",
+      "front": "What did the Babylonians devise (~400 BC)?",
+      "back": "The zodiac system, dividing the sky into 12 equal segments, improving how data was recorded and shared.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f025",
+      "front": "What three observations did Aristotle use for a round Earth?",
+      "back": "Earth's curved shadow on the Moon during a lunar eclipse; new stars appearing as you travel south; ships' hulls vanishing before their sail tops.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f026",
+      "front": "What did Aristarchus propose, and why was it rejected?",
+      "back": "A heliocentric model (Sun at center), after estimating the Sun's large size. It was rejected because no stellar parallax could be observed.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f027",
+      "front": "What did Eratosthenes measure (276-195 BC)?",
+      "back": "Earth's circumference - about 25,000 miles, close to the modern value - using shadow lengths at Alexandria vs. Syene on the summer solstice.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f028",
+      "front": "Name key Islamic contributions to astronomy.",
+      "back": "Preserving/expanding ancient texts, the astrolabe, much surviving vocabulary (zenith, Betelgeuse), questioning Ptolemy, and developing algebra and Arabic numerals.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f029",
+      "front": "What did Copernicus publish in 1543, and what did it argue?",
+      "back": "'On the Revolutions of the Heavenly Spheres,' presenting a heliocentric universe with Earth rotating on its axis; it explained retrograde motion as planets passing one another.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f030",
+      "front": "What were the limitations of Copernicus's model?",
+      "back": "It still used circular orbits, couldn't predict positions better than Ptolemy, couldn't explain the lack of stellar parallax, and clashed with Aristotelian 'common sense.'",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f031",
+      "front": "What was Tycho Brahe's main contribution?",
+      "back": "Extremely accurate naked-eye instruments and meticulous planetary data; he saw a supernova and comet (heavens are changeable) but, observing no parallax, proposed a compromise geocentric model.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f032",
+      "front": "How did Kepler improve the heliocentric model?",
+      "back": "Using Tycho's data, he showed planets orbit in ellipses (not circles) with the Sun at one focus, and formulated three laws of planetary motion.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f033",
+      "front": "State Kepler's three laws.",
+      "back": "1) Orbits are ellipses with the Sun at one focus. 2) A planet sweeps equal areas in equal times (faster when nearer the Sun). 3) Period squared is proportional to semimajor axis cubed.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f034",
+      "front": "What is eccentricity?",
+      "back": "A measure of how stretched an ellipse is; the closer to 1, the flatter (more elongated) the orbit.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f035",
+      "front": "What did Galileo observe with his telescope?",
+      "back": "Sunspots, lunar craters, four moons orbiting Jupiter, and that the Milky Way is countless stars - evidence against a simple Earth-centered universe.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f036",
+      "front": "Why were Jupiter's moons such an important discovery?",
+      "back": "They are objects that orbit something other than Earth, directly contradicting the geocentric model.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f037",
+      "front": "What happened to Galileo in 1633?",
+      "back": "The Roman Inquisition found him 'vehemently suspect of heresy' for supporting heliocentrism; he was kept under house arrest until his death in 1642.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f038",
+      "front": "What did Newton publish in 1687, and why did it matter?",
+      "back": "His three laws of motion and the theory of gravity, showing the force that makes an apple fall is the same one that holds the Moon in orbit. He also developed calculus.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f039",
+      "front": "What did William Herschel discover in 1781?",
+      "back": "Uranus (and that stars can have companions). Irregularities in Uranus's orbit later led to the discovery of Neptune.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-f040",
+      "front": "How did spectroscopy and Hubble change astronomy?",
+      "back": "Spectroscopy let astronomers determine stars' composition, and Edwin Hubble confirmed that galaxies exist beyond our own Milky Way.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
     }
   ],
   "questions": [
@@ -12424,9 +12892,407 @@
           "right": "~10^-10 m (0.1 nm)"
         }
       ]
+    },
+    {
+      "id": "ch2-ba-q001",
+      "type": "mc",
+      "text": "The celestial sphere is best described as:",
+      "answer": "A model with Earth at the center on which stars appear equally distant",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)",
+      "options": [
+        "A real crystalline shell that surrounds Earth",
+        "A model with Earth at the center on which stars appear equally distant",
+        "The actual 3-D arrangement of nearby stars",
+        "The orbit of the Sun around Earth"
+      ]
+    },
+    {
+      "id": "ch2-ba-q002",
+      "type": "mc",
+      "text": "At an intermediate latitude, the altitude of the north celestial pole above the horizon equals:",
+      "answer": "The observer's latitude",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)",
+      "options": [
+        "90 degrees minus the observer's latitude",
+        "The observer's latitude",
+        "Always 45 degrees",
+        "The Sun's declination"
+      ]
+    },
+    {
+      "id": "ch2-ba-q003",
+      "type": "mc",
+      "text": "An asterism is:",
+      "answer": "A recognizable star pattern within or across constellations",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)",
+      "options": [
+        "An official region of the sky",
+        "A recognizable star pattern within or across constellations",
+        "A type of comet",
+        "The path of the Sun through the sky"
+      ]
+    },
+    {
+      "id": "ch2-ba-q004",
+      "type": "mc",
+      "text": "Retrograde motion is:",
+      "answer": "An apparent backward drift caused by Earth passing the planet",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)",
+      "options": [
+        "A planet truly reversing its orbit",
+        "An apparent backward drift caused by Earth passing the planet",
+        "The daily rising and setting of planets",
+        "A planet falling toward the Sun"
+      ]
+    },
+    {
+      "id": "ch2-ba-q005",
+      "type": "mc",
+      "text": "Ptolemy used epicycles primarily to explain:",
+      "answer": "Retrograde motion of the planets",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)",
+      "options": [
+        "The phases of the Moon",
+        "Retrograde motion of the planets",
+        "The tilt of the ecliptic",
+        "Stellar parallax"
+      ]
+    },
+    {
+      "id": "ch2-ba-q006",
+      "type": "mc",
+      "text": "Kepler's first law states that planets orbit the Sun in:",
+      "answer": "Ellipses with the Sun at one focus",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)",
+      "options": [
+        "Perfect circles centered on the Sun",
+        "Ellipses with the Sun at one focus",
+        "Spirals that decay over time",
+        "Epicycles around Earth"
+      ]
+    },
+    {
+      "id": "ch2-ba-q007",
+      "type": "mc",
+      "text": "Which observation by Galileo most directly contradicted the geocentric model?",
+      "answer": "Four moons orbiting Jupiter",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)",
+      "options": [
+        "Sunspots on the Sun",
+        "Craters on the Moon",
+        "Four moons orbiting Jupiter",
+        "The Milky Way being made of stars"
+      ]
+    },
+    {
+      "id": "ch2-ba-q008",
+      "type": "mc",
+      "text": "Eratosthenes is famous for being the first to measure:",
+      "answer": "The circumference of Earth",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)",
+      "options": [
+        "The distance to the Sun",
+        "The circumference of Earth",
+        "The mass of the Moon",
+        "The speed of light"
+      ]
+    },
+    {
+      "id": "ch2-ba-q009",
+      "type": "mc",
+      "text": "According to Kepler's second law, a planet moves fastest when it is:",
+      "answer": "Closest to the Sun",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)",
+      "options": [
+        "Farthest from the Sun",
+        "Closest to the Sun",
+        "Crossing the celestial equator",
+        "At its zenith"
+      ]
+    },
+    {
+      "id": "ch2-ba-q010",
+      "type": "mc",
+      "text": "Newton's great unification showed that the force pulling an apple down is the same force that:",
+      "answer": "Holds the Moon in orbit around Earth",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)",
+      "options": [
+        "Causes retrograde motion",
+        "Holds the Moon in orbit around Earth",
+        "Makes stars twinkle",
+        "Produces stellar parallax"
+      ]
+    },
+    {
+      "id": "ch2-ba-q011",
+      "type": "tf",
+      "text": "The celestial sphere accurately represents the true three-dimensional distances of the stars.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-q012",
+      "type": "tf",
+      "text": "Stars rise in the east and set in the west.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-q013",
+      "type": "tf",
+      "text": "Retrograde motion means a planet physically reverses direction in its orbit.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-q014",
+      "type": "tf",
+      "text": "Copernicus's heliocentric model could predict planetary positions far more accurately than Ptolemy's.",
+      "answer": "False",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-q015",
+      "type": "tf",
+      "text": "Aristarchus proposed a Sun-centered model long before Copernicus, but it was rejected partly because no parallax could be observed.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-q016",
+      "type": "tf",
+      "text": "Kepler discovered that planetary orbits are ellipses rather than perfect circles.",
+      "answer": "True",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-q017",
+      "type": "fitb",
+      "text": "The point on the celestial sphere directly overhead an observer is called the __________.",
+      "answer": "zenith",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-q018",
+      "type": "fitb",
+      "text": "The apparent yearly path of the Sun through the stars is called the __________.",
+      "answer": "ecliptic",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-q019",
+      "type": "fitb",
+      "text": "The North Star, located near the north celestial pole, is named __________.",
+      "answer": "Polaris",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-q020",
+      "type": "fitb",
+      "text": "The principle that one should not make more assumptions than necessary is known as __________ __________.",
+      "answer": "Occam's razor",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-q021",
+      "type": "fitb",
+      "text": "Ptolemy added small circles called __________ to his model to reproduce retrograde motion.",
+      "answer": "epicycles",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-q022",
+      "type": "fitb",
+      "text": "Tycho Brahe's assistant, who used his data to derive three laws of planetary motion, was __________ __________.",
+      "answer": "Johannes Kepler",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-q023",
+      "type": "sa",
+      "text": "Explain how the appearance of the sky's daily motion differs for observers at the North Pole, the equator, and an intermediate latitude.",
+      "answer": "At the North Pole, stars circle the zenith and never rise or set. At the equator, the celestial poles sit on the horizon and stars rise straight up and set straight down. At an intermediate latitude, the north celestial pole is partway up (its altitude equals the observer's latitude), stars rise and set at an angle, and some stars near the pole are circumpolar (never setting) while others rise and set.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-q024",
+      "type": "sa",
+      "text": "Why did explaining retrograde motion eventually lead astronomers away from the geocentric model?",
+      "answer": "A simple Earth-centered model could not naturally account for planets appearing to move backward against the stars. Ptolemy needed increasingly complex epicycles to reproduce it. The heliocentric model explained retrograde motion simply, as the natural result of Earth and another planet passing each other, so by Occam's razor the simpler explanation won out.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-q025",
+      "type": "sa",
+      "text": "Summarize Kepler's three laws of planetary motion.",
+      "answer": "1) Planets move in elliptical orbits with the Sun at one focus. 2) A line from the Sun to a planet sweeps out equal areas in equal times, so planets move faster when nearer the Sun. 3) The square of a planet's orbital period is proportional to the cube of its semimajor axis, so planets farther from the Sun take longer to orbit.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-q026",
+      "type": "sa",
+      "text": "Describe two pieces of evidence Aristotle used to argue that Earth is spherical.",
+      "answer": "Aristotle pointed to the round shadow Earth casts on the Moon during a lunar eclipse, and to the way travelers moving south see new stars that had been hidden below the southern horizon. (He also noted that ships' hulls disappear over the horizon before their sail tops.)",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-q027",
+      "type": "match",
+      "text": "Match each astronomer to their key contribution.",
+      "answer": "see pairs",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)",
+      "pairs": [
+        {
+          "left": "Ptolemy",
+          "right": "Geocentric model with epicycles"
+        },
+        {
+          "left": "Copernicus",
+          "right": "Revived the Sun-centered (heliocentric) model"
+        },
+        {
+          "left": "Kepler",
+          "right": "Laws of planetary motion / elliptical orbits"
+        },
+        {
+          "left": "Galileo",
+          "right": "First to study the heavens with a telescope"
+        },
+        {
+          "left": "Newton",
+          "right": "Laws of motion and universal gravity"
+        }
+      ]
+    },
+    {
+      "id": "ch2-ba-q028",
+      "type": "match",
+      "text": "Match each sky term to its description.",
+      "answer": "see pairs",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)",
+      "pairs": [
+        {
+          "left": "Zenith",
+          "right": "Point directly overhead"
+        },
+        {
+          "left": "Ecliptic",
+          "right": "Apparent yearly path of the Sun"
+        },
+        {
+          "left": "Celestial equator",
+          "right": "Circle above Earth's equator"
+        },
+        {
+          "left": "Asterism",
+          "right": "Recognizable star pattern like the Big Dipper"
+        }
+      ]
     }
   ],
   "notes": [
+    {
+      "id": "ch2-ba-n002",
+      "title": "Chapter 2 (Part 2) - The Birth of Astronomy",
+      "body": "CHAPTER 2 (PART 2) - THE BIRTH OF ASTRONOMY\n\n== GEOCENTRIC MODELS ==\n- The general east-to-west motion of the sky prompted Earth-centered (geocentric) models.\n- Eudoxus (~400-347 BC): each object rode its own revolving transparent sphere with its own tilt; faster objects had smaller spheres.\n- A simple geocentric model could NOT explain retrograde motion.\n- Ptolemy of Alexandria: added EPICYCLES - a planet moves on a small circle whose center moves on a larger circle around Earth - to reproduce retrograde motion. His model predicted planetary positions with fair precision, was published in a star catalogue (140 CE), and remained canon for centuries (spreading to Arabic and European astronomers).\n- Eventually geocentric models collapsed under OCCAM'S RAZOR ('entities should not be multiplied without necessity' - don't make more assumptions than needed), and heliocentric models prevailed.\n\n== ANCIENT & NON-WESTERN ASTRONOMERS ==\n- Mayans (~750 BC): tracked the skies and made the first almanacs (tables predicting Sun/Moon/planet motions).\n- Thales of Miletus (585 BC): correctly predicted a solar eclipse.\n- Pythagoras (~500 BC): taught that Earth is round (the sphere as the 'perfect' shape).\n- Babylonians (~400 BC): devised the zodiac system, dividing the sky into 12 equal segments.\n- Plato (387 BC): promoted the geocentric model with perfect circular orbits.\n- Aristotle (~300 BC): gave naked-eye evidence for a spherical Earth - Earth's curved shadow on the Moon during a lunar eclipse, new stars appearing as you travel south, and ships' hulls vanishing before their sails.\n- Aristarchus (~a century after Aristotle): estimated relative sizes/distances of the Sun and Moon (the best for ~2000 years) using angular size and geometry; proposed a heliocentric model, but the lack of observable parallax argued against it. (Parallax = the apparent shift of a foreground object relative to the background.)\n- Eratosthenes (276-195 BC): made the first measurement of Earth's circumference (~25,000 miles, close to today's value) from shadow lengths at Alexandria vs. Syene on the summer solstice.\n- Islamic astronomers: preserved/expanded ancient texts through Europe's Middle Ages, set religious calendars by the sky, gave us vocabulary (zenith, Betelgeuse), built the astrolabe, questioned Ptolemy, and developed algebra and Arabic numerals.\n- Asian astronomers: created mythology-based constellations, kept detailed records of eclipses, comets, supernovae, and sunspots, and predicted eclipses.\n\n== THE RENAISSANCE ==\n- Copernicus (1473-1543): couldn't reconcile data with Ptolemy, so revived Aristarchus's heliocentric model. Heliocentrism explains retrograde motion naturally (two planets passing) and gives the planets' relative distances and why Venus/Mercury stay near the Sun. In 1543 he published 'On the Revolutions of the Heavenly Spheres' (Earth rotates on its axis; planet order). LIMITATIONS: still used circular orbits and 8 spheres, predicted no better than Ptolemy, couldn't explain the missing stellar parallax, and clashed with Aristotelian 'common sense.' Still, it sparked the Scientific Revolution.\n- Tycho Brahe (1546-1601): built instruments of unmatched accuracy and made meticulous planetary measurements; observed a supernova and a comet (showing the heavens change); but seeing no parallax, he proposed a compromise geocentric model.\n- Johannes Kepler (1571-1630): inherited Tycho's superb data and derived three laws of planetary motion; his key fix was ELLIPTICAL (not circular) orbits.\n   * 1st law: elliptical orbits, Sun at one focus.\n   * 2nd law: equal areas in equal times (faster near the Sun).\n   * 3rd law: P squared is proportional to a cubed (period vs. semimajor axis); hints at the force holding planets in orbit.\n   * Eccentricity describes how stretched an ellipse is (closer to 1 = flatter).\n- Galileo (1564-1642): first to turn a telescope on the heavens and interpret what he saw - sunspots, lunar craters, four moons of Jupiter, and the Milky Way as countless stars. Jupiter's moons proved not everything orbits Earth, undercutting geocentrism. A founder of modern science (experimental method, first correct laws of motion). The Roman Inquisition tried him in 1633, found him 'vehemently suspect of heresy,' and kept him under house arrest until his death in 1642.\n- Isaac Newton (1642-1727): born the year Galileo died; published the three laws of motion and the theory of gravity in 1687. He unified the force that makes an apple fall with the force that keeps the Moon in orbit (gravity), pioneered motion/optics/gravity, and invented calculus. His laws stood until Einstein's relativity in the 20th century.\n\n== NEW DISCOVERIES & TECHNOLOGIES ==\n- William Herschel (1781): discovered Uranus and that stars can have companions; orbital irregularities in Uranus later led to Neptune's discovery.\n- Better optics -> larger telescopes -> nebulae and galaxies; photography revealed faint objects; spectroscopy revealed stars' composition; Edwin Hubble confirmed galaxies beyond the Milky Way.\n- 20th-21st centuries: Pluto's discovery, human spaceflight and Moon landings, satellites and probes, the ISS, Mars rovers, exoplanet detection and habitability studies, the first black-hole photograph, and Perseverance on Mars.\n\n=========================================\n★ KEY EXAM POINTS ★\n- Geocentric (Earth-centered) needed EPICYCLES; heliocentric (Sun-centered) explains retrograde simply - Occam's razor favors it.\n- Eratosthenes = first to measure Earth's size; Aristarchus = early heliocentric proposal (defeated by no parallax).\n- Sequence of the revolution: Copernicus (heliocentric, 1543) -> Tycho (data) -> Kepler (elliptical orbits + 3 laws) -> Galileo (telescope, Jupiter's moons) -> Newton (gravity + motion, 1687).\n- Kepler's 3rd law: P^2 is proportional to a^3.\n- Galileo's moons of Jupiter = objects NOT orbiting Earth = geocentric model is wrong.\n- Newton unified terrestrial and celestial motion under one gravity; later refined by Einstein.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
+    {
+      "id": "ch2-ba-n001",
+      "title": "Chapter 2 (Part 1) - The Cycles of the Sky",
+      "body": "CHAPTER 2 (PART 1) - THE CYCLES OF THE SKY\n\n== THE CELESTIAL SPHERE ==\n- Vast distances hide the stars' true 3-D arrangement, so to the naked eye all stars appear equally distant on a giant celestial sphere with Earth at the center.\n- The celestial sphere is a MODEL - it doesn't have to match physical reality. Models exist to enhance our understanding of nature.\n- Ancient Greeks imagined a crystalline geocentric (Earth-centered) sphere carrying the stars. The model is incorrect, but still handy for visualizing and mapping the sky (think planetarium); object positions appear fixed relative to one another.\n\n== THE SKY AROUND US ==\n- Horizon = where the sky meets the ground. Zenith = the point directly overhead.\n- Stars rise in the EAST and set in the WEST.\n- The sky appears to turn, but really EARTH turns - the celestial sphere stays still.\n\n== CELESTIAL POLES, EQUATOR & COORDINATES ==\n- Extending Earth's rotational axis to the sphere gives the north and south celestial poles. Polaris (the North Star) sits near the north celestial pole - 'the fastener of the sky.'\n- The celestial equator lies directly above Earth's equator and serves as a reference marker.\n- What you see depends on your LATITUDE:\n   (a) At a pole: stars circle a fixed point and never rise or set.\n   (b) At the equator: the celestial poles sit on the horizon; stars rise straight up and set straight down.\n   (c) At an intermediate latitude: the north celestial pole's altitude EQUALS your latitude; stars rise and set at an angle, and some are circumpolar.\n- Right ascension (RA) is like longitude (east/west of the vernal equinox). Declination (Dec) is like latitude (angle above/below the celestial equator).\n\n== CONSTELLATIONS & ASTERISMS ==\n- Every culture built sky stories; astronomy is one of the oldest sciences. Many familiar figures come from ancient Greece.\n- Modern constellation = a PATCH (sector) of sky that carries a name, not just the stars. The IAU defined 88 official constellations in 1928; 48 are ancient.\n- An asterism is a SUBSET of stars forming a recognizable shape: the Big Dipper (within Ursa Major) and Orion's Belt (within Orion) are classic examples.\n- In Orion: Betelgeuse is the bright red armpit star; Rigel is the bright blue foot star.\n- Star positions change very slowly, so constellations look the same for thousands of years; their ancient origins likely served season-tracking and navigation.\n\n== DAILY & ANNUAL MOTION ==\n- Daily motion (east-to-west rising/setting) comes from Earth's rotation about the celestial poles.\n- Annual motion: a given star rises about 3 minutes 56 seconds EARLIER each night, caused by Earth's orbit around the Sun. At a fixed clock time, constellations shift across the year - used by the ancients to mark seasons.\n\n== THE ECLIPTIC & ZODIAC ==\n- The ecliptic is the Sun's apparent path through the stars - the projection of Earth's orbit, tipped ~23.5 degrees to the celestial equator.\n- The zodiac is the belt around the ecliptic, passing through ~12 constellations (a 13th, Ophiuchus, also crosses it). The Sun, Moon, and planets all travel within it - the basis of astrology.\n\n== PLANETS & RETROGRADE MOTION ==\n- 'Planet' is Greek for 'wanderer.' Planets drift relative to the stars within the narrow zodiac band; their motion combines orbits nearly in one plane with differing speeds.\n- Usually planets drift west-to-east relative to the stars (though daily they still rise in the east).\n- Retrograde motion = occasional east-to-west drift relative to the stars. It is APPARENT, not real: the planet doesn't reverse its orbit; it just looks that way as Earth and the planet pass each other.\n- Explaining retrograde motion was a key reason astronomers eventually rejected the Earth-centered solar system.\n\n=========================================\n★ KEY EXAM POINTS ★\n- Celestial sphere = a MODEL; Earth rotates, the sphere doesn't.\n- Horizon (sky meets ground) vs. zenith (straight overhead).\n- Altitude of the north celestial pole = your latitude.\n- RA ~ longitude; Dec ~ latitude.\n- Constellation = named REGION of sky (88 total, IAU 1928); asterism = star PATTERN (Big Dipper, Orion's Belt).\n- Ecliptic = Sun's path, tilted ~23.5 degrees; zodiac = ~12 constellations along it.\n- Retrograde motion is APPARENT, caused by Earth overtaking/being overtaken by a planet.",
+      "image": null,
+      "module": "mod-2",
+      "chapter": "2",
+      "source": "Cycles of the Sky & Birth of Astronomy lecture slides (Ch 2)"
+    },
     {
       "id": "ch2-n001",
       "title": "Chapter 2 - The Size & Structure of Space",
