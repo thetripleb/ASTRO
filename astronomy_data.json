@@ -125,6 +125,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch21-g005",
+      "term": "accretion disk",
+      "def": "A flattened disk of gas and dust spiraling onto a forming star or other central object.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch6-g011",
       "term": "adaptive optics",
       "def": "A technology that rapidly deforms a telescope mirror to compensate for atmospheric turbulence and sharpen images from the ground.",
@@ -233,6 +242,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch22-g005",
+      "term": "asymptotic giant branch",
+      "def": "A late, luminous phase in which an evolved star burns helium and hydrogen in shells around its core.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch8-g008",
       "term": "atmosphere",
       "def": "The layer of gases held to a planet by gravity; Earth's is mostly nitrogen and oxygen.",
@@ -302,6 +320,15 @@
       "image": null,
       "module": "week-5",
       "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-g001",
+      "term": "black hole",
+      "def": "An object so dense that within a certain radius nothing, not even light, can escape its gravity.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -383,6 +410,15 @@
       "image": null,
       "module": "week-5",
       "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-g006",
+      "term": "Chandrasekhar limit",
+      "def": "The maximum mass (about 1.4 solar masses) a white dwarf can have before it collapses or detonates.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -530,6 +566,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch23-g013",
+      "term": "core collapse",
+      "def": "The sudden implosion of a massive star's iron core that triggers a Type II supernova.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch15-g003",
       "term": "corona",
       "def": "The Sun's outermost atmosphere, extremely hot (one to a few million K) but very low in density.",
@@ -590,6 +635,15 @@
       "image": null,
       "module": "week-3",
       "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-g006",
+      "term": "degeneracy pressure",
+      "def": "A quantum pressure, independent of temperature, that supports compact stellar cores and remnants against gravity.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -746,6 +800,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch23-g011",
+      "term": "electron degeneracy pressure",
+      "def": "The quantum pressure that supports a white dwarf against gravity.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch3-g004",
       "term": "ellipse",
       "def": "A closed oval curve for which the sum of the distances from any point on it to two fixed points (foci) is constant.",
@@ -791,6 +854,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch24-g006",
+      "term": "equivalence principle",
+      "def": "The principle that gravity and acceleration are locally indistinguishable.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch8-g013",
       "term": "erosion",
       "def": "The gradual wearing away and transport of surface material by wind, water, or ice, which reshapes a planet's surface over time.",
@@ -815,6 +887,15 @@
       "image": null,
       "module": "week-3",
       "chapter": "Ch12",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-g002",
+      "term": "event horizon",
+      "def": "The boundary around a black hole within which nothing can escape.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -881,12 +962,30 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch23-g010",
+      "term": "gamma-ray burst",
+      "def": "An intense, brief flash of gamma rays from a distant collapsing massive star or compact-object merger.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch11-g001",
       "term": "gas giant",
       "def": "A giant planet composed mostly of hydrogen and helium, such as Jupiter and Saturn.",
       "image": null,
       "module": "week-3",
       "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-g005",
+      "term": "general relativity",
+      "def": "Einstein's theory describing gravity as the curvature of spacetime by mass and energy.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -926,6 +1025,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch22-g010",
+      "term": "globular cluster",
+      "def": "A dense, spherical cluster of very old, metal-poor stars found in the galactic halo.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch15-g006",
       "term": "granulation",
       "def": "The mottled, cell-like pattern on the photosphere produced by convection bringing hot gas to the surface.",
@@ -935,12 +1043,48 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch21-g006",
+      "term": "gravitational collapse",
+      "def": "The contraction of a cloud or core under its own gravity, which begins star formation.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch16-g012",
       "term": "gravitational contraction",
       "def": "The slow shrinking of a body that releases gravitational energy as heat; an early but inadequate proposed energy source for the Sun.",
       "image": null,
       "module": "week-4",
       "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-g009",
+      "term": "gravitational lensing",
+      "def": "The bending of light from a distant source by the gravity of intervening mass.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-g010",
+      "term": "gravitational redshift",
+      "def": "The lengthening of light's wavelength as it climbs out of a gravitational field.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-g008",
+      "term": "gravitational wave",
+      "def": "A ripple in spacetime produced by accelerating masses, such as merging compact objects.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -989,6 +1133,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch21-g011",
+      "term": "habitable zone",
+      "def": "The range of distances from a star where temperatures could allow liquid water on a planet's surface.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch14-g011",
       "term": "half-life",
       "def": "The time required for half of a sample of a radioactive isotope to decay, the basis of radiometric dating.",
@@ -1007,12 +1160,30 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch22-g004",
+      "term": "helium flash",
+      "def": "The sudden onset of helium fusion in the dense core of a low-mass red giant.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch16-g008",
       "term": "helium-4",
       "def": "The stable helium nucleus (two protons, two neutrons) that is the end product of the proton-proton chain.",
       "image": null,
       "module": "week-4",
       "chapter": "Ch16",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch21-g004",
+      "term": "Herbig-Haro object",
+      "def": "A glowing knot of gas created where a young star's jet slams into surrounding interstellar material.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1085,6 +1256,15 @@
       "image": null,
       "module": "week-3",
       "chapter": "Ch11",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch21-g013",
+      "term": "interstellar medium",
+      "def": "The gas and dust filling the space between the stars.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1313,6 +1493,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch22-g002",
+      "term": "main-sequence turnoff",
+      "def": "The point on a cluster's H-R diagram where stars are just leaving the main sequence, used to find the cluster's age.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch8-g002",
       "term": "mantle",
       "def": "The thick, mostly solid rocky layer between a planet's crust and core, which slowly flows over long timescales.",
@@ -1412,6 +1601,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch21-g001",
+      "term": "molecular cloud",
+      "def": "A cold, dense cloud of interstellar gas and dust where stars are born.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch13-g009",
       "term": "near-Earth object (NEO)",
       "def": "An asteroid or comet whose orbit brings it close to Earth's orbit, posing a potential impact hazard.",
@@ -1448,6 +1646,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch23-g012",
+      "term": "neutron degeneracy pressure",
+      "def": "The quantum pressure that supports a neutron star against gravity.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-g002",
+      "term": "neutron star",
+      "def": "The ~20-km, extremely dense remnant of a massive star's core, made mostly of neutrons.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch3-g010",
       "term": "Newton's first law",
       "def": "An object stays at rest or moves in a straight line at constant speed unless acted on by a net external force (inertia).",
@@ -1472,6 +1688,15 @@
       "image": null,
       "module": "week-1",
       "chapter": "Ch3",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-g009",
+      "term": "nova",
+      "def": "A sudden brightening from a white dwarf igniting accreted hydrogen on its surface, leaving the dwarf intact.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1508,6 +1733,15 @@
       "image": null,
       "module": "week-3",
       "chapter": "Ch13",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-g009",
+      "term": "open cluster",
+      "def": "A loose, young cluster of metal-rich stars found in the galactic disk.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1628,6 +1862,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch21-g012",
+      "term": "planetary migration",
+      "def": "The inward or outward movement of a planet from where it formed, used to explain hot Jupiters.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch12-g001",
       "term": "planetary ring",
       "def": "A disk of countless small particles of ice and rock orbiting a planet, as around Saturn and the other giants.",
@@ -1670,6 +1913,15 @@
       "image": null,
       "module": "week-3",
       "chapter": "Ch10",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-g013",
+      "term": "Population I / II",
+      "def": "Younger metal-rich stars (I) versus older metal-poor stars (II).",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1718,6 +1970,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch21-g002",
+      "term": "protostar",
+      "def": "A contracting clump of gas that is heating up but has not yet begun hydrogen fusion.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-g007",
+      "term": "pulsar",
+      "def": "A rapidly spinning, magnetized neutron star that emits beams of radiation seen as regular pulses.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch19-g009",
       "term": "radar ranging",
       "def": "Measuring the distance to a nearby body by timing a reflected radio signal.",
@@ -1733,6 +2003,15 @@
       "image": null,
       "module": "week-5",
       "chapter": "Ch17",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch21-g010",
+      "term": "radial-velocity method",
+      "def": "Detecting an exoplanet by the Doppler wobble it induces in its star's spectrum.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1769,6 +2048,15 @@
       "image": null,
       "module": "week-5",
       "chapter": "Ch18",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-g001",
+      "term": "red giant",
+      "def": "A large, cool, luminous star that has exhausted core hydrogen and is burning hydrogen in a shell.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -1898,6 +2186,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch24-g003",
+      "term": "Schwarzschild radius",
+      "def": "The radius of the event horizon, directly proportional to the black hole's mass.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch1-g005",
       "term": "scientific method",
       "def": "The process of forming a hypothesis, testing it against observation or experiment, and revising ideas based on the evidence.",
@@ -1943,6 +2240,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch22-g007",
+      "term": "shell burning",
+      "def": "Nuclear fusion occurring in a layer around an inert core rather than in the core itself.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch12-g003",
       "term": "shepherd moon",
       "def": "A small moon whose gravity confines and shapes a planet's ring, keeping ring particles in a narrow band.",
@@ -1958,6 +2264,15 @@
       "image": null,
       "module": "week-2",
       "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-g004",
+      "term": "singularity",
+      "def": "The point of infinite density at the center of a black hole, where known physics breaks down.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -2069,6 +2384,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch24-g007",
+      "term": "spacetime curvature",
+      "def": "The warping of space and time by mass and energy, which is experienced as gravity.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch17-g005",
       "term": "spectral class (OBAFGKM)",
       "def": "The classification of stars by surface temperature, from hottest (O) to coolest (M).",
@@ -2132,12 +2456,39 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch22-g008",
+      "term": "star cluster",
+      "def": "A group of stars that formed together from the same cloud at about the same time.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch5-g012",
       "term": "Stefan-Boltzmann law",
       "def": "The rule that the total energy radiated per unit area by a hot object rises steeply with temperature (as the fourth power).",
       "image": null,
       "module": "week-2",
       "chapter": "Ch5",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-g011",
+      "term": "stellar nucleosynthesis",
+      "def": "The creation of heavier elements by fusion inside stars.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-g013",
+      "term": "stellar-mass black hole",
+      "def": "A black hole formed from the collapse of a very massive star's core.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -2168,12 +2519,39 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch23-g003",
+      "term": "supernova",
+      "def": "A catastrophic stellar explosion that briefly outshines an entire galaxy.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-g008",
+      "term": "supernova remnant",
+      "def": "The expanding cloud of debris left behind by a supernova explosion.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch4-g010",
       "term": "synchronous rotation",
       "def": "Rotation in which a body spins once per orbit, so it always shows the same face to its partner; the Moon does this with Earth.",
       "image": null,
       "module": "week-2",
       "chapter": "Ch4",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch21-g003",
+      "term": "T Tauri star",
+      "def": "A young, low-mass star, not yet on the main sequence, that drives strong winds and jets.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -2204,6 +2582,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch24-g012",
+      "term": "tidal force (spaghettification)",
+      "def": "The stretching effect of a black hole's strongly varying gravity on an infalling object.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch12-g008",
       "term": "tidal heating",
       "def": "The internal heating of a moon caused by the changing gravitational pull of its planet as it orbits, which flexes the moon.",
@@ -2222,6 +2609,24 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch21-g009",
+      "term": "transit method",
+      "def": "Detecting an exoplanet by the small, regular dip in starlight as the planet crosses in front of its star.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-g003",
+      "term": "triple-alpha process",
+      "def": "The fusion of three helium-4 nuclei into carbon, which powers stars after core hydrogen is gone.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
       "id": "ch13-g014",
       "term": "Trojan asteroids",
       "def": "Asteroids that share a planet's orbit, clustered at the stable points 60 degrees ahead of and behind the planet (notably Jupiter's).",
@@ -2237,6 +2642,24 @@
       "image": null,
       "module": "week-3",
       "chapter": "Ch8",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-g004",
+      "term": "Type Ia supernova",
+      "def": "The complete detonation of a white dwarf that exceeds the Chandrasekhar limit in a binary; shows no hydrogen lines.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-g005",
+      "term": "Type II supernova",
+      "def": "The core-collapse explosion of a single massive star; shows hydrogen lines.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -2345,6 +2768,15 @@
       "image": null,
       "module": "week-1",
       "chapter": "Ch2",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-g012",
+      "term": "zero-age main sequence",
+      "def": "The lower-left edge of the main sequence, where stars begin steady hydrogen fusion.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
@@ -3832,6 +4264,285 @@
       "image": null,
       "module": "week-5",
       "chapter": "Ch19",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch21-f001",
+      "front": "Where are stars born?",
+      "back": "In cold, dense molecular clouds, where gravity can overcome the low gas pressure and trigger collapse.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch21-f002",
+      "front": "What is a protostar?",
+      "back": "A contracting, heating clump of gas that is not yet hot enough at its core to begin hydrogen fusion.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch21-f003",
+      "front": "Why do infrared telescopes reveal star formation so well?",
+      "back": "Star formation occurs inside dusty clouds that block visible light, but infrared passes through the dust and is emitted by warm protostars.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch21-f004",
+      "front": "What creates a Herbig-Haro object?",
+      "back": "Jets from a young T Tauri star slamming into the surrounding interstellar gas, producing glowing shock-heated knots.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch21-f005",
+      "front": "Of a 10-solar-mass and a 0.5-solar-mass protostar, which reaches the main sequence first?",
+      "back": "The 10-solar-mass one — more massive protostars contract and heat up faster.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch21-f007",
+      "front": "What is a hot Jupiter?",
+      "back": "A giant exoplanet orbiting very close to its star, explained by planetary migration.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch21-f008",
+      "front": "Name one way exoplanet systems differ from ours.",
+      "back": "Many contain hot Jupiters or super-Earths and have eccentric or tightly packed orbits, unlike our well-spaced, circular system.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-f001",
+      "front": "What happens to a Sun-like star when it exhausts core hydrogen?",
+      "back": "Its inert helium core contracts and heats while hydrogen burns in a shell, swelling the star into a red giant.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-f002",
+      "front": "Why are most stars seen on the main sequence?",
+      "back": "Stars spend most of their lives fusing hydrogen there, so at any moment most are caught in that long-lasting phase.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-f003",
+      "front": "What is the triple-alpha process and why does it need high temperature?",
+      "back": "The fusion of three helium nuclei into carbon; it needs high temperature because helium's larger charge means stronger repulsion to overcome.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-f004",
+      "front": "Why is Betelgeuse more luminous than the Sun despite being cooler?",
+      "back": "It is a red supergiant whose enormous surface area more than compensates for its lower temperature (L = 4 pi R^2 sigma T^4).",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-f005",
+      "front": "Why are star clusters useful for studying stellar evolution?",
+      "back": "Their stars share an age, composition, and distance and differ mainly in mass, isolating how mass drives evolution.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-f006",
+      "front": "How does the main-sequence turnoff reveal a cluster's age?",
+      "back": "The most massive stars still on the main sequence indicate the age, since more massive stars die faster; a lower turnoff means an older cluster.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-f007",
+      "front": "Would the Sun more likely have come from an open or a globular cluster?",
+      "back": "An open cluster — the Sun is a young, metal-rich Population I star.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-f008",
+      "front": "Where were the carbon and heavier elements in your body made?",
+      "back": "Inside stars by nuclear fusion, then spread by stellar winds and supernovae and later incorporated into new worlds.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-f001",
+      "front": "How does a white dwarf differ from a neutron star?",
+      "back": "A white dwarf is Earth-sized, from a low/intermediate-mass star, held up by electron degeneracy; a neutron star is ~20 km, from a massive star's collapsed core, held up by neutron degeneracy.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-f002",
+      "front": "What is the Chandrasekhar limit?",
+      "back": "About 1.4 solar masses, the maximum mass a white dwarf can have before it collapses or detonates.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-f003",
+      "front": "How do Type Ia and Type II supernovae differ?",
+      "back": "Type Ia is a white dwarf detonating after exceeding the Chandrasekhar limit (no hydrogen lines); Type II is the core collapse of a massive star (with hydrogen lines).",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-f004",
+      "front": "What is a pulsar?",
+      "back": "A rapidly spinning, strongly magnetized neutron star whose beamed radiation sweeps past us as regular pulses.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-f005",
+      "front": "Why does the Crab Nebula still glow brightly ~1000 years after the explosion?",
+      "back": "Its central pulsar continuously feeds energy into the nebula as it slowly loses rotational energy.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-f006",
+      "front": "How is a nova different from a supernova?",
+      "back": "A nova is a non-destructive surface flash on a white dwarf from accreted hydrogen; a supernova is a far more energetic, destructive explosion.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-f007",
+      "front": "What confirmed core-collapse theory in SN 1987A?",
+      "back": "A burst of neutrinos detected just before the visible light, showing most energy escapes as neutrinos.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-f008",
+      "front": "What are the proposed causes of long vs short gamma-ray bursts?",
+      "back": "Long bursts from collapse of very massive stars into black holes; short bursts from mergers of compact objects (e.g., two neutron stars).",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-f001",
+      "front": "What is an event horizon?",
+      "back": "The boundary around a black hole within which nothing, not even light, can escape.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-f002",
+      "front": "Does the Sun have an event horizon?",
+      "back": "No; it is not compressed within its Schwarzschild radius (about 3 km), so it has no event horizon.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-f003",
+      "front": "What does the equivalence principle imply about light and gravity?",
+      "back": "Since gravity and acceleration are indistinguishable, light must bend in gravity, implying mass curves spacetime.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-f004",
+      "front": "Name three classic tests that confirmed general relativity.",
+      "back": "The bending of starlight near the Sun, the extra precession of Mercury's orbit, and gravitational redshift/time dilation.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-f005",
+      "front": "If black holes emit no light, how do we detect them?",
+      "back": "Through their gravity: X-rays from accreting gas, the orbits of stars around unseen massive companions, and gravitational waves.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-f006",
+      "front": "If a black hole's mass doubles, what happens to its event horizon?",
+      "back": "Its radius doubles, since the Schwarzschild radius is directly proportional to mass.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-f007",
+      "front": "What is a gravitational wave, and why is it hard to detect?",
+      "back": "A ripple in spacetime from accelerating masses; detection is hard because the distortions are far smaller than an atomic nucleus, needing instruments like LIGO.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-f008",
+      "front": "What makes a binary a good black-hole candidate?",
+      "back": "An unseen companion more massive than about 3 solar masses that also emits strong X-rays from an accretion disk.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     }
   ],
@@ -9415,9 +10126,505 @@
         "Doppler effect",
         "mass-luminosity relation"
       ]
+    },
+    {
+      "id": "ch21-q001",
+      "type": "mc",
+      "text": "Stars are born in:",
+      "answer": "cold molecular clouds",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "white dwarfs",
+        "cold molecular clouds",
+        "the solar corona",
+        "black holes"
+      ]
+    },
+    {
+      "id": "ch21-q002",
+      "type": "mc",
+      "text": "An exoplanet detected by the dip in its star's light as it passes in front is found by the:",
+      "answer": "transit method",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "radial-velocity method",
+        "transit method",
+        "parallax method",
+        "Doppler method"
+      ]
+    },
+    {
+      "id": "ch21-q003",
+      "type": "tf",
+      "text": "More massive protostars reach the main sequence faster than low-mass ones.",
+      "answer": "True",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch21-q004",
+      "type": "tf",
+      "text": "Star formation is best observed with visible light because dust is transparent to it.",
+      "answer": "False",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch21-q005",
+      "type": "fitb",
+      "text": "A young, contracting clump of gas not yet fusing hydrogen is a ______.",
+      "answer": "protostar",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch21-q006",
+      "type": "fitb",
+      "text": "A giant planet orbiting very close to its star is called a hot ______.",
+      "answer": "Jupiter",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch21-q007",
+      "type": "sa",
+      "text": "Trace what happens as a star forms, from a dense cloud core to the main sequence.",
+      "answer": "A dense core within a molecular cloud collapses under gravity, heating as it contracts and forming a protostar surrounded by an accretion disk. The protostar keeps contracting and heating until its center reaches about 10 million K, igniting hydrogen fusion; the energy released halts the contraction and the star settles onto the main sequence.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch21-q008",
+      "type": "sa",
+      "text": "Why was no exoplanet around a Sun-like star found until 1995, and how do such planets differ from ours?",
+      "answer": "Detecting a planet requires measuring the tiny stellar wobble or slight dimming it causes, which demanded spectroscopic precision not achieved until 1995 (51 Pegasi b). Many discovered systems differ from ours by hosting hot Jupiters, super-Earths, and eccentric or tightly packed orbits, prompting theories of planetary migration.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch21-q010",
+      "type": "mc",
+      "text": "The technique that detects an exoplanet by the Doppler wobble of its star is the:",
+      "answer": "radial-velocity method",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "transit method",
+        "radial-velocity method",
+        "parallax method",
+        "eclipse method"
+      ]
+    },
+    {
+      "id": "ch22-q001",
+      "type": "mc",
+      "text": "When a Sun-like star exhausts its core hydrogen, it first becomes a:",
+      "answer": "red giant",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "white dwarf",
+        "red giant",
+        "neutron star",
+        "black hole"
+      ]
+    },
+    {
+      "id": "ch22-q002",
+      "type": "mc",
+      "text": "The fusion of three helium nuclei into carbon is the:",
+      "answer": "triple-alpha process",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "proton-proton chain",
+        "triple-alpha process",
+        "CNO cycle",
+        "helium flash"
+      ]
+    },
+    {
+      "id": "ch22-q003",
+      "type": "tf",
+      "text": "Most stars are observed on the main sequence because that phase lasts the longest.",
+      "answer": "True",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-q004",
+      "type": "tf",
+      "text": "A cluster with a lower main-sequence turnoff is younger than one with a higher turnoff.",
+      "answer": "False",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-q005",
+      "type": "fitb",
+      "text": "The point where stars leave the main sequence on a cluster's H-R diagram is the main-sequence ______.",
+      "answer": "turnoff",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-q006",
+      "type": "fitb",
+      "text": "Old, metal-poor, spherical clusters in the halo are ______ clusters.",
+      "answer": "globular",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-q007",
+      "type": "sa",
+      "text": "Explain how an H-R diagram of a star cluster reveals its age.",
+      "answer": "Astronomers locate the main-sequence turnoff, the most massive stars still fusing hydrogen. Because more massive stars exhaust their fuel faster, the position of the turnoff dates the cluster: as time passes, ever-lower-mass stars reach the turnoff, so a turnoff at lower luminosity means an older cluster.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-q008",
+      "type": "sa",
+      "text": "Describe the two recycling processes that connect generations of stars.",
+      "answer": "During and at the end of their lives, stars return material enriched in heavy elements to the interstellar medium through winds, planetary nebulae, and supernovae. That enriched gas is then gathered into new molecular clouds and incorporated into later generations of stars and planets, recycling matter across stellar generations.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-q010",
+      "type": "mc",
+      "text": "Betelgeuse is more luminous than the Sun even though it is cooler because it is:",
+      "answer": "much larger",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "closer",
+        "much larger",
+        "hotter inside",
+        "made of helium"
+      ]
+    },
+    {
+      "id": "ch23-q001",
+      "type": "mc",
+      "text": "A white dwarf is supported against gravity by:",
+      "answer": "electron degeneracy pressure",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "nuclear fusion",
+        "electron degeneracy pressure",
+        "radiation pressure",
+        "magnetic fields"
+      ]
+    },
+    {
+      "id": "ch23-q002",
+      "type": "mc",
+      "text": "A Type II supernova is produced by:",
+      "answer": "the core collapse of a massive star",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "a white dwarf detonating",
+        "the core collapse of a massive star",
+        "two white dwarfs merging",
+        "a nova"
+      ]
+    },
+    {
+      "id": "ch23-q003",
+      "type": "tf",
+      "text": "The Chandrasekhar limit is about 1.4 solar masses.",
+      "answer": "True",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-q004",
+      "type": "tf",
+      "text": "A nova completely destroys the white dwarf involved.",
+      "answer": "False",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-q005",
+      "type": "fitb",
+      "text": "A rapidly spinning, magnetized neutron star seen as regular pulses is a ______.",
+      "answer": "pulsar",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-q006",
+      "type": "fitb",
+      "text": "A Type ______ supernova comes from a white dwarf exceeding the Chandrasekhar limit.",
+      "answer": "Ia",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-q007",
+      "type": "sa",
+      "text": "Explain how a massive star's interior leads to a core-collapse supernova.",
+      "answer": "A massive star fuses progressively heavier elements in concentric shells until it builds an inert iron core. Iron fusion absorbs rather than releases energy, so once the core exceeds its support limit it collapses catastrophically into a neutron star or black hole, and the resulting rebound and neutrino burst blow the star's outer layers apart as a Type II supernova.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-q008",
+      "type": "sa",
+      "text": "Contrast white dwarfs and neutron stars, including how each forms and what supports it.",
+      "answer": "A white dwarf is the Earth-sized carbon-oxygen remnant left when a low- or intermediate-mass star sheds its envelope, and it is supported by electron degeneracy pressure. A neutron star is the roughly 20-kilometer collapsed core left by a massive star's supernova, composed mostly of neutrons and supported by neutron degeneracy pressure. They come from different-mass progenitors and are held up by different forms of quantum pressure.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-q009",
+      "type": "match",
+      "text": "Match each remnant or event to its description.",
+      "answer": "Match",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "pairs": [
+        [
+          "White dwarf",
+          "Earth-sized remnant of a low-mass star"
+        ],
+        [
+          "Neutron star",
+          "~20-km remnant of a massive star's core"
+        ],
+        [
+          "Type Ia supernova",
+          "White dwarf detonating past the Chandrasekhar limit"
+        ],
+        [
+          "Pulsar",
+          "Spinning neutron star seen as regular pulses"
+        ]
+      ]
+    },
+    {
+      "id": "ch23-q010",
+      "type": "mc",
+      "text": "The energy that keeps the Crab Nebula glowing today comes from its central:",
+      "answer": "pulsar",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "white dwarf",
+        "pulsar",
+        "black hole",
+        "nova"
+      ]
+    },
+    {
+      "id": "ch24-q001",
+      "type": "mc",
+      "text": "The boundary around a black hole from which nothing can escape is the:",
+      "answer": "event horizon",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "singularity",
+        "event horizon",
+        "accretion disk",
+        "Schwarzschild center"
+      ]
+    },
+    {
+      "id": "ch24-q002",
+      "type": "mc",
+      "text": "General relativity describes gravity as:",
+      "answer": "the curvature of spacetime",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "a force carried by particles",
+        "the curvature of spacetime",
+        "magnetic attraction",
+        "a type of friction"
+      ]
+    },
+    {
+      "id": "ch24-q003",
+      "type": "tf",
+      "text": "If a black hole's mass doubles, its event horizon radius also doubles.",
+      "answer": "True",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-q004",
+      "type": "tf",
+      "text": "The Sun currently has an event horizon around it.",
+      "answer": "False",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-q005",
+      "type": "fitb",
+      "text": "The radius of a black hole's event horizon is called the ______ radius.",
+      "answer": "Schwarzschild",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-q006",
+      "type": "fitb",
+      "text": "Ripples in spacetime from accelerating masses are gravitational ______.",
+      "answer": "waves",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-q007",
+      "type": "sa",
+      "text": "Since a black hole emits no radiation, explain how astronomers find evidence for one.",
+      "answer": "Astronomers detect black holes by their gravitational effects rather than directly. Gas falling toward a black hole forms a hot accretion disk that emits X-rays, stars can be seen orbiting an unseen companion whose mass exceeds the neutron-star limit, and mergers produce gravitational waves. The amount of mass inferred within such a tiny region can only be a black hole.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-q008",
+      "type": "sa",
+      "text": "Use the equivalence principle to explain why we expect spacetime to be curved.",
+      "answer": "The equivalence principle states that being in a gravitational field is locally indistinguishable from being in an accelerating reference frame. Because a light beam appears to bend in an accelerating frame, it must also bend in a gravitational field; the natural way to describe light bending under gravity is that mass curves spacetime and light follows that curvature.",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch24-q010",
+      "type": "mc",
+      "text": "Astronomers infer a black hole in a binary when the unseen companion's mass exceeds about:",
+      "answer": "3 solar masses",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)",
+      "options": [
+        "0.5 solar masses",
+        "1.4 solar masses",
+        "3 solar masses",
+        "100 solar masses"
+      ]
     }
   ],
   "notes": [
+    {
+      "id": "ch24-note001",
+      "title": "Ch. 24 — Black Holes and Curved Spacetime",
+      "body": "# Black Holes and Curved Spacetime\n\n## General relativity\n- Gravity = **curvature of spacetime** by mass/energy.\n- **Equivalence principle:** gravity and acceleration are locally identical -> light bends in gravity -> spacetime is curved.\n- **Classic tests:** starlight bending (1919 eclipse), Mercury's perihelion precession, gravitational redshift/time dilation (GPS).\n\n## Black holes\n- **Event horizon:** boundary of no escape; its size = **Schwarzschild radius** (∝ mass, so double mass -> double radius).\n- **Singularity** at the center (infinite density).\n- Sun has NO event horizon (not crushed within ~3 km).\n- Falling in: **tidal stretching ('spaghettification')**; outside observers see the image freeze/redden at the horizon.\n\n## Finding the invisible\n- Detect via gravity: **X-rays** from an **accretion disk**, stars orbiting an unseen companion >~3 Msun, and **gravitational waves**.\n- **Gravitational waves:** ripples in spacetime (LIGO); distortions tinier than a nucleus.\n\n## ★ KEY EXAM POINTS\n- ★ GR: gravity = curved spacetime; equivalence principle -> light bends.\n- ★ Event horizon = no escape; **Schwarzschild radius ∝ mass** (2× mass = 2× radius).\n- ★ Sun has no event horizon (not within its ~3 km Schwarzschild radius).\n- ★ Detect black holes by X-rays, orbiting stars (>~3 Msun unseen mass), gravitational waves.\n",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch24",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch23-note001",
+      "title": "Ch. 23 — The Death of Stars",
+      "body": "# The Death of Stars\n\n## Low/intermediate-mass stars -> white dwarf\n- Red giant -> sheds outer layers (**planetary nebula**) -> hot **white dwarf** core.\n- Supported by **electron degeneracy**; max mass = **Chandrasekhar limit ~1.4 Msun**.\n\n## Massive stars -> supernova -> neutron star / black hole\n- Fuse up to an **iron core** (iron fusion absorbs energy) -> **core collapse** -> **Type II supernova**.\n- Leaves a **neutron star** (neutron degeneracy) or, if massive enough, a black hole.\n- **Pulsar:** spinning magnetized neutron star -> regular pulses (Crab Nebula is powered by its pulsar).\n\n## Two supernova types\n- **Type Ia:** white dwarf in a binary exceeds Chandrasekhar limit -> detonates (NO hydrogen lines).\n- **Type II:** core collapse of a single massive star (HAS hydrogen lines).\n\n## Related events\n- **Nova:** white dwarf flares from accreted H (survives, can recur) — NOT a supernova.\n- **Gamma-ray bursts:** long = massive-star collapse to black hole; short = compact-object mergers.\n- **SN 1987A:** neutrino burst confirmed core-collapse theory.\n\n## ★ KEY EXAM POINTS\n- ★ White dwarf (electron degeneracy, ≤1.4 Msun) vs neutron star (neutron degeneracy, ~20 km).\n- ★ Type Ia = white dwarf detonation (no H); Type II = massive-star core collapse (has H).\n- ★ Pulsar = spinning neutron star; powers the Crab Nebula.\n- ★ Nova ≠ supernova (non-destructive, recurring surface flash).\n",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch23",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch22-note001",
+      "title": "Ch. 22 — Stars from Adolescence to Old Age",
+      "body": "# Stars from Adolescence to Old Age\n\n## Life on (and off) the main sequence\n- Stars spend most of life fusing H on the **main sequence** (why most stars are seen there).\n- Core H gone -> inert He core contracts/heats -> **shell burning** -> swells into a **red giant**.\n- He ignites (**triple-alpha** -> carbon; needs higher T because He charge is bigger).\n- Later **asymptotic giant** (He+H shells); Sun-like stars stop at carbon/oxygen.\n\n## Luminosity depends on size too\n- L = 4 pi R² sigma T⁴ -> a huge cool **supergiant** (Betelgeuse) outshines the Sun.\n\n## Clusters = evolution labs\n- Same age/composition/distance, differ by **mass**.\n- **Main-sequence turnoff** dates the cluster (lower turnoff = older).\n- **Open** clusters: young, metal-rich, disk (Pop I, like the Sun). **Globular:** old, metal-poor, halo (Pop II).\n\n## Recycling\n- Stars forge heavy elements (**nucleosynthesis**) and return them via winds/nebulae/supernovae -> new stars/planets/you.\n\n## ★ KEY EXAM POINTS\n- ★ Core H gone -> red giant; He fuses via **triple-alpha** -> carbon.\n- ★ Most stars on main sequence (longest phase).\n- ★ **Turnoff** dates clusters; lower turnoff = older.\n- ★ Open = young/metal-rich; globular = old/metal-poor.\n- ★ Heavy elements made in stars, recycled into new generations.\n",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch22",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch21-note001",
+      "title": "Ch. 21 — The Birth of Stars and Exoplanets",
+      "body": "# The Birth of Stars and Exoplanets\n\n## Star formation\n- Stars form in **cold, dense molecular clouds** (low pressure -> gravity wins).\n- A core collapses -> heats -> **protostar** + **accretion disk**.\n- Contraction continues until core hits ~10 million K -> **hydrogen fusion** -> joins main sequence.\n- Best seen in **infrared** (sees through dust).\n- **T Tauri** young stars drive jets -> **Herbig-Haro objects**.\n- More massive protostars reach the main sequence **faster**.\n\n## Exoplanets\n- **Detection:** radial-velocity (Doppler wobble) + **transit** (starlight dip).\n- First around a Sun-like star: 51 Pegasi b, **1995**.\n- Surprises: **hot Jupiters**, super-Earths, eccentric/packed orbits -> **planetary migration** added to theory.\n\n## ★ KEY EXAM POINTS\n- ★ Stars form in cold molecular clouds; protostar -> fusion at ~10 million K -> main sequence.\n- ★ Massive protostars evolve faster.\n- ★ Exoplanet methods: radial-velocity (wobble) + transit (dip).\n- ★ Hot Jupiters -> evidence for planetary migration.\n",
+      "image": null,
+      "module": "week-6",
+      "chapter": "Ch21",
+      "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
     {
       "id": "ch19-note001",
       "title": "Ch. 19 — Celestial Distances",
