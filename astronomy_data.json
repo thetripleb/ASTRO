@@ -2285,6 +2285,15 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     },
     {
+      "id": "ch2-g016",
+      "term": "Proxima Centauri",
+      "def": "The nearest star to the Sun, located about 4.2 ly (265,613 AU) from Earth.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
       "id": "ch23-g007",
       "term": "pulsar",
       "def": "A rapidly spinning, magnetized neutron star that emits beams of radiation seen as regular pulses.",
@@ -3093,6 +3102,15 @@
       "module": "week-3",
       "chapter": "Ch10",
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
+    },
+    {
+      "id": "ch2-g017",
+      "term": "Visible universe",
+      "def": "The largest astronomical structure known, thought to be about 13.8 billion years old (the limit of how far we can see).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
     },
     {
       "id": "ch18-g007",
@@ -5408,6 +5426,150 @@
       "module": "week-1",
       "chapter": "Ch3",
       "source": "Course Video 7: The Gravity of the Situation (Week 1 lecture)"
+    },
+    {
+      "id": "ch1-f010",
+      "front": "When is a scientific theory proven correct?",
+      "back": "Never - data can support a conclusion, but nothing is ever proven (we don't know what we don't know).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch1-f012",
+      "front": "Format of scientific notation",
+      "back": "A number between 1 and 10 multiplied by a power of ten (e.g., 1,000,000,000,000 = 1 x 10^12).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch1-f013",
+      "front": "Sig fig rule: leading zeros",
+      "back": "Leading zeros are NEVER significant.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch1-f014",
+      "front": "Sig fig rule: trailing zeros",
+      "back": "Trailing zeros are significant ONLY if there is a decimal point somewhere in the number.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch1-f015",
+      "front": "Sig fig rule: sandwiched zeros",
+      "back": "Zeros between non-zero digits are ALWAYS significant.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch1-f016",
+      "front": "Sig figs when adding/subtracting",
+      "back": "Report to the same number of DECIMAL places as the value with the fewest (7.42 + 3.5 = 10.9).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch1-f017",
+      "front": "Sig figs when multiplying/dividing",
+      "back": "Report to the same number of SIG FIGS as the value with the fewest (100 x 53 = 5000; 100.0 x 53 = 5,300).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch2-f010",
+      "front": "How big and how old is the Sun?",
+      "back": "~100x Earth's diameter, ~300x more massive, ~5 billion years old (about halfway through its life).",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch2-f011",
+      "front": "How does the Sun generate energy?",
+      "back": "By converting (fusing) hydrogen into helium.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch2-f012",
+      "front": "How far and how big is the Moon?",
+      "back": "~250,000 miles away, ~1/4 Earth's diameter, ~1/80 of Earth's mass; an airless, pitted ball of rock.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch2-f013",
+      "front": "What is the nearest star to the Sun and how far?",
+      "back": "Proxima Centauri, about 4.2 ly (~25 trillion miles) away.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch2-f014",
+      "front": "What cluster is the Milky Way part of?",
+      "back": "The Local Group - a small cluster of several dozen galaxies, a few million ly across.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch2-f015",
+      "front": "Roughly how old is the visible universe?",
+      "back": "About 13.8 billion years.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch2-f016",
+      "front": "What is dark matter?",
+      "back": "Matter that emits no observed radiation; deduced to outweigh luminous matter ~5:1; may interact only via gravity and the weak force.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch2-f017",
+      "front": "What is dark energy?",
+      "back": "The energy thought to drive the accelerating expansion of the universe.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch2-f018",
+      "front": "Composition of the universe (approx.)",
+      "back": "~69% dark energy, ~25% dark matter, ~5% ordinary (atomic) matter.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
     }
   ],
   "questions": [
@@ -12166,9 +12328,123 @@
           "Faster than escape; even more open path"
         ]
       ]
+    },
+    {
+      "id": "ch1-q012",
+      "type": "sa",
+      "text": "List the rules for determining significant figures.",
+      "answer": "1) Leading zeros are never significant. 2) Trailing zeros are significant only if there is a decimal point in the number. 3) Non-zero digits are always significant. 4) Zeros sandwiched between non-zero digits are always significant.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch1-q013",
+      "type": "sa",
+      "text": "Describe what happens to a hypothesis if experimental data do NOT support it, and what happens if data are consistent over many repeated experiments.",
+      "answer": "If the data do not support the hypothesis, the hypothesis is reworked/revised and retested. If data DO support it, the experiment is repeated; if results stay consistent over many repetitions, a theory can be developed.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch1-q014",
+      "type": "match",
+      "text": "Match each scientific-method term to its description.",
+      "answer": "see pairs",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)",
+      "pairs": [
+        {
+          "left": "Independent variable",
+          "right": "Changed intentionally to test the hypothesis"
+        },
+        {
+          "left": "Dependent variable",
+          "right": "Changes in response to the independent variable"
+        },
+        {
+          "left": "Controlled variable",
+          "right": "Kept constant throughout the experiment"
+        },
+        {
+          "left": "Control group",
+          "right": "Run without an independent variable as a baseline"
+        }
+      ]
+    },
+    {
+      "id": "ch2-q012",
+      "type": "sa",
+      "text": "Explain why astronomers need more than one unit (meters, kilometers, AU, light-years, parsecs) to measure sizes and distances in space.",
+      "answer": "Sizes and distances in space span an enormous range. Meters and kilometers suit objects from meteoroids up to stars; the AU is convenient within the solar system; but the AU becomes unwieldy beyond it, so light-years and parsecs are used for distances to stars and galaxies. Each unit keeps the numbers at a manageable scale for the distances involved.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch2-q013",
+      "type": "sa",
+      "text": "Starting from Earth, describe our place in the universe by listing the structures from smallest to largest.",
+      "answer": "Earth is one of 8 planets orbiting the Sun (the solar system). The Sun is one of several hundred billion stars in the Milky Way Galaxy. The Milky Way is part of the Local Group of galaxies, which belongs to the Local (Virgo) Supercluster, which is part of even larger systems that fill the visible universe.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch2-q014",
+      "type": "match",
+      "text": "Match each cosmic distance unit to its approximate value.",
+      "answer": "see pairs",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)",
+      "pairs": [
+        {
+          "left": "1 Astronomical Unit",
+          "right": "~150 million km (Earth-Sun distance)"
+        },
+        {
+          "left": "1 Light-year",
+          "right": "~9.46 x 10^12 km (~6 trillion miles)"
+        },
+        {
+          "left": "1 Parsec",
+          "right": "~3.26 light-years"
+        },
+        {
+          "left": "Typical atom size",
+          "right": "~10^-10 m (0.1 nm)"
+        }
+      ]
     }
   ],
   "notes": [
+    {
+      "id": "ch2-n001",
+      "title": "Chapter 2 - The Size & Structure of Space",
+      "body": "CHAPTER 2 - THE SIZE & STRUCTURE OF SPACE\n\n== OUR PLACE IN THE UNIVERSE (smallest -> largest) ==\n- Earth is 1 of 8 planets orbiting the Sun.\n- The Sun is 1 of several hundred billion stars in the Milky Way Galaxy.\n- The Milky Way + 2 similar galaxies + dozens of smaller ones = the Local Group.\n- The Local Group is part of the Local (Virgo) Supercluster, part of even larger systems filling the visible universe.\n- Despite all the stars and galaxies, MOST of space is empty.\n\n== MATTER & ATOMS (the very small) ==\n- Matter is made of atoms: electrons surrounding a nucleus.\n- The nucleus = protons (+) and neutrons (neutral), densely packed; orbitals = electron clouds held by proton charge.\n- An atom is the smallest particle of an element that retains its properties; atoms bond into molecules and compounds.\n- Typical atom size ~10^-10 m (= 1 angstrom = 0.1 nm).\n- Atomic number = # protons = # electrons (identifies the element).\n- Atomic mass = # protons + # neutrons (in amu); proton and neutron = 1 amu each; electron ~ 0.\n  - Example (periodic table): Carbon, atomic number 6, symbol C, atomic mass 12.0.\n- The universe gets its structure from the electromagnetic force, the strong and weak forces (atomic scale), and gravity.\n\n== UNITS FOR SIZES IN SPACE ==\n- Meter: meteoroids, small asteroids/comets (e.g., a 25 m asteroid).\n- Kilometer (1 km = 1000 m): asteroids, comets, moons, dwarf planets, planets, stars (e.g., Rigel radius ~55 million km).\n- AU: average Earth-Sun distance ~150 million km = 1.496 x 10^8 km. Earth is closest to the Sun in January, farthest in July.\n  - Example: Jupiter is 778,500,000 km = 5.2 AU from the Sun (5.2x Earth's distance).\n  - The AU stops being useful beyond the solar system (Proxima Centauri = 265,613 AU; Andromeda = 1.6 x 10^11 AU).\n- Light-year: 1 ly = 9.461 x 10^12 km = 63,241.1 AU. Proxima Centauri is 4.2 ly away (light takes 4.2 yr to travel there).\n- Parsec: defined via parallax (a 1 arcsecond angle as Earth orbits); 1 pc = 3.26 ly. GN-z11, one of the farthest/oldest galaxies, is ~9.8 billion pc (31.9 billion ly) away.\n- Quick reference: 1 AU ~93 million miles; light speed ~300 million m/s (186,000 mi/s); 1 ly ~6 trillion miles (~10 trillion km).\n\n== A TOUR OF THE SOLAR SYSTEM ==\n- Order out from the Sun: Mercury, Venus, Earth, Mars, asteroid belt, Jupiter, Saturn, Uranus, Neptune, Kuiper belt, Oort cloud.\n- Moon: ~250,000 miles away; ~1/4 Earth's diameter; ~1/80 Earth's mass; airless, pitted rock.\n- Planet highlights: Mercury (cratered, airless); Venus (sulfuric-acid clouds); Earth (oceans, life); Mars (canyons, possible ancient water); Jupiter (giant storms; Great Red Spot ~Earth-sized); Saturn (icy ring fragments; 2nd largest); Uranus (dark rings, tipped spin); Neptune (deep blue, methane clouds).\n- The Sun: ball of gas (mostly H and He); ~100x Earth's diameter; ~300x more massive; fuses H -> He; ~5 billion years old (about halfway through its life).\n\n== THE MILKY WAY & BEYOND ==\n- Milky Way: several hundred billion stars, ~100,000 ly across; Sun ~27,000 ly from center, orbiting at 150 mi/s (~210 million yr per orbit).\n- Nearest star: Proxima Centauri, ~25 trillion miles (~4.2 ly); essentially empty space between.\n- Galaxy clusters: Milky Way is in the Local Group (a few dozen galaxies, a few million ly across) -> Virgo Supercluster (hundreds of groups, ~100 million ly) -> Great Attractor region (>300 million ly).\n- The visible universe is the largest known structure, ~13.8 billion years old (how far we can see).\n\n== THE STILL-UNKNOWN UNIVERSE ==\n- Most of the universe is NOT planets, stars, or galaxies.\n- Dark matter: emits no observed radiation; outweighs luminous matter ~5:1; may interact only via gravity and the weak force.\n- The Big Bang (~13.8 billion yr ago) created time and space and started cosmic expansion; the expansion is ACCELERATING.\n- Dark energy is the name for whatever drives that accelerating expansion.\n- Approximate composition: dark energy ~69%, dark matter ~25%, atomic matter ~5% (plus tiny fractions of neutrinos, photons, black holes).\n\n=========================================\n★ KEY EXAM POINTS ★\n- Order of scale: Earth -> Solar System -> Milky Way -> Local Group -> Supercluster -> visible universe.\n- Atomic number = protons = electrons; atomic mass = protons + neutrons (amu).\n- Match the unit to the distance: km (solar-system bodies), AU (within solar system), ly & pc (stars/galaxies).\n- 1 AU ~150 million km; 1 ly ~9.46 x 10^12 km; 1 pc = 3.26 ly.\n- Sun fuses H into He; ~5 billion yr old, halfway through its life.\n- Universe ~13.8 billion yr old; composition ~69% dark energy, ~25% dark matter, ~5% ordinary matter.\n- Dark matter outweighs luminous matter ~5:1; dark energy drives accelerating expansion.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "2",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
+    {
+      "id": "ch1-n001",
+      "title": "Chapter 1 - Intro to Astronomy & the Nature of Science",
+      "body": "CHAPTER 1 - INTRODUCTION TO ASTRONOMY & THE NATURE OF SCIENCE\n\n== THE NATURE OF ASTRONOMY ==\n- Astronomy is the study of objects beyond our planet and the processes by which they interact.\n- The universe is DYNAMIC, not static.\n- Tracing the universe's evolution and predicting its future are central to modern astronomy.\n\n== THE NATURE OF SCIENCE ==\n- Science is both a BODY OF KNOWLEDGE and a METHOD for understanding, organizing, and communicating it.\n- Discovery begins with curiosity: observe a phenomenon and ask questions.\n\n== THE SCIENTIFIC METHOD (steps) ==\n1. Make observations\n   - Observation = information obtained through the senses.\n   - Inference = a conclusion drawn from observations.\n2. Develop a question or problem.\n3. Form a hypothesis (a proposed answer; must be TESTABLE).\n4. Test the hypothesis:\n   - Independent variable = changed intentionally (manipulated).\n   - Dependent variable = changes in response (responding).\n   - Controlled variable(s) = kept constant.\n   - Control group = a setup run without the independent variable.\n5. Analyze data and draw conclusions:\n   - Not supported -> rework the hypothesis and retest.\n   - Supported -> repeat the experiment.\n   - Consistent over many repetitions -> a theory can develop.\n\n== TYPES OF DATA ==\n- Qualitative: descriptions; observed but not measured (color, texture, smell, appearance). Qualitative -> QUALITY.\n- Quantitative: numbers; measured (length, volume, weight, speed, time, temperature). Quantitative -> QUANTITY.\n\n== THEORIES & LAWS ==\n- Scientific theory = a well-tested EXPLANATION for a set of observations.\n- Scientific law = a statement that SUMMARIZES a pattern in nature; it describes but does not explain.\n- A theory is never 'proven' - data can support it, but nothing is proven ('we don't know what we don't know').\n\n== NUMBERS IN ASTRONOMY ==\n- Numbers in astronomy are very large, so scientific notation is used: a number between 1 and 10 x a power of ten.\n  - 1,000,000 = 1 x 10^6;  1,000,000,000,000 = 1 x 10^12\n- New units are invented when standard ones are unwieldy:\n  - Light-year (ly) = distance light travels in one year = 9.46 x 10^12 km.\n  - Astronomical Unit (AU) = average Earth-Sun distance = 1.496 x 10^8 km.\n  - Parsec (pc) = 3.262 ly = 3.086 x 10^12 km.\n\n== SIGNIFICANT FIGURES ==\nRules: 1) Leading zeros are never significant. 2) Trailing zeros count only with a decimal point present. 3) Non-zero digits are always significant. 4) Zeros sandwiched between non-zeros are always significant.\nIn equations:\n  - Add/Subtract -> match the fewest DECIMAL places (7.42 + 3.5 = 10.9).\n  - Multiply/Divide -> match the fewest SIG FIGS (100 x 53 = 5000; 100.0 x 53 = 5,300).\n\n=========================================\n★ KEY EXAM POINTS ★\n- Observation (senses) vs. inference (conclusion from observations).\n- Independent = manipulated; dependent = responding; control group has NO independent variable.\n- Theory EXPLAINS; law DESCRIBES. Nothing in science is ever 'proven.'\n- Scientific notation format: 1-10 x power of ten.\n- Sig figs: leading zeros never count; trailing zeros need a decimal; +/- match decimals, x/divide match sig figs.\n- Memorize: 1 ly = 9.46 x 10^12 km; 1 AU = 1.496 x 10^8 km; 1 pc = 3.26 ly.",
+      "image": null,
+      "module": "mod-1",
+      "chapter": "1",
+      "source": "Intro to Astronomy lecture slides (Ch 1-2)"
+    },
     {
       "id": "v7-note001",
       "title": "Video 7 — The Gravity of the Situation",
