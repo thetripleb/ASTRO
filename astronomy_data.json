@@ -14059,5 +14059,11 @@
       "source": "Fraknoi, Morrison & Wolff (2022), Astronomy 2e (OpenStax)"
     }
   ],
-  "questionStats": {}
+  "questionStats": {
+    "ch2-sg-q001": {
+      "asked": 1,
+      "correct": 0,
+      "incorrect": 0
+    }
+  }
 }
